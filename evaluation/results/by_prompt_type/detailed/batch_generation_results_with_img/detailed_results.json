@@ -1,0 +1,4795 @@
+[
+  {
+    "uuid": "037eebc6-1869-473d-bb7b-962e2b1d3b7f",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 39.21cm, top width 10.06cm, bottom width 6.1cm, depth 5.03cm, wall 0.47cm, rect notch 4.28x2.88cm",
+    "prompt_dimensions": {
+      "total_length": 392.1,
+      "top_width": 100.60000000000001,
+      "bottom_width": 61.0,
+      "channel_depth": 50.300000000000004,
+      "wall_thickness": 4.699999999999999,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.34887290000916,
+      "width_x": 51.383498311042786,
+      "depth_z": 47.165706753730774,
+      "top_width": 11.113916406079474,
+      "bottom_width": 31.321069085871617,
+      "channel_depth": 47.165706753730774
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 392.1,
+        "model_value": 199.34887290000916,
+        "absolute_diff": 192.75112709999087,
+        "percentage_diff": 49.15866541698313
+      },
+      "top_width": {
+        "prompt_value": 100.60000000000001,
+        "model_value": 11.113916406079474,
+        "absolute_diff": 89.48608359392054,
+        "percentage_diff": 88.9523693776546
+      },
+      "bottom_width": {
+        "prompt_value": 61.0,
+        "model_value": 31.321069085871617,
+        "absolute_diff": 29.678930914128383,
+        "percentage_diff": 48.65398510512849
+      },
+      "channel_depth": {
+        "prompt_value": 50.300000000000004,
+        "model_value": 47.165706753730774,
+        "absolute_diff": 3.1342932462692303,
+        "percentage_diff": 6.231199296757913
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "21239a90-6584-41b3-be6a-f8aebbb12df2",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 41.66cm, top width 11.26cm, bottom width 7.21cm, depth 5.63cm, wall 0.4cm, rect notch 4.99x3.09cm",
+    "prompt_dimensions": {
+      "total_length": 416.59999999999997,
+      "top_width": 112.6,
+      "bottom_width": 72.1,
+      "channel_depth": 56.3,
+      "wall_thickness": 4.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 190.49702882766724,
+      "width_x": 49.60917532444,
+      "depth_z": 41.72384887933731,
+      "top_width": 17.504491386636815,
+      "bottom_width": 30.38488043465209,
+      "channel_depth": 41.72384887933731
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 416.59999999999997,
+        "model_value": 190.49702882766724,
+        "absolute_diff": 226.10297117233273,
+        "percentage_diff": 54.27339682485184
+      },
+      "top_width": {
+        "prompt_value": 112.6,
+        "model_value": 17.504491386636815,
+        "absolute_diff": 95.09550861336318,
+        "percentage_diff": 84.45427052696553
+      },
+      "bottom_width": {
+        "prompt_value": 72.1,
+        "model_value": 30.38488043465209,
+        "absolute_diff": 41.715119565347905,
+        "percentage_diff": 57.85730868980292
+      },
+      "channel_depth": {
+        "prompt_value": 56.3,
+        "model_value": 41.72384887933731,
+        "absolute_diff": 14.576151120662686,
+        "percentage_diff": 25.890144086434614
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "d3e22242-1c40-4a42-9c34-4c4b54e308b8",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.13cm, top width 13.37cm, bottom width 8.74cm, depth 6.68cm, wall 0.35cm, rect notch 5.1x2.88cm",
+    "prompt_dimensions": {
+      "total_length": 471.3,
+      "top_width": 133.7,
+      "bottom_width": 87.4,
+      "channel_depth": 66.8,
+      "wall_thickness": 3.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.76508021354675,
+      "width_x": 124.5880275964737,
+      "depth_z": 82.43856430053711,
+      "top_width": 79.97402930333894,
+      "bottom_width": 111.58599359771164,
+      "channel_depth": 82.43856430053711
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 471.3,
+        "model_value": 199.76508021354675,
+        "absolute_diff": 271.53491978645326,
+        "percentage_diff": 57.61402923540276
+      },
+      "top_width": {
+        "prompt_value": 133.7,
+        "model_value": 79.97402930333894,
+        "absolute_diff": 53.72597069666105,
+        "percentage_diff": 40.18397209922293
+      },
+      "bottom_width": {
+        "prompt_value": 87.4,
+        "model_value": 111.58599359771164,
+        "absolute_diff": 24.18599359771163,
+        "percentage_diff": 27.672761553445795
+      },
+      "channel_depth": {
+        "prompt_value": 66.8,
+        "model_value": 82.43856430053711,
+        "absolute_diff": 15.638564300537112,
+        "percentage_diff": 23.411024402001665
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "4b5f0bea-415e-4e09-92ca-3a9b7ca743de",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.98cm, top width 13.26cm, bottom width 8.09cm, depth 6.63cm, wall 0.43cm, rect notch 4.6x2.14cm",
+    "prompt_dimensions": {
+      "total_length": 479.79999999999995,
+      "top_width": 132.6,
+      "bottom_width": 80.9,
+      "channel_depth": 66.3,
+      "wall_thickness": 4.3,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.34183955192566,
+      "width_x": 198.8251268863678,
+      "depth_z": 40.60381501913071,
+      "top_width": 198.52824216346522,
+      "bottom_width": 198.74153506593996,
+      "channel_depth": 40.60381501913071
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 479.79999999999995,
+        "model_value": 199.34183955192566,
+        "absolute_diff": 280.4581604480743,
+        "percentage_diff": 58.45313890122432
+      },
+      "top_width": {
+        "prompt_value": 132.6,
+        "model_value": 198.52824216346522,
+        "absolute_diff": 65.92824216346523,
+        "percentage_diff": 49.71963964062235
+      },
+      "bottom_width": {
+        "prompt_value": 80.9,
+        "model_value": 198.74153506593996,
+        "absolute_diff": 117.84153506593995,
+        "percentage_diff": 145.6632077452904
+      },
+      "channel_depth": {
+        "prompt_value": 66.3,
+        "model_value": 40.60381501913071,
+        "absolute_diff": 25.69618498086929,
+        "percentage_diff": 38.75744341005926
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "5b64cf17-0333-4781-a77e-c1c85a821c07",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 46.57cm, top width 13.1cm, bottom width 8.73cm, depth 6.55cm, wall 0.48cm, rect notch 4.12x3.47cm",
+    "prompt_dimensions": {
+      "total_length": 465.7,
+      "top_width": 131.0,
+      "bottom_width": 87.30000000000001,
+      "channel_depth": 65.5,
+      "wall_thickness": 4.8,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.52640533447266,
+      "width_x": 51.989322900772095,
+      "depth_z": 42.84317046403885,
+      "top_width": 10.159373892545254,
+      "bottom_width": 30.86261658166985,
+      "channel_depth": 42.84317046403885
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 465.7,
+        "model_value": 199.52640533447266,
+        "absolute_diff": 266.17359466552733,
+        "percentage_diff": 57.15559258439497
+      },
+      "top_width": {
+        "prompt_value": 131.0,
+        "model_value": 10.159373892545254,
+        "absolute_diff": 120.84062610745474,
+        "percentage_diff": 92.24475275378225
+      },
+      "bottom_width": {
+        "prompt_value": 87.30000000000001,
+        "model_value": 30.86261658166985,
+        "absolute_diff": 56.43738341833016,
+        "percentage_diff": 64.64763278159238
+      },
+      "channel_depth": {
+        "prompt_value": 65.5,
+        "model_value": 42.84317046403885,
+        "absolute_diff": 22.65682953596115,
+        "percentage_diff": 34.5905794442155
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 49.62cm, top width 12.81cm, bottom width 8.6cm, depth 6.4cm, wall 0.43cm, rect notch 5.87x2.3cm",
+    "prompt_dimensions": {
+      "total_length": 496.2,
+      "top_width": 128.1,
+      "bottom_width": 86.0,
+      "channel_depth": 64.0,
+      "wall_thickness": 4.3,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.30932521820068,
+      "width_x": 51.23946666717529,
+      "depth_z": 42.17320382595062,
+      "top_width": 15.58551289405894,
+      "bottom_width": 31.513973940841574,
+      "channel_depth": 42.17320382595062
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 496.2,
+        "model_value": 199.30932521820068,
+        "absolute_diff": 296.8906747817993,
+        "percentage_diff": 59.8328647282949
+      },
+      "top_width": {
+        "prompt_value": 128.1,
+        "model_value": 15.58551289405894,
+        "absolute_diff": 112.51448710594106,
+        "percentage_diff": 87.83332326771355
+      },
+      "bottom_width": {
+        "prompt_value": 86.0,
+        "model_value": 31.513973940841574,
+        "absolute_diff": 54.48602605915843,
+        "percentage_diff": 63.35584425483538
+      },
+      "channel_depth": {
+        "prompt_value": 64.0,
+        "model_value": 42.17320382595062,
+        "absolute_diff": 21.826796174049377,
+        "percentage_diff": 34.10436902195215
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "9dcba73c-46ba-447b-bbec-156086f7a907",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 42.01cm, top width 11.34cm, bottom width 7.23cm, depth 5.67cm, wall 0.4cm, rect notch 4.27x2.19cm",
+    "prompt_dimensions": {
+      "total_length": 420.09999999999997,
+      "top_width": 113.4,
+      "bottom_width": 72.30000000000001,
+      "channel_depth": 56.7,
+      "wall_thickness": 4.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.373459815979,
+      "width_x": 51.82979702949524,
+      "depth_z": 45.489516854286194,
+      "top_width": 9.777509322095076,
+      "bottom_width": 30.92785259476415,
+      "channel_depth": 45.489516854286194
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 420.09999999999997,
+        "model_value": 199.373459815979,
+        "absolute_diff": 220.72654018402096,
+        "percentage_diff": 52.54142827517757
+      },
+      "top_width": {
+        "prompt_value": 113.4,
+        "model_value": 9.777509322095076,
+        "absolute_diff": 103.62249067790493,
+        "percentage_diff": 91.3778577406569
+      },
+      "bottom_width": {
+        "prompt_value": 72.30000000000001,
+        "model_value": 30.92785259476415,
+        "absolute_diff": 41.372147405235864,
+        "percentage_diff": 57.22288714417131
+      },
+      "channel_depth": {
+        "prompt_value": 56.7,
+        "model_value": 45.489516854286194,
+        "absolute_diff": 11.210483145713809,
+        "percentage_diff": 19.771575212899133
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "747e948c-4397-4c03-9d39-f6040e50e6e3",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 37.65cm, top width 10.97cm, bottom width 6.37cm, depth 5.49cm, wall 0.48cm, rect notch 5.55x2.42cm",
+    "prompt_dimensions": {
+      "total_length": 376.5,
+      "top_width": 109.7,
+      "bottom_width": 63.7,
+      "channel_depth": 54.900000000000006,
+      "wall_thickness": 4.8,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.46569800376892,
+      "width_x": 51.57126486301422,
+      "depth_z": 44.23636794090271,
+      "top_width": 11.568955770200695,
+      "bottom_width": 31.009667698971644,
+      "channel_depth": 44.23636794090271
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 376.5,
+        "model_value": 199.46569800376892,
+        "absolute_diff": 177.03430199623108,
+        "percentage_diff": 47.02106294720613
+      },
+      "top_width": {
+        "prompt_value": 109.7,
+        "model_value": 11.568955770200695,
+        "absolute_diff": 98.1310442297993,
+        "percentage_diff": 89.45400567894193
+      },
+      "bottom_width": {
+        "prompt_value": 63.7,
+        "model_value": 31.009667698971644,
+        "absolute_diff": 32.69033230102836,
+        "percentage_diff": 51.319202984345935
+      },
+      "channel_depth": {
+        "prompt_value": 54.900000000000006,
+        "model_value": 44.23636794090271,
+        "absolute_diff": 10.663632059097296,
+        "percentage_diff": 19.423737812563378
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "59a17985-f1e7-41ca-ac57-6875dfd67bab",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 42.17cm, top width 11.57cm, bottom width 7.68cm, depth 5.79cm, wall 0.49cm, rect notch 5.82x3.36cm",
+    "prompt_dimensions": {
+      "total_length": 421.70000000000005,
+      "top_width": 115.7,
+      "bottom_width": 76.8,
+      "channel_depth": 57.9,
+      "wall_thickness": 4.9,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.48208928108215,
+      "width_x": 51.72782689332962,
+      "depth_z": 42.605508863925934,
+      "top_width": 19.067093230229236,
+      "bottom_width": 30.45811404354038,
+      "channel_depth": 42.605508863925934
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 421.70000000000005,
+        "model_value": 199.48208928108215,
+        "absolute_diff": 222.2179107189179,
+        "percentage_diff": 52.69573410455723
+      },
+      "top_width": {
+        "prompt_value": 115.7,
+        "model_value": 19.067093230229236,
+        "absolute_diff": 96.63290676977077,
+        "percentage_diff": 83.52023057024267
+      },
+      "bottom_width": {
+        "prompt_value": 76.8,
+        "model_value": 30.45811404354038,
+        "absolute_diff": 46.34188595645962,
+        "percentage_diff": 60.34099733914013
+      },
+      "channel_depth": {
+        "prompt_value": 57.9,
+        "model_value": 42.605508863925934,
+        "absolute_diff": 15.294491136074065,
+        "percentage_diff": 26.41535602085331
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "cb94c627-f388-4b27-bef4-29ccad6cee19",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 36.32cm, top width 9.57cm, bottom width 6.33cm, depth 4.78cm, wall 0.44cm, rect notch 4.32x2.65cm",
+    "prompt_dimensions": {
+      "total_length": 363.2,
+      "top_width": 95.7,
+      "bottom_width": 63.3,
+      "channel_depth": 47.800000000000004,
+      "wall_thickness": 4.4,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.56060647964478,
+      "width_x": 52.1845817565918,
+      "depth_z": 43.21503043174744,
+      "top_width": 17.415401558819905,
+      "bottom_width": 28.94457360078023,
+      "channel_depth": 43.21503043174744
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 363.2,
+        "model_value": 199.56060647964478,
+        "absolute_diff": 163.6393935203552,
+        "percentage_diff": 45.0548990970141
+      },
+      "top_width": {
+        "prompt_value": 95.7,
+        "model_value": 17.415401558819905,
+        "absolute_diff": 78.2845984411801,
+        "percentage_diff": 81.8020882352979
+      },
+      "bottom_width": {
+        "prompt_value": 63.3,
+        "model_value": 28.94457360078023,
+        "absolute_diff": 34.355426399219766,
+        "percentage_diff": 54.27397535421764
+      },
+      "channel_depth": {
+        "prompt_value": 47.800000000000004,
+        "model_value": 43.21503043174744,
+        "absolute_diff": 4.584969568252568,
+        "percentage_diff": 9.591986544461438
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "4863d2c5-224c-4c01-b760-5e4535d4cc39",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 50.02cm, top width 12.59cm, bottom width 8.15cm, depth 6.3cm, wall 0.48cm, rect notch 5.68x2.83cm",
+    "prompt_dimensions": {
+      "total_length": 500.20000000000005,
+      "top_width": 125.9,
+      "bottom_width": 81.5,
+      "channel_depth": 63.0,
+      "wall_thickness": 4.8,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3437647819519,
+      "width_x": 49.967463314533234,
+      "depth_z": 48.11950773000717,
+      "top_width": 11.948928012684036,
+      "bottom_width": 28.816512594748538,
+      "channel_depth": 48.11950773000717
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 500.20000000000005,
+        "model_value": 199.3437647819519,
+        "absolute_diff": 300.85623521804814,
+        "percentage_diff": 60.14718816834228
+      },
+      "top_width": {
+        "prompt_value": 125.9,
+        "model_value": 11.948928012684036,
+        "absolute_diff": 113.95107198731597,
+        "percentage_diff": 90.50919141168862
+      },
+      "bottom_width": {
+        "prompt_value": 81.5,
+        "model_value": 28.816512594748538,
+        "absolute_diff": 52.68348740525146,
+        "percentage_diff": 64.64231583466436
+      },
+      "channel_depth": {
+        "prompt_value": 63.0,
+        "model_value": 48.11950773000717,
+        "absolute_diff": 14.880492269992828,
+        "percentage_diff": 23.619828999988616
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c48d51b3-4ff0-43e3-a12f-a34f8aa65304",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 48.99cm, top width 13.38cm, bottom width 8.01cm, depth 6.69cm, wall 0.44cm, rect notch 4.66x2.67cm",
+    "prompt_dimensions": {
+      "total_length": 489.90000000000003,
+      "top_width": 133.8,
+      "bottom_width": 80.1,
+      "channel_depth": 66.9,
+      "wall_thickness": 4.4,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.2756187915802,
+      "width_x": 52.20082402229309,
+      "depth_z": 42.14901179075241,
+      "top_width": 13.117830847219752,
+      "bottom_width": 31.853912919023376,
+      "channel_depth": 42.14901179075241
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 489.90000000000003,
+        "model_value": 199.2756187915802,
+        "absolute_diff": 290.62438120841983,
+        "percentage_diff": 59.32320498232697
+      },
+      "top_width": {
+        "prompt_value": 133.8,
+        "model_value": 13.117830847219752,
+        "absolute_diff": 120.68216915278026,
+        "percentage_diff": 90.19594107083726
+      },
+      "bottom_width": {
+        "prompt_value": 80.1,
+        "model_value": 31.853912919023376,
+        "absolute_diff": 48.24608708097662,
+        "percentage_diff": 60.23231845315434
+      },
+      "channel_depth": {
+        "prompt_value": 66.9,
+        "model_value": 42.14901179075241,
+        "absolute_diff": 24.750988209247595,
+        "percentage_diff": 36.996992838935114
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "331fceb3-578b-4aa1-8346-c6c8ccdb214a",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 38.36cm, top width 9.79cm, bottom width 6.35cm, depth 4.9cm, wall 0.5cm, rect notch 5.26x2.06cm",
+    "prompt_dimensions": {
+      "total_length": 383.6,
+      "top_width": 97.89999999999999,
+      "bottom_width": 63.5,
+      "channel_depth": 49.0,
+      "wall_thickness": 5.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.34497475624084,
+      "width_x": 52.64359712600708,
+      "depth_z": 42.072539031505585,
+      "top_width": 12.863513801731852,
+      "bottom_width": 30.8698176767903,
+      "channel_depth": 42.072539031505585
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 383.6,
+        "model_value": 199.34497475624084,
+        "absolute_diff": 184.25502524375918,
+        "percentage_diff": 48.03311398429592
+      },
+      "top_width": {
+        "prompt_value": 97.89999999999999,
+        "model_value": 12.863513801731852,
+        "absolute_diff": 85.03648619826814,
+        "percentage_diff": 86.86055791447205
+      },
+      "bottom_width": {
+        "prompt_value": 63.5,
+        "model_value": 30.8698176767903,
+        "absolute_diff": 32.630182323209695,
+        "percentage_diff": 51.38611389481842
+      },
+      "channel_depth": {
+        "prompt_value": 49.0,
+        "model_value": 42.072539031505585,
+        "absolute_diff": 6.927460968494415,
+        "percentage_diff": 14.13767544590697
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "78553371-74b5-4645-821d-95bea0d778d0",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.67cm, top width 12.71cm, bottom width 8.54cm, depth 6.36cm, wall 0.48cm, rect notch 5.45x2.26cm",
+    "prompt_dimensions": {
+      "total_length": 476.70000000000005,
+      "top_width": 127.10000000000001,
+      "bottom_width": 85.39999999999999,
+      "channel_depth": 63.6,
+      "wall_thickness": 4.8,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.44003224372864,
+      "width_x": 51.4458104968071,
+      "depth_z": 44.957515597343445,
+      "top_width": 12.66835006457615,
+      "bottom_width": 30.833127129063488,
+      "channel_depth": 44.957515597343445
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 476.70000000000005,
+        "model_value": 199.44003224372864,
+        "absolute_diff": 277.2599677562714,
+        "percentage_diff": 58.16235950414755
+      },
+      "top_width": {
+        "prompt_value": 127.10000000000001,
+        "model_value": 12.66835006457615,
+        "absolute_diff": 114.43164993542386,
+        "percentage_diff": 90.03276942204866
+      },
+      "bottom_width": {
+        "prompt_value": 85.39999999999999,
+        "model_value": 30.833127129063488,
+        "absolute_diff": 54.56687287093651,
+        "percentage_diff": 63.89563568025353
+      },
+      "channel_depth": {
+        "prompt_value": 63.6,
+        "model_value": 44.957515597343445,
+        "absolute_diff": 18.642484402656557,
+        "percentage_diff": 29.312082394114082
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "2ec2ce6f-cc48-435e-8b04-b342bd584136",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 50.18cm, top width 13.11cm, bottom width 8.22cm, depth 6.55cm, wall 0.37cm, rect notch 5.88x3.27cm",
+    "prompt_dimensions": {
+      "total_length": 501.8,
+      "top_width": 131.1,
+      "bottom_width": 82.2,
+      "channel_depth": 65.5,
+      "wall_thickness": 3.7,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.39807057380676,
+      "width_x": 52.64003574848175,
+      "depth_z": 44.72065269947052,
+      "top_width": 18.488674391592376,
+      "bottom_width": 31.201054834260567,
+      "channel_depth": 44.72065269947052
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 501.8,
+        "model_value": 199.39807057380676,
+        "absolute_diff": 302.40192942619325,
+        "percentage_diff": 60.263437510201925
+      },
+      "top_width": {
+        "prompt_value": 131.1,
+        "model_value": 18.488674391592376,
+        "absolute_diff": 112.61132560840761,
+        "percentage_diff": 85.89727353806835
+      },
+      "bottom_width": {
+        "prompt_value": 82.2,
+        "model_value": 31.201054834260567,
+        "absolute_diff": 50.998945165739435,
+        "percentage_diff": 62.0425123670796
+      },
+      "channel_depth": {
+        "prompt_value": 65.5,
+        "model_value": 44.72065269947052,
+        "absolute_diff": 20.77934730052948,
+        "percentage_diff": 31.724194351953404
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "52817538-1cb2-48b4-91af-f32e6351aabe",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 40.08cm, top width 9.62cm, bottom width 6.38cm, depth 4.81cm, wall 0.36cm, rect notch 5.75x3.4cm",
+    "prompt_dimensions": {
+      "total_length": 400.79999999999995,
+      "top_width": 96.19999999999999,
+      "bottom_width": 63.8,
+      "channel_depth": 48.099999999999994,
+      "wall_thickness": 3.5999999999999996,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.26578998565674,
+      "width_x": 52.00310945510864,
+      "depth_z": 45.92580795288086,
+      "top_width": 11.092136018519232,
+      "bottom_width": 29.367390958181833,
+      "channel_depth": 45.92580795288086
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 400.79999999999995,
+        "model_value": 199.26578998565674,
+        "absolute_diff": 201.53421001434322,
+        "percentage_diff": 50.28298653052477
+      },
+      "top_width": {
+        "prompt_value": 96.19999999999999,
+        "model_value": 11.092136018519232,
+        "absolute_diff": 85.10786398148076,
+        "percentage_diff": 88.46971307846235
+      },
+      "bottom_width": {
+        "prompt_value": 63.8,
+        "model_value": 29.367390958181833,
+        "absolute_diff": 34.43260904181817,
+        "percentage_diff": 53.96960664861782
+      },
+      "channel_depth": {
+        "prompt_value": 48.099999999999994,
+        "model_value": 45.92580795288086,
+        "absolute_diff": 2.174192047119135,
+        "percentage_diff": 4.520149786110468
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "de120618-ac87-45ec-9a52-620890322b22",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 49.9cm, top width 13.17cm, bottom width 8.75cm, depth 6.58cm, wall 0.39cm, rect notch 5.05x3.0cm",
+    "prompt_dimensions": {
+      "total_length": 499.0,
+      "top_width": 131.7,
+      "bottom_width": 87.5,
+      "channel_depth": 65.8,
+      "wall_thickness": 3.9000000000000004,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.4112193584442,
+      "width_x": 49.95977729558945,
+      "depth_z": 45.60270458459854,
+      "top_width": 10.162503936198588,
+      "bottom_width": 30.457117678252533,
+      "channel_depth": 45.60270458459854
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 499.0,
+        "model_value": 199.4112193584442,
+        "absolute_diff": 299.5887806415558,
+        "percentage_diff": 60.037831791894945
+      },
+      "top_width": {
+        "prompt_value": 131.7,
+        "model_value": 10.162503936198588,
+        "absolute_diff": 121.5374960638014,
+        "percentage_diff": 92.283596100077
+      },
+      "bottom_width": {
+        "prompt_value": 87.5,
+        "model_value": 30.457117678252533,
+        "absolute_diff": 57.04288232174747,
+        "percentage_diff": 65.19186551056853
+      },
+      "channel_depth": {
+        "prompt_value": 65.8,
+        "model_value": 45.60270458459854,
+        "absolute_diff": 20.197295415401456,
+        "percentage_diff": 30.69497783495662
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "62bfc4b2-f5a2-4495-9ccd-394ed027bbe1",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 41.98cm, top width 12.03cm, bottom width 7.33cm, depth 6.01cm, wall 0.48cm, rect notch 4.38x3.39cm",
+    "prompt_dimensions": {
+      "total_length": 419.79999999999995,
+      "top_width": 120.3,
+      "bottom_width": 73.3,
+      "channel_depth": 60.099999999999994,
+      "wall_thickness": 4.8,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.55204129219055,
+      "width_x": 199.050110578537,
+      "depth_z": 81.39020800590515,
+      "top_width": 198.69304387881934,
+      "bottom_width": 198.83746692196652,
+      "channel_depth": 81.39020800590515
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 419.79999999999995,
+        "model_value": 199.55204129219055,
+        "absolute_diff": 220.2479587078094,
+        "percentage_diff": 52.46497348923521
+      },
+      "top_width": {
+        "prompt_value": 120.3,
+        "model_value": 198.69304387881934,
+        "absolute_diff": 78.39304387881934,
+        "percentage_diff": 65.16462500317485
+      },
+      "bottom_width": {
+        "prompt_value": 73.3,
+        "model_value": 198.83746692196652,
+        "absolute_diff": 125.53746692196653,
+        "percentage_diff": 171.26530275848094
+      },
+      "channel_depth": {
+        "prompt_value": 60.099999999999994,
+        "model_value": 81.39020800590515,
+        "absolute_diff": 21.290208005905157,
+        "percentage_diff": 35.424638944933704
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "02ab3358-7d53-48b1-91f0-393ad47a993f",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 46.27cm, top width 13.13cm, bottom width 8.65cm, depth 6.57cm, wall 0.45cm, rect notch 4.73x2.71cm",
+    "prompt_dimensions": {
+      "total_length": 462.70000000000005,
+      "top_width": 131.3,
+      "bottom_width": 86.5,
+      "channel_depth": 65.7,
+      "wall_thickness": 4.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.40874576568604,
+      "width_x": 51.89491808414459,
+      "depth_z": 43.62725466489792,
+      "top_width": 12.40849889337813,
+      "bottom_width": 32.17588728663868,
+      "channel_depth": 43.62725466489792
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 462.70000000000005,
+        "model_value": 199.40874576568604,
+        "absolute_diff": 263.291254234314,
+        "percentage_diff": 56.903231950359626
+      },
+      "top_width": {
+        "prompt_value": 131.3,
+        "model_value": 12.40849889337813,
+        "absolute_diff": 118.89150110662189,
+        "percentage_diff": 90.54950579331445
+      },
+      "bottom_width": {
+        "prompt_value": 86.5,
+        "model_value": 32.17588728663868,
+        "absolute_diff": 54.32411271336132,
+        "percentage_diff": 62.802442443192284
+      },
+      "channel_depth": {
+        "prompt_value": 65.7,
+        "model_value": 43.62725466489792,
+        "absolute_diff": 22.072745335102084,
+        "percentage_diff": 33.59626382816147
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c3e467ac-5b0d-4bdf-8969-913dddc0cb7d",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 48.17cm, top width 12.99cm, bottom width 8.91cm, depth 6.49cm, wall 0.35cm, rect notch 5.83x2.04cm",
+    "prompt_dimensions": {
+      "total_length": 481.70000000000005,
+      "top_width": 129.9,
+      "bottom_width": 89.1,
+      "channel_depth": 64.9,
+      "wall_thickness": 3.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.26310181617737,
+      "width_x": 160.36418676376343,
+      "depth_z": 87.48742640018463,
+      "top_width": 11.075074913742682,
+      "bottom_width": 30.03371693402597,
+      "channel_depth": 87.48742640018463
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 481.70000000000005,
+        "model_value": 199.26310181617737,
+        "absolute_diff": 282.4368981838227,
+        "percentage_diff": 58.63336063604373
+      },
+      "top_width": {
+        "prompt_value": 129.9,
+        "model_value": 11.075074913742682,
+        "absolute_diff": 118.82492508625732,
+        "percentage_diff": 91.47415326116807
+      },
+      "bottom_width": {
+        "prompt_value": 89.1,
+        "model_value": 30.03371693402597,
+        "absolute_diff": 59.06628306597402,
+        "percentage_diff": 66.29212465316951
+      },
+      "channel_depth": {
+        "prompt_value": 64.9,
+        "model_value": 87.48742640018463,
+        "absolute_diff": 22.587426400184626,
+        "percentage_diff": 34.80343050875905
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "5d7b9888-91f4-4aa8-b702-1b8267fbcfb7",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 46.27cm, top width 12.8cm, bottom width 8.71cm, depth 6.4cm, wall 0.48cm, rect notch 4.55x3.35cm",
+    "prompt_dimensions": {
+      "total_length": 462.70000000000005,
+      "top_width": 128.0,
+      "bottom_width": 87.10000000000001,
+      "channel_depth": 64.0,
+      "wall_thickness": 4.8,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.31052923202515,
+      "width_x": 51.99197232723236,
+      "depth_z": 41.67956858873367,
+      "top_width": 10.379185980358475,
+      "bottom_width": 30.93354270833376,
+      "channel_depth": 41.67956858873367
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 462.70000000000005,
+        "model_value": 199.31052923202515,
+        "absolute_diff": 263.3894707679749,
+        "percentage_diff": 56.92445877846875
+      },
+      "top_width": {
+        "prompt_value": 128.0,
+        "model_value": 10.379185980358475,
+        "absolute_diff": 117.62081401964153,
+        "percentage_diff": 91.89126095284495
+      },
+      "bottom_width": {
+        "prompt_value": 87.10000000000001,
+        "model_value": 30.93354270833376,
+        "absolute_diff": 56.16645729166625,
+        "percentage_diff": 64.48502559318742
+      },
+      "channel_depth": {
+        "prompt_value": 64.0,
+        "model_value": 41.67956858873367,
+        "absolute_diff": 22.320431411266327,
+        "percentage_diff": 34.875674080103636
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "1c50e560-fbd4-4e5f-a7c1-71f7539fc127",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 39.75cm, top width 10.46cm, bottom width 6.62cm, depth 5.23cm, wall 0.45cm, rect notch 5.29x3.43cm",
+    "prompt_dimensions": {
+      "total_length": 397.5,
+      "top_width": 104.60000000000001,
+      "bottom_width": 66.2,
+      "channel_depth": 52.300000000000004,
+      "wall_thickness": 4.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.5924949645996,
+      "width_x": 197.74574041366577,
+      "depth_z": 64.53026831150055,
+      "top_width": 197.61591765905123,
+      "bottom_width": 197.62023045247318,
+      "channel_depth": 64.53026831150055
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 397.5,
+        "model_value": 199.5924949645996,
+        "absolute_diff": 197.9075050354004,
+        "percentage_diff": 49.7880515812328
+      },
+      "top_width": {
+        "prompt_value": 104.60000000000001,
+        "model_value": 197.61591765905123,
+        "absolute_diff": 93.01591765905123,
+        "percentage_diff": 88.92535149048874
+      },
+      "bottom_width": {
+        "prompt_value": 66.2,
+        "model_value": 197.62023045247318,
+        "absolute_diff": 131.42023045247316,
+        "percentage_diff": 198.519985577754
+      },
+      "channel_depth": {
+        "prompt_value": 52.300000000000004,
+        "model_value": 64.53026831150055,
+        "absolute_diff": 12.230268311500545,
+        "percentage_diff": 23.384834247610982
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 36.58cm, top width 9.9cm, bottom width 6.36cm, depth 4.95cm, wall 0.37cm, rect notch 5.04x2.22cm",
+    "prompt_dimensions": {
+      "total_length": 365.79999999999995,
+      "top_width": 99.0,
+      "bottom_width": 63.6,
+      "channel_depth": 49.5,
+      "wall_thickness": 3.7,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.59312677383423,
+      "width_x": 197.48407006263733,
+      "depth_z": 151.12043619155884,
+      "top_width": 197.3182502644672,
+      "bottom_width": 197.2834161829884,
+      "channel_depth": 151.12043619155884
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 365.79999999999995,
+        "model_value": 199.59312677383423,
+        "absolute_diff": 166.20687322616573,
+        "percentage_diff": 45.43654270808249
+      },
+      "top_width": {
+        "prompt_value": 99.0,
+        "model_value": 197.3182502644672,
+        "absolute_diff": 98.3182502644672,
+        "percentage_diff": 99.31136390350221
+      },
+      "bottom_width": {
+        "prompt_value": 63.6,
+        "model_value": 197.2834161829884,
+        "absolute_diff": 133.6834161829884,
+        "percentage_diff": 210.194050602183
+      },
+      "channel_depth": {
+        "prompt_value": 49.5,
+        "model_value": 151.12043619155884,
+        "absolute_diff": 101.62043619155884,
+        "percentage_diff": 205.29381048799763
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "159b05d1-2e94-475b-8f3a-9da9883d8296",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 50.14cm, top width 13.15cm, bottom width 8.19cm, depth 6.57cm, wall 0.39cm, rect notch 5.76x2.61cm",
+    "prompt_dimensions": {
+      "total_length": 501.4,
+      "top_width": 131.5,
+      "bottom_width": 81.89999999999999,
+      "channel_depth": 65.7,
+      "wall_thickness": 3.9000000000000004,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.28787350654602,
+      "width_x": 51.090437173843384,
+      "depth_z": 44.99307870864868,
+      "top_width": 18.238035191971687,
+      "bottom_width": 31.44387559728081,
+      "channel_depth": 44.99307870864868
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 501.4,
+        "model_value": 199.28787350654602,
+        "absolute_diff": 302.11212649345396,
+        "percentage_diff": 60.25371489697925
+      },
+      "top_width": {
+        "prompt_value": 131.5,
+        "model_value": 18.238035191971687,
+        "absolute_diff": 113.26196480802831,
+        "percentage_diff": 86.1307717171318
+      },
+      "bottom_width": {
+        "prompt_value": 81.89999999999999,
+        "model_value": 31.44387559728081,
+        "absolute_diff": 50.45612440271918,
+        "percentage_diff": 61.60698950270963
+      },
+      "channel_depth": {
+        "prompt_value": 65.7,
+        "model_value": 44.99307870864868,
+        "absolute_diff": 20.70692129135132,
+        "percentage_diff": 31.517384005100947
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "d53e640f-252a-4c75-90f7-73c46d7c41d1",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 45.78cm, top width 11.4cm, bottom width 7.13cm, depth 5.7cm, wall 0.41cm, rect notch 4.44x2.01cm",
+    "prompt_dimensions": {
+      "total_length": 457.8,
+      "top_width": 114.0,
+      "bottom_width": 71.3,
+      "channel_depth": 57.0,
+      "wall_thickness": 4.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 200.593101978302,
+      "width_x": 199.36628341674805,
+      "depth_z": 43.077464401721954,
+      "top_width": 197.72903053214984,
+      "bottom_width": 198.47393781198485,
+      "channel_depth": 43.077464401721954
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 457.8,
+        "model_value": 200.593101978302,
+        "absolute_diff": 257.206898021698,
+        "percentage_diff": 56.18324552680166
+      },
+      "top_width": {
+        "prompt_value": 114.0,
+        "model_value": 197.72903053214984,
+        "absolute_diff": 83.72903053214984,
+        "percentage_diff": 73.44651801065774
+      },
+      "bottom_width": {
+        "prompt_value": 71.3,
+        "model_value": 198.47393781198485,
+        "absolute_diff": 127.17393781198486,
+        "percentage_diff": 178.3645691612691
+      },
+      "channel_depth": {
+        "prompt_value": 57.0,
+        "model_value": 43.077464401721954,
+        "absolute_diff": 13.922535598278046,
+        "percentage_diff": 24.425501049610606
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "45e3f599-9a81-49c2-9311-20c9b99dea26",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 37.24cm, top width 10.07cm, bottom width 6.06cm, depth 5.03cm, wall 0.45cm, rect notch 4.01x2.45cm",
+    "prompt_dimensions": {
+      "total_length": 372.40000000000003,
+      "top_width": 100.7,
+      "bottom_width": 60.599999999999994,
+      "channel_depth": 50.300000000000004,
+      "wall_thickness": 4.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.42803978919983,
+      "width_x": 49.92443174123764,
+      "depth_z": 45.721520483493805,
+      "top_width": 17.40613218488711,
+      "bottom_width": 29.90788525266866,
+      "channel_depth": 45.721520483493805
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 372.40000000000003,
+        "model_value": 199.42803978919983,
+        "absolute_diff": 172.9719602108002,
+        "percentage_diff": 46.44789479344796
+      },
+      "top_width": {
+        "prompt_value": 100.7,
+        "model_value": 17.40613218488711,
+        "absolute_diff": 83.29386781511289,
+        "percentage_diff": 82.71486376873176
+      },
+      "bottom_width": {
+        "prompt_value": 60.599999999999994,
+        "model_value": 29.90788525266866,
+        "absolute_diff": 30.692114747331335,
+        "percentage_diff": 50.64705403850056
+      },
+      "channel_depth": {
+        "prompt_value": 50.300000000000004,
+        "model_value": 45.721520483493805,
+        "absolute_diff": 4.578479516506199,
+        "percentage_diff": 9.102344963233
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 43.25cm, top width 11.7cm, bottom width 7.08cm, depth 5.85cm, wall 0.43cm, rect notch 5.29x2.35cm",
+    "prompt_dimensions": {
+      "total_length": 432.5,
+      "top_width": 117.0,
+      "bottom_width": 70.8,
+      "channel_depth": 58.5,
+      "wall_thickness": 4.3,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.35269355773926,
+      "width_x": 52.16819941997528,
+      "depth_z": 41.96799695491791,
+      "top_width": 15.07436442241914,
+      "bottom_width": 29.709237111480686,
+      "channel_depth": 41.96799695491791
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 432.5,
+        "model_value": 199.35269355773926,
+        "absolute_diff": 233.14730644226074,
+        "percentage_diff": 53.906891662950464
+      },
+      "top_width": {
+        "prompt_value": 117.0,
+        "model_value": 15.07436442241914,
+        "absolute_diff": 101.92563557758086,
+        "percentage_diff": 87.1159278440862
+      },
+      "bottom_width": {
+        "prompt_value": 70.8,
+        "model_value": 29.709237111480686,
+        "absolute_diff": 41.09076288851931,
+        "percentage_diff": 58.03780068999902
+      },
+      "channel_depth": {
+        "prompt_value": 58.5,
+        "model_value": 41.96799695491791,
+        "absolute_diff": 16.532003045082092,
+        "percentage_diff": 28.259834265097595
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "55a1235a-d6df-4255-b89d-bb0e815e45d1",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.45cm, top width 13.33cm, bottom width 8.18cm, depth 6.66cm, wall 0.4cm, rect notch 5.89x3.29cm",
+    "prompt_dimensions": {
+      "total_length": 474.5,
+      "top_width": 133.3,
+      "bottom_width": 81.8,
+      "channel_depth": 66.6,
+      "wall_thickness": 4.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.41759705543518,
+      "width_x": 199.41091537475586,
+      "depth_z": 43.13172101974487,
+      "top_width": 198.99750593222905,
+      "bottom_width": 199.05628659054267,
+      "channel_depth": 43.13172101974487
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 474.5,
+        "model_value": 199.41759705543518,
+        "absolute_diff": 275.0824029445648,
+        "percentage_diff": 57.97310915586193
+      },
+      "top_width": {
+        "prompt_value": 133.3,
+        "model_value": 198.99750593222905,
+        "absolute_diff": 65.69750593222903,
+        "percentage_diff": 49.28545081187474
+      },
+      "bottom_width": {
+        "prompt_value": 81.8,
+        "model_value": 199.05628659054267,
+        "absolute_diff": 117.25628659054267,
+        "percentage_diff": 143.34509363147026
+      },
+      "channel_depth": {
+        "prompt_value": 66.6,
+        "model_value": 43.13172101974487,
+        "absolute_diff": 23.46827898025512,
+        "percentage_diff": 35.237656126509194
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "ec9d09be-d9d8-49df-9c93-c4e065e7d085",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 42.88cm, top width 11.3cm, bottom width 7.02cm, depth 5.65cm, wall 0.41cm, rect notch 4.04x3.47cm",
+    "prompt_dimensions": {
+      "total_length": 428.8,
+      "top_width": 113.0,
+      "bottom_width": 70.19999999999999,
+      "channel_depth": 56.5,
+      "wall_thickness": 4.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.31122660636902,
+      "width_x": 51.94799602031708,
+      "depth_z": 42.988477647304535,
+      "top_width": 11.879261133625041,
+      "bottom_width": 30.21172116723312,
+      "channel_depth": 42.988477647304535
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 428.8,
+        "model_value": 199.31122660636902,
+        "absolute_diff": 229.488773393631,
+        "percentage_diff": 53.51883707873857
+      },
+      "top_width": {
+        "prompt_value": 113.0,
+        "model_value": 11.879261133625041,
+        "absolute_diff": 101.12073886637496,
+        "percentage_diff": 89.48737952776546
+      },
+      "bottom_width": {
+        "prompt_value": 70.19999999999999,
+        "model_value": 30.21172116723312,
+        "absolute_diff": 39.988278832766866,
+        "percentage_diff": 56.96336016063657
+      },
+      "channel_depth": {
+        "prompt_value": 56.5,
+        "model_value": 42.988477647304535,
+        "absolute_diff": 13.511522352695465,
+        "percentage_diff": 23.914198854328255
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "117f960d-f64a-4e12-92b9-e810c99c5de4",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 44.75cm, top width 11.55cm, bottom width 7.22cm, depth 5.77cm, wall 0.32cm, rect notch 5.43x2.63cm",
+    "prompt_dimensions": {
+      "total_length": 447.5,
+      "top_width": 115.5,
+      "bottom_width": 72.2,
+      "channel_depth": 57.699999999999996,
+      "wall_thickness": 3.2,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3206024169922,
+      "width_x": 50.81809014081955,
+      "depth_z": 41.325169801712036,
+      "top_width": 13.505550716234579,
+      "bottom_width": 30.73486830668413,
+      "channel_depth": 41.325169801712036
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 447.5,
+        "model_value": 199.3206024169922,
+        "absolute_diff": 248.1793975830078,
+        "percentage_diff": 55.459083258772694
+      },
+      "top_width": {
+        "prompt_value": 115.5,
+        "model_value": 13.505550716234579,
+        "absolute_diff": 101.99444928376542,
+        "percentage_diff": 88.30688249676659
+      },
+      "bottom_width": {
+        "prompt_value": 72.2,
+        "model_value": 30.73486830668413,
+        "absolute_diff": 41.46513169331587,
+        "percentage_diff": 57.430930323152175
+      },
+      "channel_depth": {
+        "prompt_value": 57.699999999999996,
+        "model_value": 41.325169801712036,
+        "absolute_diff": 16.37483019828796,
+        "percentage_diff": 28.379255109684507
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b82aee73-85f4-4046-9a14-b9f1719e95d6",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.54cm, top width 12.86cm, bottom width 8.04cm, depth 6.43cm, wall 0.4cm, rect notch 4.33x3.27cm",
+    "prompt_dimensions": {
+      "total_length": 475.4,
+      "top_width": 128.6,
+      "bottom_width": 80.39999999999999,
+      "channel_depth": 64.3,
+      "wall_thickness": 4.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3683397769928,
+      "width_x": 52.2411584854126,
+      "depth_z": 43.81903558969498,
+      "top_width": 10.013515615726968,
+      "bottom_width": 29.30368774819838,
+      "channel_depth": 43.81903558969498
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 475.4,
+        "model_value": 199.3683397769928,
+        "absolute_diff": 276.0316602230072,
+        "percentage_diff": 58.063033282079765
+      },
+      "top_width": {
+        "prompt_value": 128.6,
+        "model_value": 10.013515615726968,
+        "absolute_diff": 118.58648438427302,
+        "percentage_diff": 92.21344042322941
+      },
+      "bottom_width": {
+        "prompt_value": 80.39999999999999,
+        "model_value": 29.30368774819838,
+        "absolute_diff": 51.096312251801606,
+        "percentage_diff": 63.552627178857726
+      },
+      "channel_depth": {
+        "prompt_value": 64.3,
+        "model_value": 43.81903558969498,
+        "absolute_diff": 20.48096441030502,
+        "percentage_diff": 31.85219970498448
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 43.88cm, top width 11.86cm, bottom width 7.08cm, depth 5.93cm, wall 0.47cm, rect notch 5.06x2.88cm",
+    "prompt_dimensions": {
+      "total_length": 438.8,
+      "top_width": 118.6,
+      "bottom_width": 70.8,
+      "channel_depth": 59.3,
+      "wall_thickness": 4.699999999999999,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.203360080719,
+      "width_x": 196.52990698814392,
+      "depth_z": 198.07851910591125,
+      "top_width": 196.32751334374947,
+      "bottom_width": 196.39537810068055,
+      "channel_depth": 198.07851910591125
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 438.8,
+        "model_value": 199.203360080719,
+        "absolute_diff": 239.59663991928102,
+        "percentage_diff": 54.60269824960825
+      },
+      "top_width": {
+        "prompt_value": 118.6,
+        "model_value": 196.32751334374947,
+        "absolute_diff": 77.72751334374948,
+        "percentage_diff": 65.53753233031154
+      },
+      "bottom_width": {
+        "prompt_value": 70.8,
+        "model_value": 196.39537810068055,
+        "absolute_diff": 125.59537810068055,
+        "percentage_diff": 177.39460183711944
+      },
+      "channel_depth": {
+        "prompt_value": 59.3,
+        "model_value": 198.07851910591125,
+        "absolute_diff": 138.77851910591124,
+        "percentage_diff": 234.02785683964797
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "71c30d10-df22-4373-b56d-593807d73852",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 45.43cm, top width 12.24cm, bottom width 7.89cm, depth 6.12cm, wall 0.33cm, rect notch 4.52x2.0cm",
+    "prompt_dimensions": {
+      "total_length": 454.3,
+      "top_width": 122.4,
+      "bottom_width": 78.89999999999999,
+      "channel_depth": 61.2,
+      "wall_thickness": 3.3000000000000003,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.32502508163452,
+      "width_x": 50.96067488193512,
+      "depth_z": 41.830743849277496,
+      "top_width": 15.123642386309555,
+      "bottom_width": 31.241608799916353,
+      "channel_depth": 41.830743849277496
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 454.3,
+        "model_value": 199.32502508163452,
+        "absolute_diff": 254.9749749183655,
+        "percentage_diff": 56.12480187505293
+      },
+      "top_width": {
+        "prompt_value": 122.4,
+        "model_value": 15.123642386309555,
+        "absolute_diff": 107.27635761369045,
+        "percentage_diff": 87.64408301772096
+      },
+      "bottom_width": {
+        "prompt_value": 78.89999999999999,
+        "model_value": 31.241608799916353,
+        "absolute_diff": 47.65839120008364,
+        "percentage_diff": 60.40353764269156
+      },
+      "channel_depth": {
+        "prompt_value": 61.2,
+        "model_value": 41.830743849277496,
+        "absolute_diff": 19.369256150722507,
+        "percentage_diff": 31.649111357389714
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c89f2274-cefb-4631-aa2b-81f9b1c23c8b",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 50.4cm, top width 13.29cm, bottom width 8.7cm, depth 6.65cm, wall 0.3cm, rect notch 5.21x2.17cm",
+    "prompt_dimensions": {
+      "total_length": 504.0,
+      "top_width": 132.89999999999998,
+      "bottom_width": 87.0,
+      "channel_depth": 66.5,
+      "wall_thickness": 3.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3817925453186,
+      "width_x": 52.49713063240051,
+      "depth_z": 42.43418872356415,
+      "top_width": 14.392582024146986,
+      "bottom_width": 30.50553404646623,
+      "channel_depth": 42.43418872356415
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 504.0,
+        "model_value": 199.3817925453186,
+        "absolute_diff": 304.6182074546814,
+        "percentage_diff": 60.440120526722495
+      },
+      "top_width": {
+        "prompt_value": 132.89999999999998,
+        "model_value": 14.392582024146986,
+        "absolute_diff": 118.50741797585299,
+        "percentage_diff": 89.17036717520918
+      },
+      "bottom_width": {
+        "prompt_value": 87.0,
+        "model_value": 30.50553404646623,
+        "absolute_diff": 56.49446595353377,
+        "percentage_diff": 64.9361677626825
+      },
+      "channel_depth": {
+        "prompt_value": 66.5,
+        "model_value": 42.43418872356415,
+        "absolute_diff": 24.065811276435852,
+        "percentage_diff": 36.18918988937722
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "780e7aca-2c10-47b4-a122-97ae8b362aea",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 41.78cm, top width 11.43cm, bottom width 7.05cm, depth 5.71cm, wall 0.47cm, rect notch 5.26x3.13cm",
+    "prompt_dimensions": {
+      "total_length": 417.8,
+      "top_width": 114.3,
+      "bottom_width": 70.5,
+      "channel_depth": 57.1,
+      "wall_thickness": 4.699999999999999,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.41895604133606,
+      "width_x": 198.7185776233673,
+      "depth_z": 42.94310212135315,
+      "top_width": 197.91814919004298,
+      "bottom_width": 198.68188068513433,
+      "channel_depth": 42.94310212135315
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 417.8,
+        "model_value": 199.41895604133606,
+        "absolute_diff": 218.38104395866395,
+        "percentage_diff": 52.269278113610326
+      },
+      "top_width": {
+        "prompt_value": 114.3,
+        "model_value": 197.91814919004298,
+        "absolute_diff": 83.61814919004298,
+        "percentage_diff": 73.15673594929395
+      },
+      "bottom_width": {
+        "prompt_value": 70.5,
+        "model_value": 198.68188068513433,
+        "absolute_diff": 128.18188068513433,
+        "percentage_diff": 181.81827047536785
+      },
+      "channel_depth": {
+        "prompt_value": 57.1,
+        "model_value": 42.94310212135315,
+        "absolute_diff": 14.156897878646852,
+        "percentage_diff": 24.79316616225368
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "a4cf910b-25aa-424b-a484-e83ff6a7437d",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.26cm, top width 12.71cm, bottom width 8.48cm, depth 6.35cm, wall 0.46cm, rect notch 4.17x2.42cm",
+    "prompt_dimensions": {
+      "total_length": 472.59999999999997,
+      "top_width": 127.10000000000001,
+      "bottom_width": 84.80000000000001,
+      "channel_depth": 63.5,
+      "wall_thickness": 4.6000000000000005,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.17774200439453,
+      "width_x": 49.83939975500107,
+      "depth_z": 43.591587245464325,
+      "top_width": 9.995020167208816,
+      "bottom_width": 29.456489172616656,
+      "channel_depth": 43.591587245464325
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 472.59999999999997,
+        "model_value": 199.17774200439453,
+        "absolute_diff": 273.42225799560543,
+        "percentage_diff": 57.85490012602739
+      },
+      "top_width": {
+        "prompt_value": 127.10000000000001,
+        "model_value": 9.995020167208816,
+        "absolute_diff": 117.10497983279119,
+        "percentage_diff": 92.13609742941871
+      },
+      "bottom_width": {
+        "prompt_value": 84.80000000000001,
+        "model_value": 29.456489172616656,
+        "absolute_diff": 55.343510827383355,
+        "percentage_diff": 65.26357408889545
+      },
+      "channel_depth": {
+        "prompt_value": 63.5,
+        "model_value": 43.591587245464325,
+        "absolute_diff": 19.908412754535675,
+        "percentage_diff": 31.351831109505003
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b7e582f1-7374-493e-a56a-6843fb9b1a05",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 49.33cm, top width 12.87cm, bottom width 8.82cm, depth 6.44cm, wall 0.42cm, rect notch 4.58x2.29cm",
+    "prompt_dimensions": {
+      "total_length": 493.29999999999995,
+      "top_width": 128.7,
+      "bottom_width": 88.2,
+      "channel_depth": 64.4,
+      "wall_thickness": 4.2,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.35299158096313,
+      "width_x": 52.50817835330963,
+      "depth_z": 45.75231075286865,
+      "top_width": 14.656894769579676,
+      "bottom_width": 31.021090485273167,
+      "channel_depth": 45.75231075286865
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 493.29999999999995,
+        "model_value": 199.35299158096313,
+        "absolute_diff": 293.9470084190368,
+        "percentage_diff": 59.58787926597139
+      },
+      "top_width": {
+        "prompt_value": 128.7,
+        "model_value": 14.656894769579676,
+        "absolute_diff": 114.04310523042031,
+        "percentage_diff": 88.61158137561796
+      },
+      "bottom_width": {
+        "prompt_value": 88.2,
+        "model_value": 31.021090485273167,
+        "absolute_diff": 57.17890951472684,
+        "percentage_diff": 64.82869559492839
+      },
+      "channel_depth": {
+        "prompt_value": 64.4,
+        "model_value": 45.75231075286865,
+        "absolute_diff": 18.647689247131353,
+        "percentage_diff": 28.956039203620108
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "437cad5a-ed5b-4085-872c-b294ba7da52f",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 38.73cm, top width 10.08cm, bottom width 6.59cm, depth 5.04cm, wall 0.45cm, rect notch 5.53x2.89cm",
+    "prompt_dimensions": {
+      "total_length": 387.29999999999995,
+      "top_width": 100.8,
+      "bottom_width": 65.9,
+      "channel_depth": 50.4,
+      "wall_thickness": 4.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.36628341674805,
+      "width_x": 52.169495820999146,
+      "depth_z": 43.913474678993225,
+      "top_width": 11.940490505745977,
+      "bottom_width": 30.534794741559256,
+      "channel_depth": 43.913474678993225
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 387.29999999999995,
+        "model_value": 199.36628341674805,
+        "absolute_diff": 187.9337165832519,
+        "percentage_diff": 48.52406831480814
+      },
+      "top_width": {
+        "prompt_value": 100.8,
+        "model_value": 11.940490505745977,
+        "absolute_diff": 88.85950949425401,
+        "percentage_diff": 88.15427529191867
+      },
+      "bottom_width": {
+        "prompt_value": 65.9,
+        "model_value": 30.534794741559256,
+        "absolute_diff": 35.36520525844075,
+        "percentage_diff": 53.664954868650604
+      },
+      "channel_depth": {
+        "prompt_value": 50.4,
+        "model_value": 43.913474678993225,
+        "absolute_diff": 6.4865253210067735,
+        "percentage_diff": 12.870089922632488
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8bd4a7bc-6fec-4468-90db-3c38885d3c89",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 35.57cm, top width 10.07cm, bottom width 6.61cm, depth 5.04cm, wall 0.31cm, rect notch 5.16x3.27cm",
+    "prompt_dimensions": {
+      "total_length": 355.7,
+      "top_width": 100.7,
+      "bottom_width": 66.10000000000001,
+      "channel_depth": 50.4,
+      "wall_thickness": 3.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.35153126716614,
+      "width_x": 51.38406157493591,
+      "depth_z": 44.41978335380554,
+      "top_width": 14.839728003593745,
+      "bottom_width": 30.990100191507302,
+      "channel_depth": 44.41978335380554
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 355.7,
+        "model_value": 199.35153126716614,
+        "absolute_diff": 156.34846873283385,
+        "percentage_diff": 43.95515005140114
+      },
+      "top_width": {
+        "prompt_value": 100.7,
+        "model_value": 14.839728003593745,
+        "absolute_diff": 85.86027199640625,
+        "percentage_diff": 85.26342800040342
+      },
+      "bottom_width": {
+        "prompt_value": 66.10000000000001,
+        "model_value": 30.990100191507302,
+        "absolute_diff": 35.109899808492706,
+        "percentage_diff": 53.11633859076051
+      },
+      "channel_depth": {
+        "prompt_value": 50.4,
+        "model_value": 44.41978335380554,
+        "absolute_diff": 5.980216646194457,
+        "percentage_diff": 11.865509218639795
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "dffd03bb-1e72-49f1-8717-2c9bd2af13c2",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 41.51cm, top width 12.3cm, bottom width 7.69cm, depth 6.15cm, wall 0.38cm, rect notch 4.06x2.44cm",
+    "prompt_dimensions": {
+      "total_length": 415.09999999999997,
+      "top_width": 123.0,
+      "bottom_width": 76.9,
+      "channel_depth": 61.5,
+      "wall_thickness": 3.8,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.34502243995667,
+      "width_x": 51.3518750667572,
+      "depth_z": 41.583049297332764,
+      "top_width": 8.847814986536095,
+      "bottom_width": 30.495039122156932,
+      "channel_depth": 41.583049297332764
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 415.09999999999997,
+        "model_value": 199.34502243995667,
+        "absolute_diff": 215.7549775600433,
+        "percentage_diff": 51.97662673091865
+      },
+      "top_width": {
+        "prompt_value": 123.0,
+        "model_value": 8.847814986536095,
+        "absolute_diff": 114.1521850134639,
+        "percentage_diff": 92.80665448249098
+      },
+      "bottom_width": {
+        "prompt_value": 76.9,
+        "model_value": 30.495039122156932,
+        "absolute_diff": 46.404960877843074,
+        "percentage_diff": 60.34455250694808
+      },
+      "channel_depth": {
+        "prompt_value": 61.5,
+        "model_value": 41.583049297332764,
+        "absolute_diff": 19.916950702667236,
+        "percentage_diff": 32.385285695393875
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 45.62cm, top width 11.45cm, bottom width 7.18cm, depth 5.73cm, wall 0.45cm, rect notch 5.41x2.81cm",
+    "prompt_dimensions": {
+      "total_length": 456.2,
+      "top_width": 114.5,
+      "bottom_width": 71.8,
+      "channel_depth": 57.300000000000004,
+      "wall_thickness": 4.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3833839893341,
+      "width_x": 52.58208215236664,
+      "depth_z": 42.55760908126831,
+      "top_width": 13.923779433052513,
+      "bottom_width": 29.35257899956827,
+      "channel_depth": 42.55760908126831
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 456.2,
+        "model_value": 199.3833839893341,
+        "absolute_diff": 256.8166160106659,
+        "percentage_diff": 56.29474265906749
+      },
+      "top_width": {
+        "prompt_value": 114.5,
+        "model_value": 13.923779433052513,
+        "absolute_diff": 100.57622056694748,
+        "percentage_diff": 87.8394939449323
+      },
+      "bottom_width": {
+        "prompt_value": 71.8,
+        "model_value": 29.35257899956827,
+        "absolute_diff": 42.44742100043173,
+        "percentage_diff": 59.11897075269044
+      },
+      "channel_depth": {
+        "prompt_value": 57.300000000000004,
+        "model_value": 42.55760908126831,
+        "absolute_diff": 14.742390918731694,
+        "percentage_diff": 25.728430922742916
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8e20db67-63e1-45b0-b83a-d62021f7097e",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 36.29cm, top width 10.08cm, bottom width 6.74cm, depth 5.04cm, wall 0.44cm, rect notch 4.71x2.22cm",
+    "prompt_dimensions": {
+      "total_length": 362.9,
+      "top_width": 100.8,
+      "bottom_width": 67.4,
+      "channel_depth": 50.4,
+      "wall_thickness": 4.4,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.39295053482056,
+      "width_x": 50.710706412792206,
+      "depth_z": 44.02579665184021,
+      "top_width": 13.70946321328107,
+      "bottom_width": 28.294581815035336,
+      "channel_depth": 44.02579665184021
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 362.9,
+        "model_value": 199.39295053482056,
+        "absolute_diff": 163.50704946517942,
+        "percentage_diff": 45.05567634752809
+      },
+      "top_width": {
+        "prompt_value": 100.8,
+        "model_value": 13.70946321328107,
+        "absolute_diff": 87.09053678671893,
+        "percentage_diff": 86.39934205031639
+      },
+      "bottom_width": {
+        "prompt_value": 67.4,
+        "model_value": 28.294581815035336,
+        "absolute_diff": 39.10541818496467,
+        "percentage_diff": 58.01990828629773
+      },
+      "channel_depth": {
+        "prompt_value": 50.4,
+        "model_value": 44.02579665184021,
+        "absolute_diff": 6.374203348159789,
+        "percentage_diff": 12.647228865396407
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "e6e905a5-3f25-4dc7-bbde-8220f81a0a63",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, PLA, length 39.77cm, top width 10.28cm, bottom width 6.89cm, depth 5.14cm, wall 0.3cm, rect notch 4.9x2.7cm",
+    "prompt_dimensions": {
+      "total_length": 397.70000000000005,
+      "top_width": 102.8,
+      "bottom_width": 68.89999999999999,
+      "channel_depth": 51.4,
+      "wall_thickness": 3.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.1710662841797,
+      "width_x": 199.27908182144165,
+      "depth_z": 199.54131841659546,
+      "top_width": 198.9220315955903,
+      "bottom_width": 198.78342375328884,
+      "channel_depth": 199.54131841659546
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 397.70000000000005,
+        "model_value": 199.1710662841797,
+        "absolute_diff": 198.52893371582036,
+        "percentage_diff": 49.919269227010396
+      },
+      "top_width": {
+        "prompt_value": 102.8,
+        "model_value": 198.9220315955903,
+        "absolute_diff": 96.12203159559031,
+        "percentage_diff": 93.50392178559369
+      },
+      "bottom_width": {
+        "prompt_value": 68.89999999999999,
+        "model_value": 198.78342375328884,
+        "absolute_diff": 129.88342375328887,
+        "percentage_diff": 188.51004898880825
+      },
+      "channel_depth": {
+        "prompt_value": 51.4,
+        "model_value": 199.54131841659546,
+        "absolute_diff": 148.14131841659545,
+        "percentage_diff": 288.21268174434914
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "2711ae63-a7d8-4e9a-a987-4424eda5d6b6",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 37.63cm, top width 10.07cm, bottom width 6.65cm, depth 5.03cm, wall 0.47cm, rect notch 4.42x2.72cm",
+    "prompt_dimensions": {
+      "total_length": 376.3,
+      "top_width": 100.7,
+      "bottom_width": 66.5,
+      "channel_depth": 50.300000000000004,
+      "wall_thickness": 4.699999999999999,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.34407472610474,
+      "width_x": 52.463001012802124,
+      "depth_z": 40.23001044988632,
+      "top_width": 10.711194284291691,
+      "bottom_width": 29.383517335211355,
+      "channel_depth": 40.23001044988632
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 376.3,
+        "model_value": 199.34407472610474,
+        "absolute_diff": 176.95592527389528,
+        "percentage_diff": 47.025225956389924
+      },
+      "top_width": {
+        "prompt_value": 100.7,
+        "model_value": 10.711194284291691,
+        "absolute_diff": 89.98880571570831,
+        "percentage_diff": 89.36326287557925
+      },
+      "bottom_width": {
+        "prompt_value": 66.5,
+        "model_value": 29.383517335211355,
+        "absolute_diff": 37.11648266478865,
+        "percentage_diff": 55.81425964629872
+      },
+      "channel_depth": {
+        "prompt_value": 50.300000000000004,
+        "model_value": 40.23001044988632,
+        "absolute_diff": 10.069989550113682,
+        "percentage_diff": 20.01985994058386
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c60a4777-0de7-476c-9eeb-71bb181db983",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 45.09cm, top width 12.19cm, bottom width 7.27cm, depth 6.09cm, wall 0.37cm, rect notch 4.82x2.24cm",
+    "prompt_dimensions": {
+      "total_length": 450.90000000000003,
+      "top_width": 121.89999999999999,
+      "bottom_width": 72.69999999999999,
+      "channel_depth": 60.9,
+      "wall_thickness": 3.7,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.38543438911438,
+      "width_x": 51.82643532752991,
+      "depth_z": 42.120686173439026,
+      "top_width": 14.521070857831903,
+      "bottom_width": 30.81441825060274,
+      "channel_depth": 42.120686173439026
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 450.90000000000003,
+        "model_value": 199.38543438911438,
+        "absolute_diff": 251.51456561088565,
+        "percentage_diff": 55.78056456218356
+      },
+      "top_width": {
+        "prompt_value": 121.89999999999999,
+        "model_value": 14.521070857831903,
+        "absolute_diff": 107.37892914216809,
+        "percentage_diff": 88.08771873844799
+      },
+      "bottom_width": {
+        "prompt_value": 72.69999999999999,
+        "model_value": 30.81441825060274,
+        "absolute_diff": 41.88558174939725,
+        "percentage_diff": 57.61428026051891
+      },
+      "channel_depth": {
+        "prompt_value": 60.9,
+        "model_value": 42.120686173439026,
+        "absolute_diff": 18.779313826560973,
+        "percentage_diff": 30.836311702070564
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "d52cb13e-31c3-40f2-b02e-bab918564317",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 45.05cm, top width 11.25cm, bottom width 7.65cm, depth 5.62cm, wall 0.45cm, rect notch 4.76x2.53cm",
+    "prompt_dimensions": {
+      "total_length": 450.5,
+      "top_width": 112.5,
+      "bottom_width": 76.5,
+      "channel_depth": 56.2,
+      "wall_thickness": 4.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.4867205619812,
+      "width_x": 199.08294677734375,
+      "depth_z": 79.62373495101929,
+      "top_width": 198.50329125891747,
+      "bottom_width": 199.07318726210357,
+      "channel_depth": 79.62373495101929
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 450.5,
+        "model_value": 199.4867205619812,
+        "absolute_diff": 251.0132794380188,
+        "percentage_diff": 55.71881896515401
+      },
+      "top_width": {
+        "prompt_value": 112.5,
+        "model_value": 198.50329125891747,
+        "absolute_diff": 86.00329125891747,
+        "percentage_diff": 76.44737000792664
+      },
+      "bottom_width": {
+        "prompt_value": 76.5,
+        "model_value": 199.07318726210357,
+        "absolute_diff": 122.57318726210357,
+        "percentage_diff": 160.22638857791316
+      },
+      "channel_depth": {
+        "prompt_value": 56.2,
+        "model_value": 79.62373495101929,
+        "absolute_diff": 23.423734951019284,
+        "percentage_diff": 41.67924368508769
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b302c1a7-4a43-4730-9e10-e9afd0ced3e8",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.09cm, top width 12.7cm, bottom width 8.55cm, depth 6.35cm, wall 0.31cm, rect notch 4.55x2.34cm",
+    "prompt_dimensions": {
+      "total_length": 470.90000000000003,
+      "top_width": 127.0,
+      "bottom_width": 85.5,
+      "channel_depth": 63.5,
+      "wall_thickness": 3.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.31816458702087,
+      "width_x": 51.54088735580444,
+      "depth_z": 40.75320512056351,
+      "top_width": 17.72059637187555,
+      "bottom_width": 30.96040709565473,
+      "channel_depth": 40.75320512056351
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 470.90000000000003,
+        "model_value": 199.31816458702087,
+        "absolute_diff": 271.58183541297916,
+        "percentage_diff": 57.67293170800152
+      },
+      "top_width": {
+        "prompt_value": 127.0,
+        "model_value": 17.72059637187555,
+        "absolute_diff": 109.27940362812444,
+        "percentage_diff": 86.0467745103342
+      },
+      "bottom_width": {
+        "prompt_value": 85.5,
+        "model_value": 30.96040709565473,
+        "absolute_diff": 54.53959290434527,
+        "percentage_diff": 63.788997548941836
+      },
+      "channel_depth": {
+        "prompt_value": 63.5,
+        "model_value": 40.75320512056351,
+        "absolute_diff": 22.746794879436493,
+        "percentage_diff": 35.82172421958503
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "6a0df167-097e-411d-9ebe-57d4562cd793",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 48.67cm, top width 13.53cm, bottom width 8.39cm, depth 6.76cm, wall 0.34cm, rect notch 4.49x2.87cm",
+    "prompt_dimensions": {
+      "total_length": 486.70000000000005,
+      "top_width": 135.29999999999998,
+      "bottom_width": 83.9,
+      "channel_depth": 67.6,
+      "wall_thickness": 3.4000000000000004,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.41736459732056,
+      "width_x": 51.16081386804581,
+      "depth_z": 43.63502860069275,
+      "top_width": 13.193824647549263,
+      "bottom_width": 30.69479089599552,
+      "channel_depth": 43.63502860069275
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 486.70000000000005,
+        "model_value": 199.41736459732056,
+        "absolute_diff": 287.2826354026795,
+        "percentage_diff": 59.026635587154196
+      },
+      "top_width": {
+        "prompt_value": 135.29999999999998,
+        "model_value": 13.193824647549263,
+        "absolute_diff": 122.10617535245072,
+        "percentage_diff": 90.24846663152309
+      },
+      "bottom_width": {
+        "prompt_value": 83.9,
+        "model_value": 30.69479089599552,
+        "absolute_diff": 53.20520910400448,
+        "percentage_diff": 63.41502872944515
+      },
+      "channel_depth": {
+        "prompt_value": 67.6,
+        "model_value": 43.63502860069275,
+        "absolute_diff": 23.964971399307245,
+        "percentage_diff": 35.45114112323557
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "55864f9c-3825-46e5-885d-694ed2d1e2ff",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 44.81cm, top width 12.09cm, bottom width 7.74cm, depth 6.05cm, wall 0.42cm, rect notch 5.26x3.37cm",
+    "prompt_dimensions": {
+      "total_length": 448.1,
+      "top_width": 120.9,
+      "bottom_width": 77.4,
+      "channel_depth": 60.5,
+      "wall_thickness": 4.2,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.42389130592346,
+      "width_x": 52.6536226272583,
+      "depth_z": 43.0318146944046,
+      "top_width": 11.504050639419667,
+      "bottom_width": 29.99467360319798,
+      "channel_depth": 43.0318146944046
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 448.1,
+        "model_value": 199.42389130592346,
+        "absolute_diff": 248.67610869407656,
+        "percentage_diff": 55.49567254944802
+      },
+      "top_width": {
+        "prompt_value": 120.9,
+        "model_value": 11.504050639419667,
+        "absolute_diff": 109.39594936058035,
+        "percentage_diff": 90.48465621222526
+      },
+      "bottom_width": {
+        "prompt_value": 77.4,
+        "model_value": 29.99467360319798,
+        "absolute_diff": 47.405326396802025,
+        "percentage_diff": 61.2471917271344
+      },
+      "channel_depth": {
+        "prompt_value": 60.5,
+        "model_value": 43.0318146944046,
+        "absolute_diff": 17.468185305595398,
+        "percentage_diff": 28.8730335629676
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "81ec038a-d074-48c1-90c4-abda20b155af",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 39.78cm, top width 11.09cm, bottom width 6.73cm, depth 5.55cm, wall 0.39cm, rect notch 4.92x2.79cm",
+    "prompt_dimensions": {
+      "total_length": 397.8,
+      "top_width": 110.9,
+      "bottom_width": 67.30000000000001,
+      "channel_depth": 55.5,
+      "wall_thickness": 3.9000000000000004,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.51980113983154,
+      "width_x": 51.19250416755676,
+      "depth_z": 42.875875532627106,
+      "top_width": 11.884083205535202,
+      "bottom_width": 30.173378980048543,
+      "channel_depth": 42.875875532627106
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 397.8,
+        "model_value": 199.51980113983154,
+        "absolute_diff": 198.28019886016847,
+        "percentage_diff": 49.844192775306304
+      },
+      "top_width": {
+        "prompt_value": 110.9,
+        "model_value": 11.884083205535202,
+        "absolute_diff": 99.0159167944648,
+        "percentage_diff": 89.28396464784923
+      },
+      "bottom_width": {
+        "prompt_value": 67.30000000000001,
+        "model_value": 30.173378980048543,
+        "absolute_diff": 37.12662101995147,
+        "percentage_diff": 55.16585589888776
+      },
+      "channel_depth": {
+        "prompt_value": 55.5,
+        "model_value": 42.875875532627106,
+        "absolute_diff": 12.624124467372894,
+        "percentage_diff": 22.746170211482692
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c17d8a46-742b-4eb4-8943-bc2f52c8b9b3",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 38.32cm, top width 10.59cm, bottom width 6.14cm, depth 5.3cm, wall 0.43cm, rect notch 5.19x2.62cm",
+    "prompt_dimensions": {
+      "total_length": 383.2,
+      "top_width": 105.9,
+      "bottom_width": 61.4,
+      "channel_depth": 53.0,
+      "wall_thickness": 4.3,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.29617643356323,
+      "width_x": 51.22814476490021,
+      "depth_z": 43.07989031076431,
+      "top_width": 8.474530957650469,
+      "bottom_width": 29.925623597327334,
+      "channel_depth": 43.07989031076431
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 383.2,
+        "model_value": 199.29617643356323,
+        "absolute_diff": 183.90382356643676,
+        "percentage_diff": 47.99160322714947
+      },
+      "top_width": {
+        "prompt_value": 105.9,
+        "model_value": 8.474530957650469,
+        "absolute_diff": 97.42546904234953,
+        "percentage_diff": 91.99761004943299
+      },
+      "bottom_width": {
+        "prompt_value": 61.4,
+        "model_value": 29.925623597327334,
+        "absolute_diff": 31.474376402672664,
+        "percentage_diff": 51.261199352887076
+      },
+      "channel_depth": {
+        "prompt_value": 53.0,
+        "model_value": 43.07989031076431,
+        "absolute_diff": 9.920109689235687,
+        "percentage_diff": 18.717188092897523
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "34503502-bb62-4aac-94d8-9fc5e6e2bd05",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 39.55cm, top width 10.91cm, bottom width 6.9cm, depth 5.45cm, wall 0.35cm, rect notch 4.89x3.06cm",
+    "prompt_dimensions": {
+      "total_length": 395.5,
+      "top_width": 109.1,
+      "bottom_width": 69.0,
+      "channel_depth": 54.5,
+      "wall_thickness": 3.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.42838549613953,
+      "width_x": 51.20376795530319,
+      "depth_z": 42.85112917423248,
+      "top_width": 16.377329592723218,
+      "bottom_width": 30.463173220489626,
+      "channel_depth": 42.85112917423248
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 395.5,
+        "model_value": 199.42838549613953,
+        "absolute_diff": 196.07161450386047,
+        "percentage_diff": 49.57562945736042
+      },
+      "top_width": {
+        "prompt_value": 109.1,
+        "model_value": 16.377329592723218,
+        "absolute_diff": 92.72267040727678,
+        "percentage_diff": 84.98869881510245
+      },
+      "bottom_width": {
+        "prompt_value": 69.0,
+        "model_value": 30.463173220489626,
+        "absolute_diff": 38.53682677951038,
+        "percentage_diff": 55.8504735934933
+      },
+      "channel_depth": {
+        "prompt_value": 54.5,
+        "model_value": 42.85112917423248,
+        "absolute_diff": 11.648870825767517,
+        "percentage_diff": 21.37407490966517
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "3e2a998b-7032-46c0-8fe4-77cabe34e430",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.8cm, top width 12.49cm, bottom width 8.42cm, depth 6.24cm, wall 0.44cm, rect notch 5.3x2.73cm",
+    "prompt_dimensions": {
+      "total_length": 478.0,
+      "top_width": 124.9,
+      "bottom_width": 84.2,
+      "channel_depth": 62.400000000000006,
+      "wall_thickness": 4.4,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.53582882881165,
+      "width_x": 51.974865794181824,
+      "depth_z": 42.408162355422974,
+      "top_width": 10.127065886787268,
+      "bottom_width": 31.365125556077906,
+      "channel_depth": 42.408162355422974
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 478.0,
+        "model_value": 199.53582882881165,
+        "absolute_diff": 278.46417117118835,
+        "percentage_diff": 58.256102755478736
+      },
+      "top_width": {
+        "prompt_value": 124.9,
+        "model_value": 10.127065886787268,
+        "absolute_diff": 114.77293411321274,
+        "percentage_diff": 91.89186077919355
+      },
+      "bottom_width": {
+        "prompt_value": 84.2,
+        "model_value": 31.365125556077906,
+        "absolute_diff": 52.8348744439221,
+        "percentage_diff": 62.749257059289896
+      },
+      "channel_depth": {
+        "prompt_value": 62.400000000000006,
+        "model_value": 42.408162355422974,
+        "absolute_diff": 19.991837644577032,
+        "percentage_diff": 32.03820135348883
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fffaf972-24f5-4edd-a4ad-8c2102141109",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 35.9cm, top width 10.55cm, bottom width 6.36cm, depth 5.28cm, wall 0.45cm, rect notch 4.79x2.57cm",
+    "prompt_dimensions": {
+      "total_length": 359.0,
+      "top_width": 105.5,
+      "bottom_width": 63.6,
+      "channel_depth": 52.800000000000004,
+      "wall_thickness": 4.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.55609440803528,
+      "width_x": 121.2098240852356,
+      "depth_z": 103.03922295570374,
+      "top_width": 13.485803147093018,
+      "bottom_width": 110.95209057583735,
+      "channel_depth": 103.03922295570374
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 359.0,
+        "model_value": 199.55609440803528,
+        "absolute_diff": 159.44390559196472,
+        "percentage_diff": 44.41334417603474
+      },
+      "top_width": {
+        "prompt_value": 105.5,
+        "model_value": 13.485803147093018,
+        "absolute_diff": 92.01419685290698,
+        "percentage_diff": 87.21724820180756
+      },
+      "bottom_width": {
+        "prompt_value": 63.6,
+        "model_value": 110.95209057583735,
+        "absolute_diff": 47.352090575837344,
+        "percentage_diff": 74.45297260351784
+      },
+      "channel_depth": {
+        "prompt_value": 52.800000000000004,
+        "model_value": 103.03922295570374,
+        "absolute_diff": 50.23922295570373,
+        "percentage_diff": 95.1500434767116
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "f5cac53e-e22d-4d80-8d86-cce7117270d9",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, PLA, length 39.72cm, top width 10.88cm, bottom width 6.44cm, depth 5.44cm, wall 0.31cm, rect notch 5.53x2.59cm",
+    "prompt_dimensions": {
+      "total_length": 397.2,
+      "top_width": 108.80000000000001,
+      "bottom_width": 64.4,
+      "channel_depth": 54.400000000000006,
+      "wall_thickness": 3.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.38505291938782,
+      "width_x": 198.49029183387756,
+      "depth_z": 44.10230219364166,
+      "top_width": 123.82329149393713,
+      "bottom_width": 118.51314370535728,
+      "channel_depth": 44.10230219364166
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 397.2,
+        "model_value": 199.38505291938782,
+        "absolute_diff": 197.81494708061217,
+        "percentage_diff": 49.802353242853016
+      },
+      "top_width": {
+        "prompt_value": 108.80000000000001,
+        "model_value": 123.82329149393713,
+        "absolute_diff": 15.023291493937123,
+        "percentage_diff": 13.808172328986323
+      },
+      "bottom_width": {
+        "prompt_value": 64.4,
+        "model_value": 118.51314370535728,
+        "absolute_diff": 54.113143705357274,
+        "percentage_diff": 84.02662066049265
+      },
+      "channel_depth": {
+        "prompt_value": 54.400000000000006,
+        "model_value": 44.10230219364166,
+        "absolute_diff": 10.297697806358343,
+        "percentage_diff": 18.929591555805775
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "f1d86de9-d163-4a53-9d23-dd33b4389c93",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 42.67cm, top width 11.52cm, bottom width 7.04cm, depth 5.76cm, wall 0.47cm, rect notch 5.49x2.4cm",
+    "prompt_dimensions": {
+      "total_length": 426.70000000000005,
+      "top_width": 115.19999999999999,
+      "bottom_width": 70.4,
+      "channel_depth": 57.599999999999994,
+      "wall_thickness": 4.699999999999999,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.35771822929382,
+      "width_x": 53.32093834877014,
+      "depth_z": 45.22235989570618,
+      "top_width": 10.18104136365493,
+      "bottom_width": 30.167753027656698,
+      "channel_depth": 45.22235989570618
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 426.70000000000005,
+        "model_value": 199.35771822929382,
+        "absolute_diff": 227.34228177070622,
+        "percentage_diff": 53.27918485369258
+      },
+      "top_width": {
+        "prompt_value": 115.19999999999999,
+        "model_value": 10.18104136365493,
+        "absolute_diff": 105.01895863634506,
+        "percentage_diff": 91.16229048293843
+      },
+      "bottom_width": {
+        "prompt_value": 70.4,
+        "model_value": 30.167753027656698,
+        "absolute_diff": 40.232246972343304,
+        "percentage_diff": 57.148078085714914
+      },
+      "channel_depth": {
+        "prompt_value": 57.599999999999994,
+        "model_value": 45.22235989570618,
+        "absolute_diff": 12.377640104293818,
+        "percentage_diff": 21.48895851439899
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "eddc2d55-7a70-4165-b419-197e81f71ac9",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 45.2cm, top width 12.4cm, bottom width 7.68cm, depth 6.2cm, wall 0.45cm, rect notch 5.25x2.54cm",
+    "prompt_dimensions": {
+      "total_length": 452.0,
+      "top_width": 124.0,
+      "bottom_width": 76.8,
+      "channel_depth": 62.0,
+      "wall_thickness": 4.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.1231381893158,
+      "width_x": 51.13176107406616,
+      "depth_z": 42.489270865917206,
+      "top_width": 12.07440062823712,
+      "bottom_width": 29.067644536802963,
+      "channel_depth": 42.489270865917206
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 452.0,
+        "model_value": 199.1231381893158,
+        "absolute_diff": 252.8768618106842,
+        "percentage_diff": 55.946208365195616
+      },
+      "top_width": {
+        "prompt_value": 124.0,
+        "model_value": 12.07440062823712,
+        "absolute_diff": 111.92559937176289,
+        "percentage_diff": 90.26258013851846
+      },
+      "bottom_width": {
+        "prompt_value": 76.8,
+        "model_value": 29.067644536802963,
+        "absolute_diff": 47.73235546319704,
+        "percentage_diff": 62.15150450937115
+      },
+      "channel_depth": {
+        "prompt_value": 62.0,
+        "model_value": 42.489270865917206,
+        "absolute_diff": 19.510729134082794,
+        "percentage_diff": 31.468917958198055
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "1eb7354f-3572-461a-b546-875a146333da",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 40.11cm, top width 10.64cm, bottom width 6.53cm, depth 5.32cm, wall 0.47cm, rect notch 4.14x3.25cm",
+    "prompt_dimensions": {
+      "total_length": 401.1,
+      "top_width": 106.4,
+      "bottom_width": 65.3,
+      "channel_depth": 53.2,
+      "wall_thickness": 4.699999999999999,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 200.51056146621704,
+      "width_x": 199.4688868522644,
+      "depth_z": 158.22262167930603,
+      "top_width": 198.70929800458956,
+      "bottom_width": 199.01872059997356,
+      "channel_depth": 158.22262167930603
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 401.1,
+        "model_value": 200.51056146621704,
+        "absolute_diff": 200.58943853378298,
+        "percentage_diff": 50.00983259381275
+      },
+      "top_width": {
+        "prompt_value": 106.4,
+        "model_value": 198.70929800458956,
+        "absolute_diff": 92.30929800458955,
+        "percentage_diff": 86.75685902686988
+      },
+      "bottom_width": {
+        "prompt_value": 65.3,
+        "model_value": 199.01872059997356,
+        "absolute_diff": 133.71872059997355,
+        "percentage_diff": 204.7759886676471
+      },
+      "channel_depth": {
+        "prompt_value": 53.2,
+        "model_value": 158.22262167930603,
+        "absolute_diff": 105.02262167930603,
+        "percentage_diff": 197.41094300621432
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "96706168-be8a-4942-b901-28f1207e363c",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 43.28cm, top width 12.08cm, bottom width 7.38cm, depth 6.04cm, wall 0.43cm, rect notch 5.83x2.83cm",
+    "prompt_dimensions": {
+      "total_length": 432.8,
+      "top_width": 120.8,
+      "bottom_width": 73.8,
+      "channel_depth": 60.4,
+      "wall_thickness": 4.3,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.42887425422668,
+      "width_x": 198.51229190826416,
+      "depth_z": 42.954181134700775,
+      "top_width": 198.47605211482121,
+      "bottom_width": 198.18142507127482,
+      "channel_depth": 42.954181134700775
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 432.8,
+        "model_value": 199.42887425422668,
+        "absolute_diff": 233.37112574577333,
+        "percentage_diff": 53.92123977490142
+      },
+      "top_width": {
+        "prompt_value": 120.8,
+        "model_value": 198.47605211482121,
+        "absolute_diff": 77.67605211482122,
+        "percentage_diff": 64.30136764471955
+      },
+      "bottom_width": {
+        "prompt_value": 73.8,
+        "model_value": 198.18142507127482,
+        "absolute_diff": 124.38142507127482,
+        "percentage_diff": 168.53851635674096
+      },
+      "channel_depth": {
+        "prompt_value": 60.4,
+        "model_value": 42.954181134700775,
+        "absolute_diff": 17.445818865299223,
+        "percentage_diff": 28.8838060683762
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "04a31309-6d3f-459c-83fe-feba884592b0",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 41.25cm, top width 11.57cm, bottom width 7.12cm, depth 5.78cm, wall 0.49cm, rect notch 4.24x2.84cm",
+    "prompt_dimensions": {
+      "total_length": 412.5,
+      "top_width": 115.7,
+      "bottom_width": 71.2,
+      "channel_depth": 57.800000000000004,
+      "wall_thickness": 4.9,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.69088435173035,
+      "width_x": 50.2754271030426,
+      "depth_z": 42.266714572906494,
+      "top_width": 13.806640339031532,
+      "bottom_width": 31.21878687867784,
+      "channel_depth": 42.266714572906494
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 412.5,
+        "model_value": 199.69088435173035,
+        "absolute_diff": 212.80911564826965,
+        "percentage_diff": 51.59008864200476
+      },
+      "top_width": {
+        "prompt_value": 115.7,
+        "model_value": 13.806640339031532,
+        "absolute_diff": 101.89335966096847,
+        "percentage_diff": 88.06686228260023
+      },
+      "bottom_width": {
+        "prompt_value": 71.2,
+        "model_value": 31.21878687867784,
+        "absolute_diff": 39.98121312132216,
+        "percentage_diff": 56.15338921534011
+      },
+      "channel_depth": {
+        "prompt_value": 57.800000000000004,
+        "model_value": 42.266714572906494,
+        "absolute_diff": 15.53328542709351,
+        "percentage_diff": 26.87419624064621
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "008071f9-a71c-496c-82b0-e5ed23798272",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 38.31cm, top width 10.44cm, bottom width 6.26cm, depth 5.22cm, wall 0.41cm, rect notch 5.05x2.11cm",
+    "prompt_dimensions": {
+      "total_length": 383.1,
+      "top_width": 104.39999999999999,
+      "bottom_width": 62.599999999999994,
+      "channel_depth": 52.199999999999996,
+      "wall_thickness": 4.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.4034469127655,
+      "width_x": 52.564747631549835,
+      "depth_z": 41.055187582969666,
+      "top_width": 18.70504864509185,
+      "bottom_width": 31.67203692821392,
+      "channel_depth": 41.055187582969666
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 383.1,
+        "model_value": 199.4034469127655,
+        "absolute_diff": 183.69655308723452,
+        "percentage_diff": 47.950026908701254
+      },
+      "top_width": {
+        "prompt_value": 104.39999999999999,
+        "model_value": 18.70504864509185,
+        "absolute_diff": 85.69495135490814,
+        "percentage_diff": 82.08328673841777
+      },
+      "bottom_width": {
+        "prompt_value": 62.599999999999994,
+        "model_value": 31.67203692821392,
+        "absolute_diff": 30.927963071786074,
+        "percentage_diff": 49.40569180796498
+      },
+      "channel_depth": {
+        "prompt_value": 52.199999999999996,
+        "model_value": 41.055187582969666,
+        "absolute_diff": 11.14481241703033,
+        "percentage_diff": 21.350215358295653
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "a16d00eb-45ca-43da-8aa1-54dc705144f3",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 35.77cm, top width 9.89cm, bottom width 6.83cm, depth 4.94cm, wall 0.31cm, rect notch 4.63x3.12cm",
+    "prompt_dimensions": {
+      "total_length": 357.70000000000005,
+      "top_width": 98.9,
+      "bottom_width": 68.3,
+      "channel_depth": 49.400000000000006,
+      "wall_thickness": 3.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.31484460830688,
+      "width_x": 51.251420378685,
+      "depth_z": 42.30703115463257,
+      "top_width": 10.449492215416251,
+      "bottom_width": 28.935220369107924,
+      "channel_depth": 42.30703115463257
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 357.70000000000005,
+        "model_value": 199.31484460830688,
+        "absolute_diff": 158.38515539169316,
+        "percentage_diff": 44.27876863061033
+      },
+      "top_width": {
+        "prompt_value": 98.9,
+        "model_value": 10.449492215416251,
+        "absolute_diff": 88.45050778458375,
+        "percentage_diff": 89.43428491868931
+      },
+      "bottom_width": {
+        "prompt_value": 68.3,
+        "model_value": 28.935220369107924,
+        "absolute_diff": 39.36477963089207,
+        "percentage_diff": 57.63510926924169
+      },
+      "channel_depth": {
+        "prompt_value": 49.400000000000006,
+        "model_value": 42.30703115463257,
+        "absolute_diff": 7.092968845367437,
+        "percentage_diff": 14.358236529083879
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "10cc3747-4c53-4729-91fe-ac8c3483babb",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 48.79cm, top width 12.46cm, bottom width 8.12cm, depth 6.23cm, wall 0.31cm, rect notch 5.38x2.44cm",
+    "prompt_dimensions": {
+      "total_length": 487.9,
+      "top_width": 124.60000000000001,
+      "bottom_width": 81.19999999999999,
+      "channel_depth": 62.300000000000004,
+      "wall_thickness": 3.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.4086503982544,
+      "width_x": 52.5158628821373,
+      "depth_z": 41.07835739850998,
+      "top_width": 11.179446848440158,
+      "bottom_width": 30.208777673724473,
+      "channel_depth": 41.07835739850998
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 487.9,
+        "model_value": 199.4086503982544,
+        "absolute_diff": 288.4913496017456,
+        "percentage_diff": 59.12919647504521
+      },
+      "top_width": {
+        "prompt_value": 124.60000000000001,
+        "model_value": 11.179446848440158,
+        "absolute_diff": 113.42055315155986,
+        "percentage_diff": 91.02773126128399
+      },
+      "bottom_width": {
+        "prompt_value": 81.19999999999999,
+        "model_value": 30.208777673724473,
+        "absolute_diff": 50.99122232627552,
+        "percentage_diff": 62.79707183038858
+      },
+      "channel_depth": {
+        "prompt_value": 62.300000000000004,
+        "model_value": 41.07835739850998,
+        "absolute_diff": 21.221642601490025,
+        "percentage_diff": 34.06363178409313
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "231bbd3f-1927-435b-a34d-a8591e26fce6",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, matte white, length 43.22cm, top width 11.25cm, bottom width 7.05cm, depth 5.62cm, wall 0.3cm, rect notch 4.14x2.62cm",
+    "prompt_dimensions": {
+      "total_length": 432.2,
+      "top_width": 112.5,
+      "bottom_width": 70.5,
+      "channel_depth": 56.2,
+      "wall_thickness": 3.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.34610724449158,
+      "width_x": 51.35877877473831,
+      "depth_z": 44.40452456474304,
+      "top_width": 25.62310479765058,
+      "bottom_width": 30.996796811665085,
+      "channel_depth": 44.40452456474304
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 432.2,
+        "model_value": 199.34610724449158,
+        "absolute_diff": 232.8538927555084,
+        "percentage_diff": 53.87642127614725
+      },
+      "top_width": {
+        "prompt_value": 112.5,
+        "model_value": 25.62310479765058,
+        "absolute_diff": 86.87689520234942,
+        "percentage_diff": 77.22390684653281
+      },
+      "bottom_width": {
+        "prompt_value": 70.5,
+        "model_value": 30.996796811665085,
+        "absolute_diff": 39.503203188334915,
+        "percentage_diff": 56.032912323879316
+      },
+      "channel_depth": {
+        "prompt_value": 56.2,
+        "model_value": 44.40452456474304,
+        "absolute_diff": 11.79547543525696,
+        "percentage_diff": 20.98839045419388
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "bb5c4918-60b2-4303-a6c3-9e7320bee172",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, PLA, length 38.34cm, top width 9.96cm, bottom width 6.49cm, depth 4.98cm, wall 0.49cm, rect notch 5.33x3.12cm",
+    "prompt_dimensions": {
+      "total_length": 383.40000000000003,
+      "top_width": 99.60000000000001,
+      "bottom_width": 64.9,
+      "channel_depth": 49.800000000000004,
+      "wall_thickness": 4.9,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.37537908554077,
+      "width_x": 199.20585751533508,
+      "depth_z": 199.3980348110199,
+      "top_width": 199.0709027738829,
+      "bottom_width": 199.16777119144564,
+      "channel_depth": 199.3980348110199
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 383.40000000000003,
+        "model_value": 199.37537908554077,
+        "absolute_diff": 184.02462091445926,
+        "percentage_diff": 47.998075355884
+      },
+      "top_width": {
+        "prompt_value": 99.60000000000001,
+        "model_value": 199.0709027738829,
+        "absolute_diff": 99.47090277388288,
+        "percentage_diff": 99.87038431112738
+      },
+      "bottom_width": {
+        "prompt_value": 64.9,
+        "model_value": 199.16777119144564,
+        "absolute_diff": 134.26777119144563,
+        "percentage_diff": 206.88408504074823
+      },
+      "channel_depth": {
+        "prompt_value": 49.800000000000004,
+        "model_value": 199.3980348110199,
+        "absolute_diff": 149.5980348110199,
+        "percentage_diff": 300.3976602630921
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c279a268-948e-4472-a1e5-9e9f68fb9b5f",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 42.5cm, top width 11.66cm, bottom width 7.03cm, depth 5.83cm, wall 0.49cm, rect notch 4.67x2.44cm",
+    "prompt_dimensions": {
+      "total_length": 425.0,
+      "top_width": 116.6,
+      "bottom_width": 70.3,
+      "channel_depth": 58.3,
+      "wall_thickness": 4.9,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.34332370758057,
+      "width_x": 51.381099224090576,
+      "depth_z": 44.31004673242569,
+      "top_width": 9.564496204906181,
+      "bottom_width": 30.786843238511384,
+      "channel_depth": 44.31004673242569
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 425.0,
+        "model_value": 199.34332370758057,
+        "absolute_diff": 225.65667629241943,
+        "percentage_diff": 53.0956885393928
+      },
+      "top_width": {
+        "prompt_value": 116.6,
+        "model_value": 9.564496204906181,
+        "absolute_diff": 107.03550379509382,
+        "percentage_diff": 91.7971730661182
+      },
+      "bottom_width": {
+        "prompt_value": 70.3,
+        "model_value": 30.786843238511384,
+        "absolute_diff": 39.51315676148862,
+        "percentage_diff": 56.20648187978466
+      },
+      "channel_depth": {
+        "prompt_value": 58.3,
+        "model_value": 44.31004673242569,
+        "absolute_diff": 13.989953267574307,
+        "percentage_diff": 23.996489309732947
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "40ae95bd-746f-4516-b658-20c2f2d6f13c",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 44.0cm, top width 11.74cm, bottom width 7.39cm, depth 5.87cm, wall 0.5cm, rect notch 4.06x2.26cm",
+    "prompt_dimensions": {
+      "total_length": 440.0,
+      "top_width": 117.4,
+      "bottom_width": 73.89999999999999,
+      "channel_depth": 58.7,
+      "wall_thickness": 5.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.42009449005127,
+      "width_x": 199.532288312912,
+      "depth_z": 82.77668356895447,
+      "top_width": 199.38067547021717,
+      "bottom_width": 199.46132763944306,
+      "channel_depth": 82.77668356895447
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 440.0,
+        "model_value": 199.42009449005127,
+        "absolute_diff": 240.57990550994873,
+        "percentage_diff": 54.67725125226107
+      },
+      "top_width": {
+        "prompt_value": 117.4,
+        "model_value": 199.38067547021717,
+        "absolute_diff": 81.98067547021716,
+        "percentage_diff": 69.83021760665858
+      },
+      "bottom_width": {
+        "prompt_value": 73.89999999999999,
+        "model_value": 199.46132763944306,
+        "absolute_diff": 125.56132763944306,
+        "percentage_diff": 169.90707393700012
+      },
+      "channel_depth": {
+        "prompt_value": 58.7,
+        "model_value": 82.77668356895447,
+        "absolute_diff": 24.076683568954465,
+        "percentage_diff": 41.01649671031425
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "1f0e458a-c23e-4606-8048-f2df1639e9d6",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.29cm, top width 12.43cm, bottom width 8.83cm, depth 6.22cm, wall 0.34cm, rect notch 5.58x2.93cm",
+    "prompt_dimensions": {
+      "total_length": 472.9,
+      "top_width": 124.3,
+      "bottom_width": 88.3,
+      "channel_depth": 62.199999999999996,
+      "wall_thickness": 3.4000000000000004,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.33452606201172,
+      "width_x": 50.89111179113388,
+      "depth_z": 43.68191063404083,
+      "top_width": 12.162452184708346,
+      "bottom_width": 29.831646558612917,
+      "channel_depth": 43.68191063404083
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 472.9,
+        "model_value": 199.33452606201172,
+        "absolute_diff": 273.56547393798826,
+        "percentage_diff": 57.848482541338186
+      },
+      "top_width": {
+        "prompt_value": 124.3,
+        "model_value": 12.162452184708346,
+        "absolute_diff": 112.13754781529165,
+        "percentage_diff": 90.21524361648564
+      },
+      "bottom_width": {
+        "prompt_value": 88.3,
+        "model_value": 29.831646558612917,
+        "absolute_diff": 58.46835344138708,
+        "percentage_diff": 66.2155758113104
+      },
+      "channel_depth": {
+        "prompt_value": 62.199999999999996,
+        "model_value": 43.68191063404083,
+        "absolute_diff": 18.518089365959163,
+        "percentage_diff": 29.771847855239812
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "0e71e519-3bd3-4103-b6a4-ea410c8e0871",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, chrome finish, length 47.38cm, top width 13.09cm, bottom width 8.7cm, depth 6.55cm, wall 0.5cm, rect notch 4.65x2.38cm",
+    "prompt_dimensions": {
+      "total_length": 473.8,
+      "top_width": 130.9,
+      "bottom_width": 87.0,
+      "channel_depth": 65.5,
+      "wall_thickness": 5.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.4322955608368,
+      "width_x": 188.56079578399658,
+      "depth_z": 46.71824872493744,
+      "top_width": 12.782424155191366,
+      "bottom_width": 188.5361042889561,
+      "channel_depth": 46.71824872493744
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 473.8,
+        "model_value": 199.4322955608368,
+        "absolute_diff": 274.3677044391632,
+        "percentage_diff": 57.90791566888206
+      },
+      "top_width": {
+        "prompt_value": 130.9,
+        "model_value": 12.782424155191366,
+        "absolute_diff": 118.11757584480864,
+        "percentage_diff": 90.23497008770714
+      },
+      "bottom_width": {
+        "prompt_value": 87.0,
+        "model_value": 188.5361042889561,
+        "absolute_diff": 101.5361042889561,
+        "percentage_diff": 116.70816584937482
+      },
+      "channel_depth": {
+        "prompt_value": 65.5,
+        "model_value": 46.71824872493744,
+        "absolute_diff": 18.78175127506256,
+        "percentage_diff": 28.67442942757643
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "2b1277d8-3a49-4b9a-8e3f-6c0648a531c5",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 50.51cm, top width 13.59cm, bottom width 7.97cm, depth 6.8cm, wall 0.41cm, rect notch 5.9x2.09cm",
+    "prompt_dimensions": {
+      "total_length": 505.09999999999997,
+      "top_width": 135.9,
+      "bottom_width": 79.7,
+      "channel_depth": 68.0,
+      "wall_thickness": 4.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.36560988426208,
+      "width_x": 199.124276638031,
+      "depth_z": 43.66954267024994,
+      "top_width": 11.653358000421335,
+      "bottom_width": 199.09924020437288,
+      "channel_depth": 43.66954267024994
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 505.09999999999997,
+        "model_value": 199.36560988426208,
+        "absolute_diff": 305.7343901157379,
+        "percentage_diff": 60.529477354135395
+      },
+      "top_width": {
+        "prompt_value": 135.9,
+        "model_value": 11.653358000421335,
+        "absolute_diff": 124.24664199957867,
+        "percentage_diff": 91.42504930064655
+      },
+      "bottom_width": {
+        "prompt_value": 79.7,
+        "model_value": 199.09924020437288,
+        "absolute_diff": 119.39924020437287,
+        "percentage_diff": 149.81084090887435
+      },
+      "channel_depth": {
+        "prompt_value": 68.0,
+        "model_value": 43.66954267024994,
+        "absolute_diff": 24.33045732975006,
+        "percentage_diff": 35.780084308455976
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "425d31aa-4769-4ab8-8fad-9afca6072864",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 35.53cm, top width 10.96cm, bottom width 6.43cm, depth 5.48cm, wall 0.4cm, rect notch 4.06x2.84cm",
+    "prompt_dimensions": {
+      "total_length": 355.3,
+      "top_width": 109.60000000000001,
+      "bottom_width": 64.3,
+      "channel_depth": 54.800000000000004,
+      "wall_thickness": 4.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3513584136963,
+      "width_x": 52.153125405311584,
+      "depth_z": 41.62411987781525,
+      "top_width": 12.334298820802015,
+      "bottom_width": 30.081747682646075,
+      "channel_depth": 41.62411987781525
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 355.3,
+        "model_value": 199.3513584136963,
+        "absolute_diff": 155.94864158630372,
+        "percentage_diff": 43.892102895103775
+      },
+      "top_width": {
+        "prompt_value": 109.60000000000001,
+        "model_value": 12.334298820802015,
+        "absolute_diff": 97.26570117919799,
+        "percentage_diff": 88.74607771824633
+      },
+      "bottom_width": {
+        "prompt_value": 64.3,
+        "model_value": 30.081747682646075,
+        "absolute_diff": 34.21825231735392,
+        "percentage_diff": 53.216566589975
+      },
+      "channel_depth": {
+        "prompt_value": 54.800000000000004,
+        "model_value": 41.62411987781525,
+        "absolute_diff": 13.175880122184758,
+        "percentage_diff": 24.04357686530065
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "bacb99ac-7a82-4312-b11b-16e96e8c637c",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.82cm, top width 12.47cm, bottom width 8.1cm, depth 6.23cm, wall 0.39cm, rect notch 4.94x2.5cm",
+    "prompt_dimensions": {
+      "total_length": 478.2,
+      "top_width": 124.7,
+      "bottom_width": 81.0,
+      "channel_depth": 62.300000000000004,
+      "wall_thickness": 3.9000000000000004,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3775188922882,
+      "width_x": 51.85120701789856,
+      "depth_z": 44.303008913993835,
+      "top_width": 9.90356203707751,
+      "bottom_width": 31.03282576837481,
+      "channel_depth": 44.303008913993835
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 478.2,
+        "model_value": 199.3775188922882,
+        "absolute_diff": 278.8224811077118,
+        "percentage_diff": 58.30666689830861
+      },
+      "top_width": {
+        "prompt_value": 124.7,
+        "model_value": 9.90356203707751,
+        "absolute_diff": 114.7964379629225,
+        "percentage_diff": 92.05808978582397
+      },
+      "bottom_width": {
+        "prompt_value": 81.0,
+        "model_value": 31.03282576837481,
+        "absolute_diff": 49.967174231625194,
+        "percentage_diff": 61.6878694217595
+      },
+      "channel_depth": {
+        "prompt_value": 62.300000000000004,
+        "model_value": 44.303008913993835,
+        "absolute_diff": 17.99699108600617,
+        "percentage_diff": 28.887626141261908
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "5f1a87ae-ce52-457e-a585-97bfb0bfe70f",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 37.15cm, top width 9.94cm, bottom width 6.65cm, depth 4.97cm, wall 0.4cm, rect notch 4.87x3.0cm",
+    "prompt_dimensions": {
+      "total_length": 371.5,
+      "top_width": 99.39999999999999,
+      "bottom_width": 66.5,
+      "channel_depth": 49.699999999999996,
+      "wall_thickness": 4.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3307650089264,
+      "width_x": 51.63198709487915,
+      "depth_z": 41.8915331363678,
+      "top_width": 12.939979897411947,
+      "bottom_width": 29.947131674945314,
+      "channel_depth": 41.8915331363678
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 371.5,
+        "model_value": 199.3307650089264,
+        "absolute_diff": 172.1692349910736,
+        "percentage_diff": 46.344343200827346
+      },
+      "top_width": {
+        "prompt_value": 99.39999999999999,
+        "model_value": 12.939979897411947,
+        "absolute_diff": 86.46002010258805,
+        "percentage_diff": 86.98191157202018
+      },
+      "bottom_width": {
+        "prompt_value": 66.5,
+        "model_value": 29.947131674945314,
+        "absolute_diff": 36.55286832505469,
+        "percentage_diff": 54.96671928579653
+      },
+      "channel_depth": {
+        "prompt_value": 49.699999999999996,
+        "model_value": 41.8915331363678,
+        "absolute_diff": 7.808466863632198,
+        "percentage_diff": 15.711200932861566
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b4d2e3fd-2089-4707-aedc-e5026a4fb13d",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 42.27cm, top width 11.25cm, bottom width 7.33cm, depth 5.62cm, wall 0.43cm, rect notch 5.18x2.11cm",
+    "prompt_dimensions": {
+      "total_length": 422.70000000000005,
+      "top_width": 112.5,
+      "bottom_width": 73.3,
+      "channel_depth": 56.2,
+      "wall_thickness": 4.3,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.38112497329712,
+      "width_x": 53.14963459968567,
+      "depth_z": 45.10022848844528,
+      "top_width": 12.943082961564745,
+      "bottom_width": 31.41474869472306,
+      "channel_depth": 45.10022848844528
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 422.70000000000005,
+        "model_value": 199.38112497329712,
+        "absolute_diff": 223.31887502670293,
+        "percentage_diff": 52.83152945983035
+      },
+      "top_width": {
+        "prompt_value": 112.5,
+        "model_value": 12.943082961564745,
+        "absolute_diff": 99.55691703843526,
+        "percentage_diff": 88.49503736749801
+      },
+      "bottom_width": {
+        "prompt_value": 73.3,
+        "model_value": 31.41474869472306,
+        "absolute_diff": 41.88525130527694,
+        "percentage_diff": 57.14222551879528
+      },
+      "channel_depth": {
+        "prompt_value": 56.2,
+        "model_value": 45.10022848844528,
+        "absolute_diff": 11.09977151155472,
+        "percentage_diff": 19.75048311664541
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fdee7837-a2ee-41a4-bff4-762905845c5a",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 36.71cm, top width 10.01cm, bottom width 6.57cm, depth 5.0cm, wall 0.4cm, rect notch 4.59x3.5cm",
+    "prompt_dimensions": {
+      "total_length": 367.1,
+      "top_width": 100.1,
+      "bottom_width": 65.7,
+      "channel_depth": 50.0,
+      "wall_thickness": 4.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.5428204536438,
+      "width_x": 199.3903398513794,
+      "depth_z": 80.3948849439621,
+      "top_width": 199.08579219184713,
+      "bottom_width": 28.866733995584294,
+      "channel_depth": 80.3948849439621
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 367.1,
+        "model_value": 199.5428204536438,
+        "absolute_diff": 167.55717954635622,
+        "percentage_diff": 45.643470320445715
+      },
+      "top_width": {
+        "prompt_value": 100.1,
+        "model_value": 199.08579219184713,
+        "absolute_diff": 98.98579219184714,
+        "percentage_diff": 98.88690528656059
+      },
+      "bottom_width": {
+        "prompt_value": 65.7,
+        "model_value": 28.866733995584294,
+        "absolute_diff": 36.833266004415705,
+        "percentage_diff": 56.06280974796911
+      },
+      "channel_depth": {
+        "prompt_value": 50.0,
+        "model_value": 80.3948849439621,
+        "absolute_diff": 30.394884943962097,
+        "percentage_diff": 60.789769887924194
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "03a30b14-5f7f-43f1-aa77-a84d8c1b5252",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 45.92cm, top width 11.39cm, bottom width 7.5cm, depth 5.7cm, wall 0.35cm, rect notch 5.46x3.42cm",
+    "prompt_dimensions": {
+      "total_length": 459.20000000000005,
+      "top_width": 113.9,
+      "bottom_width": 75.0,
+      "channel_depth": 57.0,
+      "wall_thickness": 3.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.26413893699646,
+      "width_x": 52.01496779918671,
+      "depth_z": 43.42428147792816,
+      "top_width": 9.275383580202897,
+      "bottom_width": 30.319374923921664,
+      "channel_depth": 43.42428147792816
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 459.20000000000005,
+        "model_value": 199.26413893699646,
+        "absolute_diff": 259.9358610630036,
+        "percentage_diff": 56.606241520688926
+      },
+      "top_width": {
+        "prompt_value": 113.9,
+        "model_value": 9.275383580202897,
+        "absolute_diff": 104.6246164197971,
+        "percentage_diff": 91.85655524126172
+      },
+      "bottom_width": {
+        "prompt_value": 75.0,
+        "model_value": 30.319374923921664,
+        "absolute_diff": 44.680625076078336,
+        "percentage_diff": 59.574166768104455
+      },
+      "channel_depth": {
+        "prompt_value": 57.0,
+        "model_value": 43.42428147792816,
+        "absolute_diff": 13.575718522071838,
+        "percentage_diff": 23.817050038722524
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "e86b75db-2a69-46f2-8ad1-7e29a7faf7ab",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 46.99cm, top width 13.01cm, bottom width 8.23cm, depth 6.51cm, wall 0.43cm, rect notch 5.59x2.44cm",
+    "prompt_dimensions": {
+      "total_length": 469.90000000000003,
+      "top_width": 130.1,
+      "bottom_width": 82.30000000000001,
+      "channel_depth": 65.1,
+      "wall_thickness": 4.3,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.0872859954834,
+      "width_x": 56.08034431934357,
+      "depth_z": 46.462251245975494,
+      "top_width": 10.625350394087754,
+      "channel_depth": 46.462251245975494
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 469.90000000000003,
+        "model_value": 199.0872859954834,
+        "absolute_diff": 270.81271400451664,
+        "percentage_diff": 57.63198850915442
+      },
+      "top_width": {
+        "prompt_value": 130.1,
+        "model_value": 10.625350394087754,
+        "absolute_diff": 119.47464960591225,
+        "percentage_diff": 91.83293590000942
+      },
+      "channel_depth": {
+        "prompt_value": 65.1,
+        "model_value": 46.462251245975494,
+        "absolute_diff": 18.6377487540245,
+        "percentage_diff": 28.629414368701234
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "bbecd6ea-6102-4672-a274-a048b5ebfc37",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, chrome finish, length 35.19cm, top width 11.11cm, bottom width 6.78cm, depth 5.55cm, wall 0.48cm, rect notch 5.73x2.81cm",
+    "prompt_dimensions": {
+      "total_length": 351.9,
+      "top_width": 111.1,
+      "bottom_width": 67.8,
+      "channel_depth": 55.5,
+      "wall_thickness": 4.8,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.39798712730408,
+      "width_x": 50.832006335258484,
+      "depth_z": 42.943885922431946,
+      "top_width": 15.806538826739768,
+      "bottom_width": 28.643979607427774,
+      "channel_depth": 42.943885922431946
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 351.9,
+        "model_value": 199.39798712730408,
+        "absolute_diff": 152.5020128726959,
+        "percentage_diff": 43.336747051064485
+      },
+      "top_width": {
+        "prompt_value": 111.1,
+        "model_value": 15.806538826739768,
+        "absolute_diff": 95.29346117326023,
+        "percentage_diff": 85.77269232516672
+      },
+      "bottom_width": {
+        "prompt_value": 67.8,
+        "model_value": 28.643979607427774,
+        "absolute_diff": 39.15602039257222,
+        "percentage_diff": 57.75224246692069
+      },
+      "channel_depth": {
+        "prompt_value": 55.5,
+        "model_value": 42.943885922431946,
+        "absolute_diff": 12.556114077568054,
+        "percentage_diff": 22.62362896859109
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "f2b6154d-60cc-4988-be14-73885c0280f1",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, PLA, length 40.85cm, top width 10.67cm, bottom width 6.37cm, depth 5.34cm, wall 0.43cm, rect notch 4.14x3.28cm",
+    "prompt_dimensions": {
+      "total_length": 408.5,
+      "top_width": 106.7,
+      "bottom_width": 63.7,
+      "channel_depth": 53.4,
+      "wall_thickness": 4.3,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 180.7055413722992,
+      "width_x": 199.47375655174255,
+      "depth_z": 198.526531457901,
+      "top_width": 199.31221693557558,
+      "bottom_width": 199.3095569004101,
+      "channel_depth": 198.526531457901
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 408.5,
+        "model_value": 180.7055413722992,
+        "absolute_diff": 227.7944586277008,
+        "percentage_diff": 55.76363736296225
+      },
+      "top_width": {
+        "prompt_value": 106.7,
+        "model_value": 199.31221693557558,
+        "absolute_diff": 92.61221693557557,
+        "percentage_diff": 86.79682936792462
+      },
+      "bottom_width": {
+        "prompt_value": 63.7,
+        "model_value": 199.3095569004101,
+        "absolute_diff": 135.6095569004101,
+        "percentage_diff": 212.88784442764538
+      },
+      "channel_depth": {
+        "prompt_value": 53.4,
+        "model_value": 198.526531457901,
+        "absolute_diff": 145.126531457901,
+        "percentage_diff": 271.7725308200393
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "46e86f1b-d904-4866-b2ea-5aa99574d1e9",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 45.6cm, top width 11.42cm, bottom width 7.13cm, depth 5.71cm, wall 0.4cm, rect notch 4.3x2.48cm",
+    "prompt_dimensions": {
+      "total_length": 456.0,
+      "top_width": 114.2,
+      "bottom_width": 71.3,
+      "channel_depth": 57.1,
+      "wall_thickness": 4.0,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.46842193603516,
+      "width_x": 51.891499757766724,
+      "depth_z": 45.317789912223816,
+      "top_width": 9.510319382173597,
+      "bottom_width": 30.452034395494575,
+      "channel_depth": 45.317789912223816
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 456.0,
+        "model_value": 199.46842193603516,
+        "absolute_diff": 256.53157806396484,
+        "percentage_diff": 56.25692501402738
+      },
+      "top_width": {
+        "prompt_value": 114.2,
+        "model_value": 9.510319382173597,
+        "absolute_diff": 104.68968061782641,
+        "percentage_diff": 91.67222470912996
+      },
+      "bottom_width": {
+        "prompt_value": 71.3,
+        "model_value": 30.452034395494575,
+        "absolute_diff": 40.84796560450542,
+        "percentage_diff": 57.29027434011981
+      },
+      "channel_depth": {
+        "prompt_value": 57.1,
+        "model_value": 45.317789912223816,
+        "absolute_diff": 11.782210087776186,
+        "percentage_diff": 20.6343434111667
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "616f2934-8143-407f-9eaa-0bdd91946d50",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 48.99cm, top width 13.0cm, bottom width 8.6cm, depth 6.5cm, wall 0.31cm, rect notch 5.52x2.61cm",
+    "prompt_dimensions": {
+      "total_length": 489.90000000000003,
+      "top_width": 130.0,
+      "bottom_width": 86.0,
+      "channel_depth": 65.0,
+      "wall_thickness": 3.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.30455088615417,
+      "width_x": 52.94555127620697,
+      "depth_z": 42.734594643116,
+      "top_width": 7.782830819002109,
+      "bottom_width": 29.8271993191984,
+      "channel_depth": 42.734594643116
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 489.90000000000003,
+        "model_value": 199.30455088615417,
+        "absolute_diff": 290.59544911384586,
+        "percentage_diff": 59.31729926798241
+      },
+      "top_width": {
+        "prompt_value": 130.0,
+        "model_value": 7.782830819002109,
+        "absolute_diff": 122.21716918099789,
+        "percentage_diff": 94.01320706230607
+      },
+      "bottom_width": {
+        "prompt_value": 86.0,
+        "model_value": 29.8271993191984,
+        "absolute_diff": 56.1728006808016,
+        "percentage_diff": 65.31721009395535
+      },
+      "channel_depth": {
+        "prompt_value": 65.0,
+        "model_value": 42.734594643116,
+        "absolute_diff": 22.265405356884003,
+        "percentage_diff": 34.25446977982155
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "27c3eb0c-484e-4b76-8e94-049f5ad01706",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 49.15cm, top width 13.39cm, bottom width 8.27cm, depth 6.69cm, wall 0.35cm, rect notch 5.49x2.74cm",
+    "prompt_dimensions": {
+      "total_length": 491.5,
+      "top_width": 133.9,
+      "bottom_width": 82.69999999999999,
+      "channel_depth": 66.9,
+      "wall_thickness": 3.5,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.35479164123535,
+      "width_x": 52.27932929992676,
+      "depth_z": 43.23122650384903,
+      "top_width": 11.57176721699303,
+      "bottom_width": 30.80938790343175,
+      "channel_depth": 43.23122650384903
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 491.5,
+        "model_value": 199.35479164123535,
+        "absolute_diff": 292.14520835876465,
+        "percentage_diff": 59.4395133995452
+      },
+      "top_width": {
+        "prompt_value": 133.9,
+        "model_value": 11.57176721699303,
+        "absolute_diff": 122.32823278300698,
+        "percentage_diff": 91.35790349739132
+      },
+      "bottom_width": {
+        "prompt_value": 82.69999999999999,
+        "model_value": 30.80938790343175,
+        "absolute_diff": 51.89061209656823,
+        "percentage_diff": 62.745601084121205
+      },
+      "channel_depth": {
+        "prompt_value": 66.9,
+        "model_value": 43.23122650384903,
+        "absolute_diff": 23.668773496150976,
+        "percentage_diff": 35.37933258019578
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "ce296e7d-e888-4bbd-b8ec-36a67ca86763",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 36.75cm, top width 9.79cm, bottom width 6.77cm, depth 4.89cm, wall 0.31cm, rect notch 4.71x2.61cm",
+    "prompt_dimensions": {
+      "total_length": 367.5,
+      "top_width": 97.89999999999999,
+      "bottom_width": 67.69999999999999,
+      "channel_depth": 48.9,
+      "wall_thickness": 3.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.47651624679565,
+      "width_x": 51.87487006187439,
+      "depth_z": 40.85549712181091,
+      "top_width": 12.01036193212833,
+      "bottom_width": 29.57795981640934,
+      "channel_depth": 40.85549712181091
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 367.5,
+        "model_value": 199.47651624679565,
+        "absolute_diff": 168.02348375320435,
+        "percentage_diff": 45.720675851212064
+      },
+      "top_width": {
+        "prompt_value": 97.89999999999999,
+        "model_value": 12.01036193212833,
+        "absolute_diff": 85.88963806787166,
+        "percentage_diff": 87.73201028383214
+      },
+      "bottom_width": {
+        "prompt_value": 67.69999999999999,
+        "model_value": 29.57795981640934,
+        "absolute_diff": 38.12204018359065,
+        "percentage_diff": 56.31025137901131
+      },
+      "channel_depth": {
+        "prompt_value": 48.9,
+        "model_value": 40.85549712181091,
+        "absolute_diff": 8.044502878189085,
+        "percentage_diff": 16.450926131266026
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "5308da34-4f5c-4a4d-a072-f9ea7b7b48a8",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, PLA, length 47.42cm, top width 12.42cm, bottom width 8.86cm, depth 6.21cm, wall 0.38cm, rect notch 5.96x3.08cm",
+    "prompt_dimensions": {
+      "total_length": 474.20000000000005,
+      "top_width": 124.2,
+      "bottom_width": 88.6,
+      "channel_depth": 62.1,
+      "wall_thickness": 3.8,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 198.54607582092285,
+      "width_x": 50.876374542713165,
+      "depth_z": 43.172238767147064,
+      "top_width": 13.237567897961867,
+      "bottom_width": 31.31042092984727,
+      "channel_depth": 43.172238767147064
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 474.20000000000005,
+        "model_value": 198.54607582092285,
+        "absolute_diff": 275.6539241790772,
+        "percentage_diff": 58.13030876825752
+      },
+      "top_width": {
+        "prompt_value": 124.2,
+        "model_value": 13.237567897961867,
+        "absolute_diff": 110.96243210203814,
+        "percentage_diff": 89.34173277136725
+      },
+      "bottom_width": {
+        "prompt_value": 88.6,
+        "model_value": 31.31042092984727,
+        "absolute_diff": 57.289579070152726,
+        "percentage_diff": 64.66092445841166
+      },
+      "channel_depth": {
+        "prompt_value": 62.1,
+        "model_value": 43.172238767147064,
+        "absolute_diff": 18.927761232852937,
+        "percentage_diff": 30.479486687363828
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8290e377-035b-4009-a1cb-ca51ba6731b1",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 40.8cm, top width 10.2cm, bottom width 6.49cm, depth 5.1cm, wall 0.49cm, rect notch 4.57x3.09cm",
+    "prompt_dimensions": {
+      "total_length": 408.0,
+      "top_width": 102.0,
+      "bottom_width": 64.9,
+      "channel_depth": 51.0,
+      "wall_thickness": 4.9,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.43557977676392,
+      "width_x": 179.4661819934845,
+      "depth_z": 45.516760647296906,
+      "top_width": 179.32664917675837,
+      "bottom_width": 179.39226272695922,
+      "channel_depth": 45.516760647296906
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 408.0,
+        "model_value": 199.43557977676392,
+        "absolute_diff": 208.56442022323608,
+        "percentage_diff": 51.11873044687159
+      },
+      "top_width": {
+        "prompt_value": 102.0,
+        "model_value": 179.32664917675837,
+        "absolute_diff": 77.32664917675837,
+        "percentage_diff": 75.81044036937095
+      },
+      "bottom_width": {
+        "prompt_value": 64.9,
+        "model_value": 179.39226272695922,
+        "absolute_diff": 114.49226272695921,
+        "percentage_diff": 176.41334780733314
+      },
+      "channel_depth": {
+        "prompt_value": 51.0,
+        "model_value": 45.516760647296906,
+        "absolute_diff": 5.4832393527030945,
+        "percentage_diff": 10.751449711182538
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "ecbf110f-2f2a-432a-8354-94173f7e1c42",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 48.25cm, top width 12.94cm, bottom width 8.23cm, depth 6.47cm, wall 0.37cm, rect notch 4.08x2.44cm",
+    "prompt_dimensions": {
+      "total_length": 482.5,
+      "top_width": 129.4,
+      "bottom_width": 82.30000000000001,
+      "channel_depth": 64.7,
+      "wall_thickness": 3.7,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 194.88388299942017,
+      "width_x": 51.16015076637268,
+      "depth_z": 40.22522419691086,
+      "top_width": 10.5558379645034,
+      "bottom_width": 27.919266097833486,
+      "channel_depth": 40.22522419691086
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 482.5,
+        "model_value": 194.88388299942017,
+        "absolute_diff": 287.61611700057983,
+        "percentage_diff": 59.609557927581314
+      },
+      "top_width": {
+        "prompt_value": 129.4,
+        "model_value": 10.5558379645034,
+        "absolute_diff": 118.84416203549661,
+        "percentage_diff": 91.84247452511329
+      },
+      "bottom_width": {
+        "prompt_value": 82.30000000000001,
+        "model_value": 27.919266097833486,
+        "absolute_diff": 54.380733902166526,
+        "percentage_diff": 66.07622588355592
+      },
+      "channel_depth": {
+        "prompt_value": 64.7,
+        "model_value": 40.22522419691086,
+        "absolute_diff": 24.474775803089145,
+        "percentage_diff": 37.8280924313588
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c23bd9c4-f2ad-4acb-a0c3-ec45858b1161",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 42.39cm, top width 11.5cm, bottom width 7.37cm, depth 5.75cm, wall 0.33cm, rect notch 5.66x2.78cm",
+    "prompt_dimensions": {
+      "total_length": 423.9,
+      "top_width": 115.0,
+      "bottom_width": 73.7,
+      "channel_depth": 57.5,
+      "wall_thickness": 3.3000000000000003,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 200.4126012325287,
+      "width_x": 157.60223269462585,
+      "depth_z": 85.12681424617767,
+      "top_width": 15.660207014896868,
+      "bottom_width": 30.475836833872762,
+      "channel_depth": 85.12681424617767
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 423.9,
+        "model_value": 200.4126012325287,
+        "absolute_diff": 223.4873987674713,
+        "percentage_diff": 52.72172653160446
+      },
+      "top_width": {
+        "prompt_value": 115.0,
+        "model_value": 15.660207014896868,
+        "absolute_diff": 99.33979298510313,
+        "percentage_diff": 86.38242868269838
+      },
+      "bottom_width": {
+        "prompt_value": 73.7,
+        "model_value": 30.475836833872762,
+        "absolute_diff": 43.22416316612724,
+        "percentage_diff": 58.648796697594626
+      },
+      "channel_depth": {
+        "prompt_value": 57.5,
+        "model_value": 85.12681424617767,
+        "absolute_diff": 27.626814246177673,
+        "percentage_diff": 48.04663347161334
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "de5feb32-f3be-4e23-9d48-b693ee3af655",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, PLA, length 37.5cm, top width 10.63cm, bottom width 6.08cm, depth 5.31cm, wall 0.46cm, rect notch 5.15x2.05cm",
+    "prompt_dimensions": {
+      "total_length": 375.0,
+      "top_width": 106.30000000000001,
+      "bottom_width": 60.8,
+      "channel_depth": 53.099999999999994,
+      "wall_thickness": 4.6000000000000005,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 182.15668201446533,
+      "width_x": 199.42392110824585,
+      "depth_z": 199.00946617126465,
+      "top_width": 199.32345149766923,
+      "bottom_width": 199.3562879744633,
+      "channel_depth": 199.00946617126465
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 375.0,
+        "model_value": 182.15668201446533,
+        "absolute_diff": 192.84331798553467,
+        "percentage_diff": 51.42488479614258
+      },
+      "top_width": {
+        "prompt_value": 106.30000000000001,
+        "model_value": 199.32345149766923,
+        "absolute_diff": 93.02345149766921,
+        "percentage_diff": 87.51030244371515
+      },
+      "bottom_width": {
+        "prompt_value": 60.8,
+        "model_value": 199.3562879744633,
+        "absolute_diff": 138.55628797446332,
+        "percentage_diff": 227.88863153694626
+      },
+      "channel_depth": {
+        "prompt_value": 53.099999999999994,
+        "model_value": 199.00946617126465,
+        "absolute_diff": 145.90946617126465,
+        "percentage_diff": 274.78242216810673
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b7b33723-2b92-4be2-a46c-7a9dfa89248f",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 46.37cm, top width 13.32cm, bottom width 8.31cm, depth 6.66cm, wall 0.47cm, rect notch 4.18x2.91cm",
+    "prompt_dimensions": {
+      "total_length": 463.7,
+      "top_width": 133.2,
+      "bottom_width": 83.10000000000001,
+      "channel_depth": 66.6,
+      "wall_thickness": 4.699999999999999,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3811070919037,
+      "width_x": 52.536097168922424,
+      "depth_z": 42.36022233963013,
+      "top_width": 11.540109455917532,
+      "bottom_width": 30.22473035752242,
+      "channel_depth": 42.36022233963013
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 463.7,
+        "model_value": 199.3811070919037,
+        "absolute_diff": 264.3188929080963,
+        "percentage_diff": 57.00213347166192
+      },
+      "top_width": {
+        "prompt_value": 133.2,
+        "model_value": 11.540109455917532,
+        "absolute_diff": 121.65989054408246,
+        "percentage_diff": 91.33625416222408
+      },
+      "bottom_width": {
+        "prompt_value": 83.10000000000001,
+        "model_value": 30.22473035752242,
+        "absolute_diff": 52.87526964247759,
+        "percentage_diff": 63.62848332428109
+      },
+      "channel_depth": {
+        "prompt_value": 66.6,
+        "model_value": 42.36022233963013,
+        "absolute_diff": 24.239777660369867,
+        "percentage_diff": 36.39606255310791
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fe540525-56cd-453f-9bc5-263fcd36bdd7",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.89cm, top width 13.29cm, bottom width 8.47cm, depth 6.65cm, wall 0.32cm, rect notch 5.62x2.37cm",
+    "prompt_dimensions": {
+      "total_length": 478.9,
+      "top_width": 132.89999999999998,
+      "bottom_width": 84.7,
+      "channel_depth": 66.5,
+      "wall_thickness": 3.2,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.38125014305115,
+      "width_x": 197.32345342636108,
+      "depth_z": 40.53555577993393,
+      "top_width": 196.89696050600304,
+      "bottom_width": 196.88767779959687,
+      "channel_depth": 40.53555577993393
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 478.9,
+        "model_value": 199.38125014305115,
+        "absolute_diff": 279.51874985694883,
+        "percentage_diff": 58.366830206086625
+      },
+      "top_width": {
+        "prompt_value": 132.89999999999998,
+        "model_value": 196.89696050600304,
+        "absolute_diff": 63.99696050600306,
+        "percentage_diff": 48.15422159970134
+      },
+      "bottom_width": {
+        "prompt_value": 84.7,
+        "model_value": 196.88767779959687,
+        "absolute_diff": 112.18767779959687,
+        "percentage_diff": 132.45298441510846
+      },
+      "channel_depth": {
+        "prompt_value": 66.5,
+        "model_value": 40.53555577993393,
+        "absolute_diff": 25.96444422006607,
+        "percentage_diff": 39.04427702265574
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "75a070a8-0c74-47c2-86c0-71d631aeefab",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, PLA, length 49.68cm, top width 13.21cm, bottom width 8.33cm, depth 6.61cm, wall 0.46cm, rect notch 4.97x2.73cm",
+    "prompt_dimensions": {
+      "total_length": 496.8,
+      "top_width": 132.10000000000002,
+      "bottom_width": 83.3,
+      "channel_depth": 66.10000000000001,
+      "wall_thickness": 4.6000000000000005,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.33553338050842,
+      "width_x": 51.548221707344055,
+      "depth_z": 49.73936825990677,
+      "top_width": 8.59723849026181,
+      "bottom_width": 32.592508240496535,
+      "channel_depth": 49.73936825990677
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 496.8,
+        "model_value": 199.33553338050842,
+        "absolute_diff": 297.4644666194916,
+        "percentage_diff": 59.87610036624227
+      },
+      "top_width": {
+        "prompt_value": 132.10000000000002,
+        "model_value": 8.59723849026181,
+        "absolute_diff": 123.5027615097382,
+        "percentage_diff": 93.49187093848462
+      },
+      "bottom_width": {
+        "prompt_value": 83.3,
+        "model_value": 32.592508240496535,
+        "absolute_diff": 50.70749175950346,
+        "percentage_diff": 60.87333944718303
+      },
+      "channel_depth": {
+        "prompt_value": 66.10000000000001,
+        "model_value": 49.73936825990677,
+        "absolute_diff": 16.36063174009324,
+        "percentage_diff": 24.751333948703838
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "f028e230-b57d-4ccc-9cdd-b07145a9735c",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 41.8cm, top width 11.81cm, bottom width 7.31cm, depth 5.9cm, wall 0.46cm, rect notch 4.64x2.99cm",
+    "prompt_dimensions": {
+      "total_length": 418.0,
+      "top_width": 118.10000000000001,
+      "bottom_width": 73.1,
+      "channel_depth": 59.0,
+      "wall_thickness": 4.6000000000000005,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.35660362243652,
+      "width_x": 52.266111969947815,
+      "depth_z": 41.573354601860046,
+      "top_width": 8.62874547422684,
+      "bottom_width": 30.985300032769857,
+      "channel_depth": 41.573354601860046
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 418.0,
+        "model_value": 199.35660362243652,
+        "absolute_diff": 218.64339637756348,
+        "percentage_diff": 52.30703262621136
+      },
+      "top_width": {
+        "prompt_value": 118.10000000000001,
+        "model_value": 8.62874547422684,
+        "absolute_diff": 109.47125452577316,
+        "percentage_diff": 92.6936956187749
+      },
+      "bottom_width": {
+        "prompt_value": 73.1,
+        "model_value": 30.985300032769857,
+        "absolute_diff": 42.11469996723014,
+        "percentage_diff": 57.61244865558158
+      },
+      "channel_depth": {
+        "prompt_value": 59.0,
+        "model_value": 41.573354601860046,
+        "absolute_diff": 17.426645398139954,
+        "percentage_diff": 29.536687115491446
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "6c53ec1a-b0af-42f4-9229-9f317c47c0c0",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.51cm, top width 12.82cm, bottom width 8.62cm, depth 6.41cm, wall 0.31cm, rect notch 5.97x2.33cm",
+    "prompt_dimensions": {
+      "total_length": 475.09999999999997,
+      "top_width": 128.2,
+      "bottom_width": 86.19999999999999,
+      "channel_depth": 64.1,
+      "wall_thickness": 3.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.40234422683716,
+      "width_x": 51.465609669685364,
+      "depth_z": 41.79340451955795,
+      "top_width": 10.074345688919593,
+      "bottom_width": 30.620854149018346,
+      "channel_depth": 41.79340451955795
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 475.09999999999997,
+        "model_value": 199.40234422683716,
+        "absolute_diff": 275.6976557731628,
+        "percentage_diff": 58.02939502697597
+      },
+      "top_width": {
+        "prompt_value": 128.2,
+        "model_value": 10.074345688919593,
+        "absolute_diff": 118.1256543110804,
+        "percentage_diff": 92.14169603048393
+      },
+      "bottom_width": {
+        "prompt_value": 86.19999999999999,
+        "model_value": 30.620854149018346,
+        "absolute_diff": 55.57914585098165,
+        "percentage_diff": 64.47696734452629
+      },
+      "channel_depth": {
+        "prompt_value": 64.1,
+        "model_value": 41.79340451955795,
+        "absolute_diff": 22.30659548044204,
+        "percentage_diff": 34.79968093672706
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "ce80bb67-32b6-4e63-90ce-4d2b00f0866c",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 38.42cm, top width 10.77cm, bottom width 6.22cm, depth 5.39cm, wall 0.49cm, rect notch 5.45x3.26cm",
+    "prompt_dimensions": {
+      "total_length": 384.20000000000005,
+      "top_width": 107.69999999999999,
+      "bottom_width": 62.199999999999996,
+      "channel_depth": 53.9,
+      "wall_thickness": 4.9,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3742823600769,
+      "width_x": 51.6861230134964,
+      "depth_z": 46.22220993041992,
+      "top_width": 11.09559437768031,
+      "bottom_width": 31.143464819798396,
+      "channel_depth": 46.22220993041992
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 384.20000000000005,
+        "model_value": 199.3742823600769,
+        "absolute_diff": 184.82571763992314,
+        "percentage_diff": 48.106641759480254
+      },
+      "top_width": {
+        "prompt_value": 107.69999999999999,
+        "model_value": 11.09559437768031,
+        "absolute_diff": 96.60440562231967,
+        "percentage_diff": 89.6976839575856
+      },
+      "bottom_width": {
+        "prompt_value": 62.199999999999996,
+        "model_value": 31.143464819798396,
+        "absolute_diff": 31.0565351802016,
+        "percentage_diff": 49.93012086849132
+      },
+      "channel_depth": {
+        "prompt_value": 53.9,
+        "model_value": 46.22220993041992,
+        "absolute_diff": 7.677790069580077,
+        "percentage_diff": 14.244508477885114
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "deb38b06-b9b4-42dd-8c84-023a8dd55c5f",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 42.64cm, top width 11.32cm, bottom width 7.56cm, depth 5.66cm, wall 0.39cm, rect notch 4.91x3.34cm",
+    "prompt_dimensions": {
+      "total_length": 426.4,
+      "top_width": 113.2,
+      "bottom_width": 75.6,
+      "channel_depth": 56.6,
+      "wall_thickness": 3.9000000000000004,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.35944080352783,
+      "width_x": 51.448363065719604,
+      "depth_z": 46.153463423252106,
+      "top_width": 11.773377991827951,
+      "bottom_width": 30.064373087553104,
+      "channel_depth": 46.153463423252106
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 426.4,
+        "model_value": 199.35944080352783,
+        "absolute_diff": 227.04055919647215,
+        "percentage_diff": 53.245909755270205
+      },
+      "top_width": {
+        "prompt_value": 113.2,
+        "model_value": 11.773377991827951,
+        "absolute_diff": 101.42662200817205,
+        "percentage_diff": 89.59948940651242
+      },
+      "bottom_width": {
+        "prompt_value": 75.6,
+        "model_value": 30.064373087553104,
+        "absolute_diff": 45.53562691244689,
+        "percentage_diff": 60.23231073074985
+      },
+      "channel_depth": {
+        "prompt_value": 56.6,
+        "model_value": 46.153463423252106,
+        "absolute_diff": 10.446536576747896,
+        "percentage_diff": 18.456778404148224
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "09a57cd2-661e-451b-8a2e-c076c14162c3",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 47.63cm, top width 13.34cm, bottom width 8.9cm, depth 6.67cm, wall 0.47cm, rect notch 5.2x2.23cm",
+    "prompt_dimensions": {
+      "total_length": 476.3,
+      "top_width": 133.4,
+      "bottom_width": 89.0,
+      "channel_depth": 66.7,
+      "wall_thickness": 4.699999999999999,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.54528212547302,
+      "width_x": 51.52872055768967,
+      "depth_z": 41.6268989443779,
+      "top_width": 12.268170040028338,
+      "bottom_width": 30.612475196549273,
+      "channel_depth": 41.6268989443779
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 476.3,
+        "model_value": 199.54528212547302,
+        "absolute_diff": 276.754717874527,
+        "percentage_diff": 58.105126574538524
+      },
+      "top_width": {
+        "prompt_value": 133.4,
+        "model_value": 12.268170040028338,
+        "absolute_diff": 121.13182995997167,
+        "percentage_diff": 90.80347073461145
+      },
+      "bottom_width": {
+        "prompt_value": 89.0,
+        "model_value": 30.612475196549273,
+        "absolute_diff": 58.38752480345073,
+        "percentage_diff": 65.60396045331542
+      },
+      "channel_depth": {
+        "prompt_value": 66.7,
+        "model_value": 41.6268989443779,
+        "absolute_diff": 25.073101055622104,
+        "percentage_diff": 37.59085615535548
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "e88a9293-c2a6-4155-b92b-f746c940ebe3",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 50.21cm, top width 12.62cm, bottom width 8.86cm, depth 6.31cm, wall 0.37cm, rect notch 4.88x2.22cm",
+    "prompt_dimensions": {
+      "total_length": 502.1,
+      "top_width": 126.19999999999999,
+      "bottom_width": 88.6,
+      "channel_depth": 63.099999999999994,
+      "wall_thickness": 3.7,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.31849837303162,
+      "width_x": 199.35625195503235,
+      "depth_z": 43.34531128406525,
+      "top_width": 13.066906428898031,
+      "bottom_width": 199.32018386711087,
+      "channel_depth": 43.34531128406525
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 502.1,
+        "model_value": 199.31849837303162,
+        "absolute_diff": 302.7815016269684,
+        "percentage_diff": 60.303027609434054
+      },
+      "top_width": {
+        "prompt_value": 126.19999999999999,
+        "model_value": 13.066906428898031,
+        "absolute_diff": 113.13309357110195,
+        "percentage_diff": 89.64587446204592
+      },
+      "bottom_width": {
+        "prompt_value": 88.6,
+        "model_value": 199.32018386711087,
+        "absolute_diff": 110.72018386711088,
+        "percentage_diff": 124.96634747980913
+      },
+      "channel_depth": {
+        "prompt_value": 63.099999999999994,
+        "model_value": 43.34531128406525,
+        "absolute_diff": 19.754688715934748,
+        "percentage_diff": 31.306955175807843
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8cc30175-9af7-4f9e-b158-6e86c8aaf0ff",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, PLA, length 49.53cm, top width 13.06cm, bottom width 8.12cm, depth 6.53cm, wall 0.41cm, rect notch 5.81x2.79cm",
+    "prompt_dimensions": {
+      "total_length": 495.3,
+      "top_width": 130.6,
+      "bottom_width": 81.19999999999999,
+      "channel_depth": 65.3,
+      "wall_thickness": 4.1,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.33055639266968,
+      "width_x": 52.217838168144226,
+      "depth_z": 42.895153164863586,
+      "top_width": 19.55227314106245,
+      "bottom_width": 30.520302118611898,
+      "channel_depth": 42.895153164863586
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 495.3,
+        "model_value": 199.33055639266968,
+        "absolute_diff": 295.96944360733033,
+        "percentage_diff": 59.7555912794933
+      },
+      "top_width": {
+        "prompt_value": 130.6,
+        "model_value": 19.55227314106245,
+        "absolute_diff": 111.04772685893755,
+        "percentage_diff": 85.02888733456169
+      },
+      "bottom_width": {
+        "prompt_value": 81.19999999999999,
+        "model_value": 30.520302118611898,
+        "absolute_diff": 50.679697881388094,
+        "percentage_diff": 62.41342103619224
+      },
+      "channel_depth": {
+        "prompt_value": 65.3,
+        "model_value": 42.895153164863586,
+        "absolute_diff": 22.40484683513641,
+        "percentage_diff": 34.310638338646875
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c470fc39-169e-4cba-a1e9-fa13d530ef63",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 35.83cm, top width 10.02cm, bottom width 6.96cm, depth 5.01cm, wall 0.39cm, rect notch 5.99x2.76cm",
+    "prompt_dimensions": {
+      "total_length": 358.29999999999995,
+      "top_width": 100.19999999999999,
+      "bottom_width": 69.6,
+      "channel_depth": 50.099999999999994,
+      "wall_thickness": 3.9000000000000004,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.52166080474854,
+      "width_x": 198.84517788887024,
+      "depth_z": 45.29953747987747,
+      "top_width": 85.11333312335816,
+      "bottom_width": 198.53583233657608,
+      "channel_depth": 45.29953747987747
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 358.29999999999995,
+        "model_value": 199.52166080474854,
+        "absolute_diff": 158.77833919525142,
+        "percentage_diff": 44.31435645974084
+      },
+      "top_width": {
+        "prompt_value": 100.19999999999999,
+        "model_value": 85.11333312335816,
+        "absolute_diff": 15.086666876641829,
+        "percentage_diff": 15.056553769103623
+      },
+      "bottom_width": {
+        "prompt_value": 69.6,
+        "model_value": 198.53583233657608,
+        "absolute_diff": 128.93583233657608,
+        "percentage_diff": 185.2526326674944
+      },
+      "channel_depth": {
+        "prompt_value": 50.099999999999994,
+        "model_value": 45.29953747987747,
+        "absolute_diff": 4.800462520122522,
+        "percentage_diff": 9.581761517210625
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c34596d7-96c5-43b4-b730-a109dacb4c6a",
+    "prompt": "below-knee prosthetic cover, U-shaped shell, plastic, length 41.55cm, top width 11.65cm, bottom width 7.21cm, depth 5.83cm, wall 0.49cm, rect notch 5.87x3.26cm",
+    "prompt_dimensions": {
+      "total_length": 415.5,
+      "top_width": 116.5,
+      "bottom_width": 72.1,
+      "channel_depth": 58.3,
+      "wall_thickness": 4.9,
+      "_units_detected": "cm",
+      "_format": "fallback_from_prompt"
+    },
+    "model_dimensions": {
+      "total_length": 199.3688941001892,
+      "width_x": 54.872894287109375,
+      "depth_z": 43.497134745121,
+      "top_width": 12.650090248536033,
+      "bottom_width": 31.645287410878232,
+      "channel_depth": 43.497134745121
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 415.5,
+        "model_value": 199.3688941001892,
+        "absolute_diff": 216.1311058998108,
+        "percentage_diff": 52.0171133332878
+      },
+      "top_width": {
+        "prompt_value": 116.5,
+        "model_value": 12.650090248536033,
+        "absolute_diff": 103.84990975146397,
+        "percentage_diff": 89.14155343473303
+      },
+      "bottom_width": {
+        "prompt_value": 72.1,
+        "model_value": 31.645287410878232,
+        "absolute_diff": 40.45471258912176,
+        "percentage_diff": 56.10917141348373
+      },
+      "channel_depth": {
+        "prompt_value": 58.3,
+        "model_value": 43.497134745121,
+        "absolute_diff": 14.802865254878995,
+        "percentage_diff": 25.390849493789013
+      }
+    },
+    "units": "mm"
+  }
+]

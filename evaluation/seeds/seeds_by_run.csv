@@ -1,0 +1,1001 @@
+run,model,prompt_style,unit,condition,uuid,seed,source
+batch_generation_results,INIT,detailed,cm,T2I image,231bbd3f-1927-435b-a34d-a8591e26fce6,849739,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,331fceb3-578b-4aa1-8346-c6c8ccdb214a,822219,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,04a31309-6d3f-459c-83fe-feba884592b0,714793,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,75a070a8-0c74-47c2-86c0-71d631aeefab,762719,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,545508,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,1f0e458a-c23e-4606-8048-f2df1639e9d6,799742,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,f1d86de9-d163-4a53-9d23-dd33b4389c93,870154,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,de5feb32-f3be-4e23-9d48-b693ee3af655,682567,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,dffd03bb-1e72-49f1-8717-2c9bd2af13c2,549773,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,5b64cf17-0333-4781-a77e-c1c85a821c07,268217,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,9dcba73c-46ba-447b-bbec-156086f7a907,4371,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,2ec2ce6f-cc48-435e-8b04-b342bd584136,730651,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,5f1a87ae-ce52-457e-a585-97bfb0bfe70f,829493,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,03a30b14-5f7f-43f1-aa77-a84d8c1b5252,782772,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,650659,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,110671,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,96706168-be8a-4942-b901-28f1207e363c,308792,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,b4d2e3fd-2089-4707-aedc-e5026a4fb13d,912915,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,b7b33723-2b92-4be2-a46c-7a9dfa89248f,170987,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,21239a90-6584-41b3-be6a-f8aebbb12df2,511681,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,425d31aa-4769-4ab8-8fad-9afca6072864,777827,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,037eebc6-1869-473d-bb7b-962e2b1d3b7f,357904,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,bb5c4918-60b2-4303-a6c3-9e7320bee172,340044,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,eddc2d55-7a70-4165-b419-197e81f71ac9,530825,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,008071f9-a71c-496c-82b0-e5ed23798272,918075,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,0e71e519-3bd3-4103-b6a4-ea410c8e0871,699928,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,1c50e560-fbd4-4e5f-a7c1-71f7539fc127,282080,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,a4cf910b-25aa-424b-a484-e83ff6a7437d,863713,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,8bd4a7bc-6fec-4468-90db-3c38885d3c89,691864,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,e88a9293-c2a6-4155-b92b-f746c940ebe3,328652,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,375745,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,c48d51b3-4ff0-43e3-a12f-a34f8aa65304,230792,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,8290e377-035b-4009-a1cb-ca51ba6731b1,28103,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,27c3eb0c-484e-4b76-8e94-049f5ad01706,438631,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,b7e582f1-7374-493e-a56a-6843fb9b1a05,91714,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,40ae95bd-746f-4516-b658-20c2f2d6f13c,762149,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,1eb7354f-3572-461a-b546-875a146333da,928300,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,a16d00eb-45ca-43da-8aa1-54dc705144f3,487374,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,d3e22242-1c40-4a42-9c34-4c4b54e308b8,213319,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,304764,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,986539,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,6a0df167-097e-411d-9ebe-57d4562cd793,707746,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,09a57cd2-661e-451b-8a2e-c076c14162c3,40052,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,deb38b06-b9b4-42dd-8c84-023a8dd55c5f,667291,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,270252,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,780e7aca-2c10-47b4-a122-97ae8b362aea,52582,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,52817538-1cb2-48b4-91af-f32e6351aabe,576134,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,81ec038a-d074-48c1-90c4-abda20b155af,22327,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,ce296e7d-e888-4bbd-b8ec-36a67ca86763,117641,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,ecbf110f-2f2a-432a-8354-94173f7e1c42,997977,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,ce80bb67-32b6-4e63-90ce-4d2b00f0866c,19298,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,b82aee73-85f4-4046-9a14-b9f1719e95d6,452189,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,55a1235a-d6df-4255-b89d-bb0e815e45d1,338546,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,bacb99ac-7a82-4312-b11b-16e96e8c637c,443170,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,117f960d-f64a-4e12-92b9-e810c99c5de4,386364,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,c89f2274-cefb-4631-aa2b-81f9b1c23c8b,926581,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,d53e640f-252a-4c75-90f7-73c46d7c41d1,487465,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,cb94c627-f388-4b27-bef4-29ccad6cee19,326169,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,e6e905a5-3f25-4dc7-bbde-8220f81a0a63,831625,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,3e2a998b-7032-46c0-8fe4-77cabe34e430,60786,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,159b05d1-2e94-475b-8f3a-9da9883d8296,38556,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,652023,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,4863d2c5-224c-4c01-b760-5e4535d4cc39,360626,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,f5cac53e-e22d-4d80-8d86-cce7117270d9,938014,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,709870,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,2711ae63-a7d8-4e9a-a987-4424eda5d6b6,655295,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,71c30d10-df22-4373-b56d-593807d73852,863070,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,34503502-bb62-4aac-94d8-9fc5e6e2bd05,360409,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,45e3f599-9a81-49c2-9311-20c9b99dea26,432587,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,4b5f0bea-415e-4e09-92ca-3a9b7ca743de,272015,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,c34596d7-96c5-43b4-b730-a109dacb4c6a,966632,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,bbecd6ea-6102-4672-a274-a048b5ebfc37,551567,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,ec9d09be-d9d8-49df-9c93-c4e065e7d085,780991,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,b302c1a7-4a43-4730-9e10-e9afd0ced3e8,303073,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,78553371-74b5-4645-821d-95bea0d778d0,750383,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,c279a268-948e-4472-a1e5-9e9f68fb9b5f,57045,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,c60a4777-0de7-476c-9eeb-71bb181db983,332320,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,f2b6154d-60cc-4988-be14-73885c0280f1,475924,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,02ab3358-7d53-48b1-91f0-393ad47a993f,261957,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,f028e230-b57d-4ccc-9cdd-b07145a9735c,34783,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,46e86f1b-d904-4866-b2ea-5aa99574d1e9,776763,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,59a17985-f1e7-41ca-ac57-6875dfd67bab,403331,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,747e948c-4397-4c03-9d39-f6040e50e6e3,494542,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,263461,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,d52cb13e-31c3-40f2-b02e-bab918564317,426105,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,6c53ec1a-b0af-42f4-9229-9f317c47c0c0,984861,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,283417,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,c470fc39-169e-4cba-a1e9-fa13d530ef63,783098,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,257136,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,99498,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,de120618-ac87-45ec-9a52-620890322b22,807492,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,10cc3747-4c53-4729-91fe-ac8c3483babb,612030,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,8e20db67-63e1-45b0-b83a-d62021f7097e,355514,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,fdee7837-a2ee-41a4-bff4-762905845c5a,85940,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,55864f9c-3825-46e5-885d-694ed2d1e2ff,527226,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,357511,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,fffaf972-24f5-4edd-a4ad-8c2102141109,164334,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,616f2934-8143-407f-9eaa-0bdd91946d50,350629,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,fe540525-56cd-453f-9bc5-263fcd36bdd7,256638,out;json+zip
+batch_generation_results,INIT,detailed,cm,T2I image,437cad5a-ed5b-4085-872c-b294ba7da52f,252976,out;json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",231bbd3f-1927-435b-a34d-a8591e26fce6,849739,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",331fceb3-578b-4aa1-8346-c6c8ccdb214a,822219,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",04a31309-6d3f-459c-83fe-feba884592b0,714793,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",75a070a8-0c74-47c2-86c0-71d631aeefab,762719,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,545508,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",1f0e458a-c23e-4606-8048-f2df1639e9d6,799742,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",f1d86de9-d163-4a53-9d23-dd33b4389c93,870154,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",de5feb32-f3be-4e23-9d48-b693ee3af655,682567,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",dffd03bb-1e72-49f1-8717-2c9bd2af13c2,549773,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",5b64cf17-0333-4781-a77e-c1c85a821c07,268217,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",9dcba73c-46ba-447b-bbec-156086f7a907,4371,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",2ec2ce6f-cc48-435e-8b04-b342bd584136,730651,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",5f1a87ae-ce52-457e-a585-97bfb0bfe70f,829493,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",03a30b14-5f7f-43f1-aa77-a84d8c1b5252,782772,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,650659,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,110671,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",96706168-be8a-4942-b901-28f1207e363c,308792,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",b4d2e3fd-2089-4707-aedc-e5026a4fb13d,912915,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",b7b33723-2b92-4be2-a46c-7a9dfa89248f,170987,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",21239a90-6584-41b3-be6a-f8aebbb12df2,511681,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",425d31aa-4769-4ab8-8fad-9afca6072864,777827,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",037eebc6-1869-473d-bb7b-962e2b1d3b7f,357904,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",bb5c4918-60b2-4303-a6c3-9e7320bee172,340044,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",eddc2d55-7a70-4165-b419-197e81f71ac9,530825,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",008071f9-a71c-496c-82b0-e5ed23798272,918075,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",0e71e519-3bd3-4103-b6a4-ea410c8e0871,699928,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",1c50e560-fbd4-4e5f-a7c1-71f7539fc127,282080,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",a4cf910b-25aa-424b-a484-e83ff6a7437d,863713,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",8bd4a7bc-6fec-4468-90db-3c38885d3c89,691864,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",e88a9293-c2a6-4155-b92b-f746c940ebe3,328652,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,375745,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",c48d51b3-4ff0-43e3-a12f-a34f8aa65304,230792,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",8290e377-035b-4009-a1cb-ca51ba6731b1,28103,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",27c3eb0c-484e-4b76-8e94-049f5ad01706,438631,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",b7e582f1-7374-493e-a56a-6843fb9b1a05,91714,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",40ae95bd-746f-4516-b658-20c2f2d6f13c,762149,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",1eb7354f-3572-461a-b546-875a146333da,928300,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",a16d00eb-45ca-43da-8aa1-54dc705144f3,487374,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",d3e22242-1c40-4a42-9c34-4c4b54e308b8,213319,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,304764,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,986539,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",6a0df167-097e-411d-9ebe-57d4562cd793,707746,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",09a57cd2-661e-451b-8a2e-c076c14162c3,40052,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",deb38b06-b9b4-42dd-8c84-023a8dd55c5f,667291,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,270252,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",780e7aca-2c10-47b4-a122-97ae8b362aea,52582,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",52817538-1cb2-48b4-91af-f32e6351aabe,576134,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",81ec038a-d074-48c1-90c4-abda20b155af,22327,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",ce296e7d-e888-4bbd-b8ec-36a67ca86763,117641,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",ecbf110f-2f2a-432a-8354-94173f7e1c42,997977,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",ce80bb67-32b6-4e63-90ce-4d2b00f0866c,19298,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",b82aee73-85f4-4046-9a14-b9f1719e95d6,452189,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",55a1235a-d6df-4255-b89d-bb0e815e45d1,338546,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",bacb99ac-7a82-4312-b11b-16e96e8c637c,443170,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",117f960d-f64a-4e12-92b9-e810c99c5de4,386364,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",c89f2274-cefb-4631-aa2b-81f9b1c23c8b,926581,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",d53e640f-252a-4c75-90f7-73c46d7c41d1,487465,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",cb94c627-f388-4b27-bef4-29ccad6cee19,326169,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",e6e905a5-3f25-4dc7-bbde-8220f81a0a63,831625,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",3e2a998b-7032-46c0-8fe4-77cabe34e430,60786,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",159b05d1-2e94-475b-8f3a-9da9883d8296,38556,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,652023,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",4863d2c5-224c-4c01-b760-5e4535d4cc39,360626,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",f5cac53e-e22d-4d80-8d86-cce7117270d9,938014,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,709870,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",2711ae63-a7d8-4e9a-a987-4424eda5d6b6,655295,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",71c30d10-df22-4373-b56d-593807d73852,863070,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",34503502-bb62-4aac-94d8-9fc5e6e2bd05,360409,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",45e3f599-9a81-49c2-9311-20c9b99dea26,432587,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",4b5f0bea-415e-4e09-92ca-3a9b7ca743de,272015,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",c34596d7-96c5-43b4-b730-a109dacb4c6a,966632,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",bbecd6ea-6102-4672-a274-a048b5ebfc37,551567,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",ec9d09be-d9d8-49df-9c93-c4e065e7d085,780991,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",b302c1a7-4a43-4730-9e10-e9afd0ced3e8,303073,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",78553371-74b5-4645-821d-95bea0d778d0,750383,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",c279a268-948e-4472-a1e5-9e9f68fb9b5f,57045,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",c60a4777-0de7-476c-9eeb-71bb181db983,332320,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",f2b6154d-60cc-4988-be14-73885c0280f1,475924,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",02ab3358-7d53-48b1-91f0-393ad47a993f,261957,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",f028e230-b57d-4ccc-9cdd-b07145a9735c,34783,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",46e86f1b-d904-4866-b2ea-5aa99574d1e9,776763,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",59a17985-f1e7-41ca-ac57-6875dfd67bab,403331,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",747e948c-4397-4c03-9d39-f6040e50e6e3,494542,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,263461,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",d52cb13e-31c3-40f2-b02e-bab918564317,426105,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",6c53ec1a-b0af-42f4-9229-9f317c47c0c0,984861,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,283417,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",c470fc39-169e-4cba-a1e9-fa13d530ef63,783098,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,257136,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,99498,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",de120618-ac87-45ec-9a52-620890322b22,807492,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",10cc3747-4c53-4729-91fe-ac8c3483babb,612030,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",8e20db67-63e1-45b0-b83a-d62021f7097e,355514,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",fdee7837-a2ee-41a4-bff4-762905845c5a,85940,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",55864f9c-3825-46e5-885d-694ed2d1e2ff,527226,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,357511,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",fffaf972-24f5-4edd-a4ad-8c2102141109,164334,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",616f2934-8143-407f-9eaa-0bdd91946d50,350629,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",fe540525-56cd-453f-9bc5-263fcd36bdd7,256638,json+zip
+batch_generation_results_with_img,INIT,detailed,cm,"image condition (with_img), seeds of batch_generation_results",437cad5a-ed5b-4085-872c-b294ba7da52f,252976,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",231bbd3f-1927-435b-a34d-a8591e26fce6,2933531602226271284,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",331fceb3-578b-4aa1-8346-c6c8ccdb214a,8032194041636916786,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",04a31309-6d3f-459c-83fe-feba884592b0,2080657618989158111,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",75a070a8-0c74-47c2-86c0-71d631aeefab,17359885528109772515,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,14496574127978718898,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",1f0e458a-c23e-4606-8048-f2df1639e9d6,15788759362831327211,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",f1d86de9-d163-4a53-9d23-dd33b4389c93,3372716545259558926,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",de5feb32-f3be-4e23-9d48-b693ee3af655,7266671837293882350,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",dffd03bb-1e72-49f1-8717-2c9bd2af13c2,15380308633904623743,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",5b64cf17-0333-4781-a77e-c1c85a821c07,6569763421369642093,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",9dcba73c-46ba-447b-bbec-156086f7a907,15349920521729504409,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",2ec2ce6f-cc48-435e-8b04-b342bd584136,15757864950864802818,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",5f1a87ae-ce52-457e-a585-97bfb0bfe70f,12710873307576515266,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",03a30b14-5f7f-43f1-aa77-a84d8c1b5252,3668300446300776198,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,6906867220293283436,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,2527272808226924509,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",96706168-be8a-4942-b901-28f1207e363c,18095842034608074811,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",b4d2e3fd-2089-4707-aedc-e5026a4fb13d,1211269140559213352,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",b7b33723-2b92-4be2-a46c-7a9dfa89248f,14621772100519685308,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",21239a90-6584-41b3-be6a-f8aebbb12df2,10410279848368236979,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",425d31aa-4769-4ab8-8fad-9afca6072864,3920094183122778605,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",037eebc6-1869-473d-bb7b-962e2b1d3b7f,102031994218569078,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",bb5c4918-60b2-4303-a6c3-9e7320bee172,2939110897606514989,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",eddc2d55-7a70-4165-b419-197e81f71ac9,5082177148971452532,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",008071f9-a71c-496c-82b0-e5ed23798272,15184751703277755733,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",0e71e519-3bd3-4103-b6a4-ea410c8e0871,18061854582929062325,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",1c50e560-fbd4-4e5f-a7c1-71f7539fc127,2843614377310999275,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",a4cf910b-25aa-424b-a484-e83ff6a7437d,13433179980114785317,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",8bd4a7bc-6fec-4468-90db-3c38885d3c89,12446482300771590365,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",e88a9293-c2a6-4155-b92b-f746c940ebe3,16188565671265956300,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,9284192743963915055,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",c48d51b3-4ff0-43e3-a12f-a34f8aa65304,5260768602343354472,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",8290e377-035b-4009-a1cb-ca51ba6731b1,8145160732450993780,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",27c3eb0c-484e-4b76-8e94-049f5ad01706,11231088193572384398,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",b7e582f1-7374-493e-a56a-6843fb9b1a05,8804475648624617166,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",40ae95bd-746f-4516-b658-20c2f2d6f13c,15123939794271563060,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",1eb7354f-3572-461a-b546-875a146333da,6279587552888000562,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",a16d00eb-45ca-43da-8aa1-54dc705144f3,3186898882814022953,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",d3e22242-1c40-4a42-9c34-4c4b54e308b8,10021984102595157338,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,7372392320317876207,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,16005860232440796747,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",6a0df167-097e-411d-9ebe-57d4562cd793,13513999784054074108,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",09a57cd2-661e-451b-8a2e-c076c14162c3,10240104792974533485,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",deb38b06-b9b4-42dd-8c84-023a8dd55c5f,18334909364090810636,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,1774490313437022274,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",780e7aca-2c10-47b4-a122-97ae8b362aea,1085913912032317213,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",52817538-1cb2-48b4-91af-f32e6351aabe,3940560944456476870,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",81ec038a-d074-48c1-90c4-abda20b155af,16709555771121997218,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",ce296e7d-e888-4bbd-b8ec-36a67ca86763,3594053229019563330,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",ecbf110f-2f2a-432a-8354-94173f7e1c42,913736824937548293,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",ce80bb67-32b6-4e63-90ce-4d2b00f0866c,12559493169027217321,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",b82aee73-85f4-4046-9a14-b9f1719e95d6,17228431353061136509,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",55a1235a-d6df-4255-b89d-bb0e815e45d1,1229150316665959287,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",bacb99ac-7a82-4312-b11b-16e96e8c637c,809834513295515395,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",117f960d-f64a-4e12-92b9-e810c99c5de4,1754204441324128837,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",c89f2274-cefb-4631-aa2b-81f9b1c23c8b,17890991974350495829,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",d53e640f-252a-4c75-90f7-73c46d7c41d1,2407273080160156966,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",cb94c627-f388-4b27-bef4-29ccad6cee19,11681460333969784667,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",e6e905a5-3f25-4dc7-bbde-8220f81a0a63,3072926690097576518,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",3e2a998b-7032-46c0-8fe4-77cabe34e430,3890178154411561735,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",159b05d1-2e94-475b-8f3a-9da9883d8296,9905835865069241796,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,9942175373903594281,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",4863d2c5-224c-4c01-b760-5e4535d4cc39,15545394768179542814,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",f5cac53e-e22d-4d80-8d86-cce7117270d9,10100482604089953723,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,6921130350038906469,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",2711ae63-a7d8-4e9a-a987-4424eda5d6b6,14804578081966665086,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",71c30d10-df22-4373-b56d-593807d73852,11419287767657536410,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",34503502-bb62-4aac-94d8-9fc5e6e2bd05,4376519533144022878,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",45e3f599-9a81-49c2-9311-20c9b99dea26,5111412839823643184,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",4b5f0bea-415e-4e09-92ca-3a9b7ca743de,7731878174416967849,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",c34596d7-96c5-43b4-b730-a109dacb4c6a,2831051323891848964,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",bbecd6ea-6102-4672-a274-a048b5ebfc37,6439882453779128587,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",ec9d09be-d9d8-49df-9c93-c4e065e7d085,8827830236824286084,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",b302c1a7-4a43-4730-9e10-e9afd0ced3e8,4796038609257513242,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",78553371-74b5-4645-821d-95bea0d778d0,7251210994263770029,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",c279a268-948e-4472-a1e5-9e9f68fb9b5f,9961036514481198543,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",c60a4777-0de7-476c-9eeb-71bb181db983,11140575636876611594,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",f2b6154d-60cc-4988-be14-73885c0280f1,11759332464220351243,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",02ab3358-7d53-48b1-91f0-393ad47a993f,9597465741065543531,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",f028e230-b57d-4ccc-9cdd-b07145a9735c,2433644740936060849,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",46e86f1b-d904-4866-b2ea-5aa99574d1e9,2252048863690582792,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",59a17985-f1e7-41ca-ac57-6875dfd67bab,10119578108780027103,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",747e948c-4397-4c03-9d39-f6040e50e6e3,11943730352557161672,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,10895263401652414917,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",d52cb13e-31c3-40f2-b02e-bab918564317,4107867327093964977,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",6c53ec1a-b0af-42f4-9229-9f317c47c0c0,16316558393508866934,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,2973189303510039858,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",c470fc39-169e-4cba-a1e9-fa13d530ef63,1212260631839923447,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,10236665475102493720,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,10365995306369409073,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",de120618-ac87-45ec-9a52-620890322b22,8173914572579181855,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",10cc3747-4c53-4729-91fe-ac8c3483babb,8164715249280290433,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",8e20db67-63e1-45b0-b83a-d62021f7097e,17171697792612036989,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",fdee7837-a2ee-41a4-bff4-762905845c5a,10538525513742085267,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",55864f9c-3825-46e5-885d-694ed2d1e2ff,13453426231105447540,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,16816670817194314038,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",fffaf972-24f5-4edd-a4ad-8c2102141109,5236714103204988611,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",616f2934-8143-407f-9eaa-0bdd91946d50,7379569019201699829,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",fe540525-56cd-453f-9bc5-263fcd36bdd7,10372750746120925614,json+zip
+batch_generation_results_with_realimg_less_alpa,INIT,detailed,cm,"real image (realimg), lower prior alpha",437cad5a-ed5b-4085-872c-b294ba7da52f,489092661587462791,json+zip
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,231bbd3f-1927-435b-a34d-a8591e26fce6,406210,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,331fceb3-578b-4aa1-8346-c6c8ccdb214a,870743,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,04a31309-6d3f-459c-83fe-feba884592b0,434058,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,75a070a8-0c74-47c2-86c0-71d631aeefab,310860,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,988501,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,1f0e458a-c23e-4606-8048-f2df1639e9d6,991389,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,f1d86de9-d163-4a53-9d23-dd33b4389c93,933787,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,de5feb32-f3be-4e23-9d48-b693ee3af655,812400,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,dffd03bb-1e72-49f1-8717-2c9bd2af13c2,867799,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,5b64cf17-0333-4781-a77e-c1c85a821c07,918148,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,9dcba73c-46ba-447b-bbec-156086f7a907,234396,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,2ec2ce6f-cc48-435e-8b04-b342bd584136,241060,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,5f1a87ae-ce52-457e-a585-97bfb0bfe70f,243747,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,03a30b14-5f7f-43f1-aa77-a84d8c1b5252,611676,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,728164,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,844404,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,96706168-be8a-4942-b901-28f1207e363c,863569,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,b4d2e3fd-2089-4707-aedc-e5026a4fb13d,980194,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,b7b33723-2b92-4be2-a46c-7a9dfa89248f,953323,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,21239a90-6584-41b3-be6a-f8aebbb12df2,308716,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,425d31aa-4769-4ab8-8fad-9afca6072864,390657,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,037eebc6-1869-473d-bb7b-962e2b1d3b7f,880377,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,bb5c4918-60b2-4303-a6c3-9e7320bee172,123905,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,eddc2d55-7a70-4165-b419-197e81f71ac9,988616,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,008071f9-a71c-496c-82b0-e5ed23798272,808574,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,0e71e519-3bd3-4103-b6a4-ea410c8e0871,249640,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,1c50e560-fbd4-4e5f-a7c1-71f7539fc127,915867,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,a4cf910b-25aa-424b-a484-e83ff6a7437d,550882,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,8bd4a7bc-6fec-4468-90db-3c38885d3c89,543039,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,e88a9293-c2a6-4155-b92b-f746c940ebe3,909076,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,801626,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,c48d51b3-4ff0-43e3-a12f-a34f8aa65304,285164,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,8290e377-035b-4009-a1cb-ca51ba6731b1,385520,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,27c3eb0c-484e-4b76-8e94-049f5ad01706,83968,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,b7e582f1-7374-493e-a56a-6843fb9b1a05,756379,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,40ae95bd-746f-4516-b658-20c2f2d6f13c,562409,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,1eb7354f-3572-461a-b546-875a146333da,11209,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,a16d00eb-45ca-43da-8aa1-54dc705144f3,227432,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,d3e22242-1c40-4a42-9c34-4c4b54e308b8,185276,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,524919,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,829752,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,6a0df167-097e-411d-9ebe-57d4562cd793,86720,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,09a57cd2-661e-451b-8a2e-c076c14162c3,828481,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,deb38b06-b9b4-42dd-8c84-023a8dd55c5f,602529,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,524030,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,780e7aca-2c10-47b4-a122-97ae8b362aea,828624,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,52817538-1cb2-48b4-91af-f32e6351aabe,876578,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,81ec038a-d074-48c1-90c4-abda20b155af,828541,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,ce296e7d-e888-4bbd-b8ec-36a67ca86763,755700,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,ecbf110f-2f2a-432a-8354-94173f7e1c42,185431,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,ce80bb67-32b6-4e63-90ce-4d2b00f0866c,723469,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,b82aee73-85f4-4046-9a14-b9f1719e95d6,540377,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,55a1235a-d6df-4255-b89d-bb0e815e45d1,817816,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,bacb99ac-7a82-4312-b11b-16e96e8c637c,206450,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,117f960d-f64a-4e12-92b9-e810c99c5de4,688182,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,c89f2274-cefb-4631-aa2b-81f9b1c23c8b,993876,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,d53e640f-252a-4c75-90f7-73c46d7c41d1,921198,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,cb94c627-f388-4b27-bef4-29ccad6cee19,310393,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,e6e905a5-3f25-4dc7-bbde-8220f81a0a63,708808,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,3e2a998b-7032-46c0-8fe4-77cabe34e430,430513,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,159b05d1-2e94-475b-8f3a-9da9883d8296,647530,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,577491,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,4863d2c5-224c-4c01-b760-5e4535d4cc39,662267,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,f5cac53e-e22d-4d80-8d86-cce7117270d9,267528,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,580010,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,2711ae63-a7d8-4e9a-a987-4424eda5d6b6,686358,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,71c30d10-df22-4373-b56d-593807d73852,984582,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,34503502-bb62-4aac-94d8-9fc5e6e2bd05,135057,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,45e3f599-9a81-49c2-9311-20c9b99dea26,794553,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,4b5f0bea-415e-4e09-92ca-3a9b7ca743de,633502,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,c34596d7-96c5-43b4-b730-a109dacb4c6a,563766,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,bbecd6ea-6102-4672-a274-a048b5ebfc37,385516,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,ec9d09be-d9d8-49df-9c93-c4e065e7d085,764750,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,b302c1a7-4a43-4730-9e10-e9afd0ced3e8,75773,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,78553371-74b5-4645-821d-95bea0d778d0,589021,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,c279a268-948e-4472-a1e5-9e9f68fb9b5f,974218,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,c60a4777-0de7-476c-9eeb-71bb181db983,287674,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,f2b6154d-60cc-4988-be14-73885c0280f1,421798,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,02ab3358-7d53-48b1-91f0-393ad47a993f,363436,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,f028e230-b57d-4ccc-9cdd-b07145a9735c,628992,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,46e86f1b-d904-4866-b2ea-5aa99574d1e9,78263,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,59a17985-f1e7-41ca-ac57-6875dfd67bab,828696,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,747e948c-4397-4c03-9d39-f6040e50e6e3,909451,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,15268,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,d52cb13e-31c3-40f2-b02e-bab918564317,128673,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,6c53ec1a-b0af-42f4-9229-9f317c47c0c0,998355,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,773617,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,c470fc39-169e-4cba-a1e9-fa13d530ef63,444920,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,913325,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,536227,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,de120618-ac87-45ec-9a52-620890322b22,806375,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,10cc3747-4c53-4729-91fe-ac8c3483babb,14932,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,8e20db67-63e1-45b0-b83a-d62021f7097e,949250,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,fdee7837-a2ee-41a4-bff4-762905845c5a,596208,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,55864f9c-3825-46e5-885d-694ed2d1e2ff,719790,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,254840,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,fffaf972-24f5-4edd-a4ad-8c2102141109,485879,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,616f2934-8143-407f-9eaa-0bdd91946d50,318613,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,fe540525-56cd-453f-9bc5-263fcd36bdd7,419188,out;json
+batch_INIT_mm_detailed_100_res,INIT,detailed,mm,image of batch_generation_results,437cad5a-ed5b-4085-872c-b294ba7da52f,749024,out;json
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,231bbd3f-1927-435b-a34d-a8591e26fce6,540706,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,331fceb3-578b-4aa1-8346-c6c8ccdb214a,212286,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,04a31309-6d3f-459c-83fe-feba884592b0,149525,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,75a070a8-0c74-47c2-86c0-71d631aeefab,246293,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,763977,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,1f0e458a-c23e-4606-8048-f2df1639e9d6,564684,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,f1d86de9-d163-4a53-9d23-dd33b4389c93,773302,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,de5feb32-f3be-4e23-9d48-b693ee3af655,391223,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,dffd03bb-1e72-49f1-8717-2c9bd2af13c2,124702,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,5b64cf17-0333-4781-a77e-c1c85a821c07,987315,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,9dcba73c-46ba-447b-bbec-156086f7a907,537635,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,2ec2ce6f-cc48-435e-8b04-b342bd584136,585235,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,5f1a87ae-ce52-457e-a585-97bfb0bfe70f,831743,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,03a30b14-5f7f-43f1-aa77-a84d8c1b5252,747880,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,941121,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,82599,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,96706168-be8a-4942-b901-28f1207e363c,95065,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,b4d2e3fd-2089-4707-aedc-e5026a4fb13d,842634,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,b7b33723-2b92-4be2-a46c-7a9dfa89248f,630334,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,21239a90-6584-41b3-be6a-f8aebbb12df2,769516,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,425d31aa-4769-4ab8-8fad-9afca6072864,729460,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,037eebc6-1869-473d-bb7b-962e2b1d3b7f,683697,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,bb5c4918-60b2-4303-a6c3-9e7320bee172,9488,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,eddc2d55-7a70-4165-b419-197e81f71ac9,16904,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,008071f9-a71c-496c-82b0-e5ed23798272,926365,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,0e71e519-3bd3-4103-b6a4-ea410c8e0871,67452,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,1c50e560-fbd4-4e5f-a7c1-71f7539fc127,765397,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,a4cf910b-25aa-424b-a484-e83ff6a7437d,510101,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,8bd4a7bc-6fec-4468-90db-3c38885d3c89,284510,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,e88a9293-c2a6-4155-b92b-f746c940ebe3,2103,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,816824,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,c48d51b3-4ff0-43e3-a12f-a34f8aa65304,539037,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,8290e377-035b-4009-a1cb-ca51ba6731b1,522460,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,27c3eb0c-484e-4b76-8e94-049f5ad01706,262931,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,b7e582f1-7374-493e-a56a-6843fb9b1a05,192101,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,40ae95bd-746f-4516-b658-20c2f2d6f13c,665953,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,1eb7354f-3572-461a-b546-875a146333da,975571,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,a16d00eb-45ca-43da-8aa1-54dc705144f3,904952,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,d3e22242-1c40-4a42-9c34-4c4b54e308b8,406622,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,850476,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,86611,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,6a0df167-097e-411d-9ebe-57d4562cd793,399232,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,09a57cd2-661e-451b-8a2e-c076c14162c3,134394,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,deb38b06-b9b4-42dd-8c84-023a8dd55c5f,637072,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,739329,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,780e7aca-2c10-47b4-a122-97ae8b362aea,533090,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,52817538-1cb2-48b4-91af-f32e6351aabe,503816,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,81ec038a-d074-48c1-90c4-abda20b155af,775006,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,ce296e7d-e888-4bbd-b8ec-36a67ca86763,388641,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,ecbf110f-2f2a-432a-8354-94173f7e1c42,536044,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,ce80bb67-32b6-4e63-90ce-4d2b00f0866c,122903,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,b82aee73-85f4-4046-9a14-b9f1719e95d6,534227,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,55a1235a-d6df-4255-b89d-bb0e815e45d1,901333,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,bacb99ac-7a82-4312-b11b-16e96e8c637c,285104,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,117f960d-f64a-4e12-92b9-e810c99c5de4,604353,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,c89f2274-cefb-4631-aa2b-81f9b1c23c8b,991528,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,d53e640f-252a-4c75-90f7-73c46d7c41d1,313909,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,cb94c627-f388-4b27-bef4-29ccad6cee19,979839,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,e6e905a5-3f25-4dc7-bbde-8220f81a0a63,725366,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,3e2a998b-7032-46c0-8fe4-77cabe34e430,362664,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,159b05d1-2e94-475b-8f3a-9da9883d8296,60001,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,854555,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,4863d2c5-224c-4c01-b760-5e4535d4cc39,588125,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,f5cac53e-e22d-4d80-8d86-cce7117270d9,130554,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,898543,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,2711ae63-a7d8-4e9a-a987-4424eda5d6b6,61786,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,71c30d10-df22-4373-b56d-593807d73852,427487,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,34503502-bb62-4aac-94d8-9fc5e6e2bd05,977870,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,45e3f599-9a81-49c2-9311-20c9b99dea26,97956,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,4b5f0bea-415e-4e09-92ca-3a9b7ca743de,463525,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,c34596d7-96c5-43b4-b730-a109dacb4c6a,417387,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,bbecd6ea-6102-4672-a274-a048b5ebfc37,780713,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,ec9d09be-d9d8-49df-9c93-c4e065e7d085,377964,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,b302c1a7-4a43-4730-9e10-e9afd0ced3e8,257606,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,78553371-74b5-4645-821d-95bea0d778d0,235155,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,c279a268-948e-4472-a1e5-9e9f68fb9b5f,793170,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,c60a4777-0de7-476c-9eeb-71bb181db983,888421,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,f2b6154d-60cc-4988-be14-73885c0280f1,881228,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,02ab3358-7d53-48b1-91f0-393ad47a993f,288335,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,f028e230-b57d-4ccc-9cdd-b07145a9735c,299687,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,46e86f1b-d904-4866-b2ea-5aa99574d1e9,474654,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,59a17985-f1e7-41ca-ac57-6875dfd67bab,718494,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,747e948c-4397-4c03-9d39-f6040e50e6e3,88565,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,847184,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,d52cb13e-31c3-40f2-b02e-bab918564317,234603,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,6c53ec1a-b0af-42f4-9229-9f317c47c0c0,687178,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,38020,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,c470fc39-169e-4cba-a1e9-fa13d530ef63,515764,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,114161,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,391720,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,de120618-ac87-45ec-9a52-620890322b22,596748,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,10cc3747-4c53-4729-91fe-ac8c3483babb,147829,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,8e20db67-63e1-45b0-b83a-d62021f7097e,756207,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,fdee7837-a2ee-41a4-bff4-762905845c5a,607191,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,55864f9c-3825-46e5-885d-694ed2d1e2ff,367070,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,942146,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,fffaf972-24f5-4edd-a4ad-8c2102141109,621984,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,616f2934-8143-407f-9eaa-0bdd91946d50,671931,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,fe540525-56cd-453f-9bc5-263fcd36bdd7,735820,out;json+zip
+batch_INIT_mm_trained_100_res,INIT,training,mm,image of batch_generation_results,437cad5a-ed5b-4085-872c-b294ba7da52f,261027,out;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,231bbd3f-1927-435b-a34d-a8591e26fce6,189436,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,331fceb3-578b-4aa1-8346-c6c8ccdb214a,269976,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,04a31309-6d3f-459c-83fe-feba884592b0,772942,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,75a070a8-0c74-47c2-86c0-71d631aeefab,133853,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,520483,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,1f0e458a-c23e-4606-8048-f2df1639e9d6,695807,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,f1d86de9-d163-4a53-9d23-dd33b4389c93,721717,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,de5feb32-f3be-4e23-9d48-b693ee3af655,37351,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,dffd03bb-1e72-49f1-8717-2c9bd2af13c2,701071,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,5b64cf17-0333-4781-a77e-c1c85a821c07,850339,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,9dcba73c-46ba-447b-bbec-156086f7a907,409759,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,2ec2ce6f-cc48-435e-8b04-b342bd584136,620953,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,5f1a87ae-ce52-457e-a585-97bfb0bfe70f,400101,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,03a30b14-5f7f-43f1-aa77-a84d8c1b5252,444340,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,540922,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,109498,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,96706168-be8a-4942-b901-28f1207e363c,20287,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,b4d2e3fd-2089-4707-aedc-e5026a4fb13d,873292,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,b7b33723-2b92-4be2-a46c-7a9dfa89248f,3892,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,21239a90-6584-41b3-be6a-f8aebbb12df2,960594,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,425d31aa-4769-4ab8-8fad-9afca6072864,192102,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,037eebc6-1869-473d-bb7b-962e2b1d3b7f,222808,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,bb5c4918-60b2-4303-a6c3-9e7320bee172,788610,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,eddc2d55-7a70-4165-b419-197e81f71ac9,247169,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,008071f9-a71c-496c-82b0-e5ed23798272,924020,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,0e71e519-3bd3-4103-b6a4-ea410c8e0871,809376,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,1c50e560-fbd4-4e5f-a7c1-71f7539fc127,887493,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,a4cf910b-25aa-424b-a484-e83ff6a7437d,98624,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,8bd4a7bc-6fec-4468-90db-3c38885d3c89,486284,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,e88a9293-c2a6-4155-b92b-f746c940ebe3,432306,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,165454,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,c48d51b3-4ff0-43e3-a12f-a34f8aa65304,626295,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,8290e377-035b-4009-a1cb-ca51ba6731b1,298764,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,27c3eb0c-484e-4b76-8e94-049f5ad01706,25212,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,b7e582f1-7374-493e-a56a-6843fb9b1a05,48004,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,40ae95bd-746f-4516-b658-20c2f2d6f13c,742553,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,1eb7354f-3572-461a-b546-875a146333da,744359,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,a16d00eb-45ca-43da-8aa1-54dc705144f3,903527,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,d3e22242-1c40-4a42-9c34-4c4b54e308b8,34438,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,112350,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,942541,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,6a0df167-097e-411d-9ebe-57d4562cd793,633080,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,09a57cd2-661e-451b-8a2e-c076c14162c3,623453,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,deb38b06-b9b4-42dd-8c84-023a8dd55c5f,76566,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,607725,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,780e7aca-2c10-47b4-a122-97ae8b362aea,8884,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,52817538-1cb2-48b4-91af-f32e6351aabe,24359,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,81ec038a-d074-48c1-90c4-abda20b155af,432712,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,ce296e7d-e888-4bbd-b8ec-36a67ca86763,279612,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,ecbf110f-2f2a-432a-8354-94173f7e1c42,729802,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,ce80bb67-32b6-4e63-90ce-4d2b00f0866c,237421,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,b82aee73-85f4-4046-9a14-b9f1719e95d6,778134,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,55a1235a-d6df-4255-b89d-bb0e815e45d1,578871,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,bacb99ac-7a82-4312-b11b-16e96e8c637c,293466,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,117f960d-f64a-4e12-92b9-e810c99c5de4,981841,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,c89f2274-cefb-4631-aa2b-81f9b1c23c8b,216103,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,d53e640f-252a-4c75-90f7-73c46d7c41d1,473012,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,cb94c627-f388-4b27-bef4-29ccad6cee19,792910,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,e6e905a5-3f25-4dc7-bbde-8220f81a0a63,210903,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,3e2a998b-7032-46c0-8fe4-77cabe34e430,730090,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,159b05d1-2e94-475b-8f3a-9da9883d8296,372484,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,141192,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,4863d2c5-224c-4c01-b760-5e4535d4cc39,541808,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,f5cac53e-e22d-4d80-8d86-cce7117270d9,766014,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,596601,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,2711ae63-a7d8-4e9a-a987-4424eda5d6b6,50633,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,71c30d10-df22-4373-b56d-593807d73852,488520,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,34503502-bb62-4aac-94d8-9fc5e6e2bd05,610406,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,45e3f599-9a81-49c2-9311-20c9b99dea26,126224,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,4b5f0bea-415e-4e09-92ca-3a9b7ca743de,599270,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,c34596d7-96c5-43b4-b730-a109dacb4c6a,251430,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,bbecd6ea-6102-4672-a274-a048b5ebfc37,145368,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,ec9d09be-d9d8-49df-9c93-c4e065e7d085,269520,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,b302c1a7-4a43-4730-9e10-e9afd0ced3e8,516652,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,78553371-74b5-4645-821d-95bea0d778d0,588673,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,c279a268-948e-4472-a1e5-9e9f68fb9b5f,546880,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,c60a4777-0de7-476c-9eeb-71bb181db983,71950,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,f2b6154d-60cc-4988-be14-73885c0280f1,1664,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,02ab3358-7d53-48b1-91f0-393ad47a993f,366671,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,f028e230-b57d-4ccc-9cdd-b07145a9735c,845311,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,46e86f1b-d904-4866-b2ea-5aa99574d1e9,597667,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,59a17985-f1e7-41ca-ac57-6875dfd67bab,180775,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,747e948c-4397-4c03-9d39-f6040e50e6e3,668335,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,61063,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,d52cb13e-31c3-40f2-b02e-bab918564317,991893,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,6c53ec1a-b0af-42f4-9229-9f317c47c0c0,952459,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,341966,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,c470fc39-169e-4cba-a1e9-fa13d530ef63,758887,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,132251,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,649242,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,de120618-ac87-45ec-9a52-620890322b22,319590,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,10cc3747-4c53-4729-91fe-ac8c3483babb,572191,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,8e20db67-63e1-45b0-b83a-d62021f7097e,148830,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,fdee7837-a2ee-41a4-bff4-762905845c5a,569072,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,55864f9c-3825-46e5-885d-694ed2d1e2ff,980580,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,380417,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,fffaf972-24f5-4edd-a4ad-8c2102141109,226406,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,616f2934-8143-407f-9eaa-0bdd91946d50,58067,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,fe540525-56cd-453f-9bc5-263fcd36bdd7,113763,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,CKPT8000,detailed,mm,image of batch_generation_results,437cad5a-ed5b-4085-872c-b294ba7da52f,882700,out;json;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,231bbd3f-1927-435b-a34d-a8591e26fce6,577765,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,331fceb3-578b-4aa1-8346-c6c8ccdb214a,405167,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,04a31309-6d3f-459c-83fe-feba884592b0,457850,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,75a070a8-0c74-47c2-86c0-71d631aeefab,168876,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,569444,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,1f0e458a-c23e-4606-8048-f2df1639e9d6,215023,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,f1d86de9-d163-4a53-9d23-dd33b4389c93,455744,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,de5feb32-f3be-4e23-9d48-b693ee3af655,99760,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,dffd03bb-1e72-49f1-8717-2c9bd2af13c2,397662,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,5b64cf17-0333-4781-a77e-c1c85a821c07,592472,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,9dcba73c-46ba-447b-bbec-156086f7a907,473295,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,2ec2ce6f-cc48-435e-8b04-b342bd584136,208160,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,5f1a87ae-ce52-457e-a585-97bfb0bfe70f,878459,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,03a30b14-5f7f-43f1-aa77-a84d8c1b5252,793051,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,277815,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,387208,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,96706168-be8a-4942-b901-28f1207e363c,221750,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,b4d2e3fd-2089-4707-aedc-e5026a4fb13d,445178,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,b7b33723-2b92-4be2-a46c-7a9dfa89248f,88159,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,21239a90-6584-41b3-be6a-f8aebbb12df2,801456,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,425d31aa-4769-4ab8-8fad-9afca6072864,550855,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,037eebc6-1869-473d-bb7b-962e2b1d3b7f,901016,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,bb5c4918-60b2-4303-a6c3-9e7320bee172,248657,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,eddc2d55-7a70-4165-b419-197e81f71ac9,910485,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,008071f9-a71c-496c-82b0-e5ed23798272,961664,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,0e71e519-3bd3-4103-b6a4-ea410c8e0871,725689,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,1c50e560-fbd4-4e5f-a7c1-71f7539fc127,693090,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,a4cf910b-25aa-424b-a484-e83ff6a7437d,127701,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,8bd4a7bc-6fec-4468-90db-3c38885d3c89,416346,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,e88a9293-c2a6-4155-b92b-f746c940ebe3,86955,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,613892,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,c48d51b3-4ff0-43e3-a12f-a34f8aa65304,43192,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,8290e377-035b-4009-a1cb-ca51ba6731b1,613533,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,27c3eb0c-484e-4b76-8e94-049f5ad01706,169905,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,b7e582f1-7374-493e-a56a-6843fb9b1a05,2006,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,40ae95bd-746f-4516-b658-20c2f2d6f13c,23834,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,1eb7354f-3572-461a-b546-875a146333da,764838,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,a16d00eb-45ca-43da-8aa1-54dc705144f3,950129,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,d3e22242-1c40-4a42-9c34-4c4b54e308b8,34452,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,500006,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,559215,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,6a0df167-097e-411d-9ebe-57d4562cd793,810984,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,09a57cd2-661e-451b-8a2e-c076c14162c3,582265,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,deb38b06-b9b4-42dd-8c84-023a8dd55c5f,46599,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,484265,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,780e7aca-2c10-47b4-a122-97ae8b362aea,145379,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,52817538-1cb2-48b4-91af-f32e6351aabe,324316,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,81ec038a-d074-48c1-90c4-abda20b155af,633747,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,ce296e7d-e888-4bbd-b8ec-36a67ca86763,801840,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,ecbf110f-2f2a-432a-8354-94173f7e1c42,870029,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,ce80bb67-32b6-4e63-90ce-4d2b00f0866c,524897,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,b82aee73-85f4-4046-9a14-b9f1719e95d6,254384,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,55a1235a-d6df-4255-b89d-bb0e815e45d1,194619,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,bacb99ac-7a82-4312-b11b-16e96e8c637c,336502,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,117f960d-f64a-4e12-92b9-e810c99c5de4,86332,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,c89f2274-cefb-4631-aa2b-81f9b1c23c8b,974618,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,d53e640f-252a-4c75-90f7-73c46d7c41d1,948958,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,cb94c627-f388-4b27-bef4-29ccad6cee19,669941,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,e6e905a5-3f25-4dc7-bbde-8220f81a0a63,265705,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,3e2a998b-7032-46c0-8fe4-77cabe34e430,333354,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,159b05d1-2e94-475b-8f3a-9da9883d8296,423097,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,776683,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,4863d2c5-224c-4c01-b760-5e4535d4cc39,16336,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,f5cac53e-e22d-4d80-8d86-cce7117270d9,451925,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,147047,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,2711ae63-a7d8-4e9a-a987-4424eda5d6b6,162241,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,71c30d10-df22-4373-b56d-593807d73852,501621,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,34503502-bb62-4aac-94d8-9fc5e6e2bd05,772345,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,45e3f599-9a81-49c2-9311-20c9b99dea26,971518,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,4b5f0bea-415e-4e09-92ca-3a9b7ca743de,94855,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,c34596d7-96c5-43b4-b730-a109dacb4c6a,601031,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,bbecd6ea-6102-4672-a274-a048b5ebfc37,891086,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,ec9d09be-d9d8-49df-9c93-c4e065e7d085,326724,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,b302c1a7-4a43-4730-9e10-e9afd0ced3e8,372978,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,78553371-74b5-4645-821d-95bea0d778d0,647281,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,c279a268-948e-4472-a1e5-9e9f68fb9b5f,278987,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,c60a4777-0de7-476c-9eeb-71bb181db983,281617,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,f2b6154d-60cc-4988-be14-73885c0280f1,135655,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,02ab3358-7d53-48b1-91f0-393ad47a993f,763311,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,f028e230-b57d-4ccc-9cdd-b07145a9735c,894003,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,46e86f1b-d904-4866-b2ea-5aa99574d1e9,408711,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,59a17985-f1e7-41ca-ac57-6875dfd67bab,673723,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,747e948c-4397-4c03-9d39-f6040e50e6e3,372776,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,594220,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,d52cb13e-31c3-40f2-b02e-bab918564317,44731,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,6c53ec1a-b0af-42f4-9229-9f317c47c0c0,363441,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,412312,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,c470fc39-169e-4cba-a1e9-fa13d530ef63,153559,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,227912,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,186998,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,de120618-ac87-45ec-9a52-620890322b22,19726,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,10cc3747-4c53-4729-91fe-ac8c3483babb,60314,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,8e20db67-63e1-45b0-b83a-d62021f7097e,801111,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,fdee7837-a2ee-41a4-bff4-762905845c5a,585439,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,55864f9c-3825-46e5-885d-694ed2d1e2ff,816497,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,953468,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,fffaf972-24f5-4edd-a4ad-8c2102141109,627921,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,616f2934-8143-407f-9eaa-0bdd91946d50,316862,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,fe540525-56cd-453f-9bc5-263fcd36bdd7,898916,out;json+zip
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,CKPT8000,detailed,cm,image of batch_generation_results,437cad5a-ed5b-4085-872c-b294ba7da52f,190902,out;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,231bbd3f-1927-435b-a34d-a8591e26fce6,755249,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,331fceb3-578b-4aa1-8346-c6c8ccdb214a,976561,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,04a31309-6d3f-459c-83fe-feba884592b0,606148,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,75a070a8-0c74-47c2-86c0-71d631aeefab,835162,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,786517,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,1f0e458a-c23e-4606-8048-f2df1639e9d6,261424,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,f1d86de9-d163-4a53-9d23-dd33b4389c93,821179,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,de5feb32-f3be-4e23-9d48-b693ee3af655,19665,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,dffd03bb-1e72-49f1-8717-2c9bd2af13c2,506376,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,5b64cf17-0333-4781-a77e-c1c85a821c07,403021,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,9dcba73c-46ba-447b-bbec-156086f7a907,610493,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,2ec2ce6f-cc48-435e-8b04-b342bd584136,720193,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,5f1a87ae-ce52-457e-a585-97bfb0bfe70f,353940,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,03a30b14-5f7f-43f1-aa77-a84d8c1b5252,221549,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,387105,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,934152,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,96706168-be8a-4942-b901-28f1207e363c,43989,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,b4d2e3fd-2089-4707-aedc-e5026a4fb13d,484980,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,b7b33723-2b92-4be2-a46c-7a9dfa89248f,220522,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,21239a90-6584-41b3-be6a-f8aebbb12df2,249011,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,425d31aa-4769-4ab8-8fad-9afca6072864,287627,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,037eebc6-1869-473d-bb7b-962e2b1d3b7f,896037,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,bb5c4918-60b2-4303-a6c3-9e7320bee172,833975,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,eddc2d55-7a70-4165-b419-197e81f71ac9,926755,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,008071f9-a71c-496c-82b0-e5ed23798272,119671,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,0e71e519-3bd3-4103-b6a4-ea410c8e0871,677640,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,1c50e560-fbd4-4e5f-a7c1-71f7539fc127,99906,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,a4cf910b-25aa-424b-a484-e83ff6a7437d,431220,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,8bd4a7bc-6fec-4468-90db-3c38885d3c89,276017,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,e88a9293-c2a6-4155-b92b-f746c940ebe3,41366,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,146819,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,c48d51b3-4ff0-43e3-a12f-a34f8aa65304,880691,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,8290e377-035b-4009-a1cb-ca51ba6731b1,329322,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,27c3eb0c-484e-4b76-8e94-049f5ad01706,950280,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,b7e582f1-7374-493e-a56a-6843fb9b1a05,949636,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,40ae95bd-746f-4516-b658-20c2f2d6f13c,979657,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,1eb7354f-3572-461a-b546-875a146333da,72926,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,a16d00eb-45ca-43da-8aa1-54dc705144f3,798122,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,d3e22242-1c40-4a42-9c34-4c4b54e308b8,681230,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,520195,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,799503,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,6a0df167-097e-411d-9ebe-57d4562cd793,597774,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,09a57cd2-661e-451b-8a2e-c076c14162c3,458973,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,deb38b06-b9b4-42dd-8c84-023a8dd55c5f,259187,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,1734,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,780e7aca-2c10-47b4-a122-97ae8b362aea,949827,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,52817538-1cb2-48b4-91af-f32e6351aabe,173456,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,81ec038a-d074-48c1-90c4-abda20b155af,652572,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,ce296e7d-e888-4bbd-b8ec-36a67ca86763,202288,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,ecbf110f-2f2a-432a-8354-94173f7e1c42,89659,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,ce80bb67-32b6-4e63-90ce-4d2b00f0866c,450147,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,b82aee73-85f4-4046-9a14-b9f1719e95d6,833481,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,55a1235a-d6df-4255-b89d-bb0e815e45d1,700394,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,bacb99ac-7a82-4312-b11b-16e96e8c637c,429216,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,117f960d-f64a-4e12-92b9-e810c99c5de4,259112,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,c89f2274-cefb-4631-aa2b-81f9b1c23c8b,97931,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,d53e640f-252a-4c75-90f7-73c46d7c41d1,98040,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,cb94c627-f388-4b27-bef4-29ccad6cee19,361690,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,e6e905a5-3f25-4dc7-bbde-8220f81a0a63,873742,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,3e2a998b-7032-46c0-8fe4-77cabe34e430,572078,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,159b05d1-2e94-475b-8f3a-9da9883d8296,386544,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,192044,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,4863d2c5-224c-4c01-b760-5e4535d4cc39,534168,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,f5cac53e-e22d-4d80-8d86-cce7117270d9,191465,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,756081,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,2711ae63-a7d8-4e9a-a987-4424eda5d6b6,336613,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,71c30d10-df22-4373-b56d-593807d73852,15852,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,34503502-bb62-4aac-94d8-9fc5e6e2bd05,516520,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,45e3f599-9a81-49c2-9311-20c9b99dea26,888967,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,4b5f0bea-415e-4e09-92ca-3a9b7ca743de,845839,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,c34596d7-96c5-43b4-b730-a109dacb4c6a,583855,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,bbecd6ea-6102-4672-a274-a048b5ebfc37,63112,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,ec9d09be-d9d8-49df-9c93-c4e065e7d085,708350,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,b302c1a7-4a43-4730-9e10-e9afd0ced3e8,105669,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,78553371-74b5-4645-821d-95bea0d778d0,67975,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,c279a268-948e-4472-a1e5-9e9f68fb9b5f,333248,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,c60a4777-0de7-476c-9eeb-71bb181db983,444362,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,f2b6154d-60cc-4988-be14-73885c0280f1,4961,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,02ab3358-7d53-48b1-91f0-393ad47a993f,372346,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,f028e230-b57d-4ccc-9cdd-b07145a9735c,618850,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,46e86f1b-d904-4866-b2ea-5aa99574d1e9,58804,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,59a17985-f1e7-41ca-ac57-6875dfd67bab,191268,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,747e948c-4397-4c03-9d39-f6040e50e6e3,356843,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,816220,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,d52cb13e-31c3-40f2-b02e-bab918564317,384539,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,6c53ec1a-b0af-42f4-9229-9f317c47c0c0,382824,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,559919,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,c470fc39-169e-4cba-a1e9-fa13d530ef63,581781,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,782590,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,563724,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,de120618-ac87-45ec-9a52-620890322b22,408553,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,10cc3747-4c53-4729-91fe-ac8c3483babb,421981,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,8e20db67-63e1-45b0-b83a-d62021f7097e,659920,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,fdee7837-a2ee-41a4-bff4-762905845c5a,168357,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,55864f9c-3825-46e5-885d-694ed2d1e2ff,241140,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,805521,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,fffaf972-24f5-4edd-a4ad-8c2102141109,698668,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,616f2934-8143-407f-9eaa-0bdd91946d50,266892,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,fe540525-56cd-453f-9bc5-263fcd36bdd7,65654,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,CKPT8000,training,mm,image of batch_generation_results,437cad5a-ed5b-4085-872c-b294ba7da52f,456377,out;json;json+zip
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",231bbd3f-1927-435b-a34d-a8591e26fce6,2551010643,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",331fceb3-578b-4aa1-8346-c6c8ccdb214a,1812011134,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",04a31309-6d3f-459c-83fe-feba884592b0,2635585531,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",75a070a8-0c74-47c2-86c0-71d631aeefab,3196660932,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,1471328222,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",1f0e458a-c23e-4606-8048-f2df1639e9d6,360928117,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",f1d86de9-d163-4a53-9d23-dd33b4389c93,3698118248,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",de5feb32-f3be-4e23-9d48-b693ee3af655,1604924320,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",dffd03bb-1e72-49f1-8717-2c9bd2af13c2,2709885362,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",5b64cf17-0333-4781-a77e-c1c85a821c07,4090706489,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",9dcba73c-46ba-447b-bbec-156086f7a907,3335516803,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",2ec2ce6f-cc48-435e-8b04-b342bd584136,371473381,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",5f1a87ae-ce52-457e-a585-97bfb0bfe70f,1602067700,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",03a30b14-5f7f-43f1-aa77-a84d8c1b5252,145734033,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,831070746,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,4040291903,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",96706168-be8a-4942-b901-28f1207e363c,3592050408,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",b4d2e3fd-2089-4707-aedc-e5026a4fb13d,2510620472,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",b7b33723-2b92-4be2-a46c-7a9dfa89248f,693716234,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",21239a90-6584-41b3-be6a-f8aebbb12df2,2959753978,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",425d31aa-4769-4ab8-8fad-9afca6072864,1637716862,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",037eebc6-1869-473d-bb7b-962e2b1d3b7f,310200060,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",bb5c4918-60b2-4303-a6c3-9e7320bee172,1033000618,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",eddc2d55-7a70-4165-b419-197e81f71ac9,528813591,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",008071f9-a71c-496c-82b0-e5ed23798272,1945935307,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",0e71e519-3bd3-4103-b6a4-ea410c8e0871,3099848537,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",1c50e560-fbd4-4e5f-a7c1-71f7539fc127,3501848376,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",a4cf910b-25aa-424b-a484-e83ff6a7437d,1183677026,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",8bd4a7bc-6fec-4468-90db-3c38885d3c89,1472908521,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",e88a9293-c2a6-4155-b92b-f746c940ebe3,2488716374,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,1131879763,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",c48d51b3-4ff0-43e3-a12f-a34f8aa65304,1693482003,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",8290e377-035b-4009-a1cb-ca51ba6731b1,1604857550,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",27c3eb0c-484e-4b76-8e94-049f5ad01706,3405615447,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",b7e582f1-7374-493e-a56a-6843fb9b1a05,915270045,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",40ae95bd-746f-4516-b658-20c2f2d6f13c,2136769805,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",1eb7354f-3572-461a-b546-875a146333da,2156296728,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",a16d00eb-45ca-43da-8aa1-54dc705144f3,1725389754,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",d3e22242-1c40-4a42-9c34-4c4b54e308b8,3318852389,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,3598214798,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,739533943,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",6a0df167-097e-411d-9ebe-57d4562cd793,1844872566,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",09a57cd2-661e-451b-8a2e-c076c14162c3,1188348896,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",deb38b06-b9b4-42dd-8c84-023a8dd55c5f,1331223296,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,804714311,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",780e7aca-2c10-47b4-a122-97ae8b362aea,3220268891,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",52817538-1cb2-48b4-91af-f32e6351aabe,1464489294,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",81ec038a-d074-48c1-90c4-abda20b155af,2781091794,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",ce296e7d-e888-4bbd-b8ec-36a67ca86763,17298698,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",ecbf110f-2f2a-432a-8354-94173f7e1c42,2551754981,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",ce80bb67-32b6-4e63-90ce-4d2b00f0866c,2922857662,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",b82aee73-85f4-4046-9a14-b9f1719e95d6,3395297100,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",55a1235a-d6df-4255-b89d-bb0e815e45d1,3646225855,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",bacb99ac-7a82-4312-b11b-16e96e8c637c,4271530148,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",117f960d-f64a-4e12-92b9-e810c99c5de4,1064952123,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",c89f2274-cefb-4631-aa2b-81f9b1c23c8b,53658865,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",d53e640f-252a-4c75-90f7-73c46d7c41d1,3059719083,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",cb94c627-f388-4b27-bef4-29ccad6cee19,410598044,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",e6e905a5-3f25-4dc7-bbde-8220f81a0a63,2205414447,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",3e2a998b-7032-46c0-8fe4-77cabe34e430,2213848065,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",159b05d1-2e94-475b-8f3a-9da9883d8296,2766020235,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,315252442,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",4863d2c5-224c-4c01-b760-5e4535d4cc39,1515804644,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",f5cac53e-e22d-4d80-8d86-cce7117270d9,1758797773,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,4129636701,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",2711ae63-a7d8-4e9a-a987-4424eda5d6b6,736166204,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",71c30d10-df22-4373-b56d-593807d73852,3040920912,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",34503502-bb62-4aac-94d8-9fc5e6e2bd05,2373807298,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",45e3f599-9a81-49c2-9311-20c9b99dea26,1105225610,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",4b5f0bea-415e-4e09-92ca-3a9b7ca743de,3317556326,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",c34596d7-96c5-43b4-b730-a109dacb4c6a,1867897532,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",bbecd6ea-6102-4672-a274-a048b5ebfc37,483729365,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",ec9d09be-d9d8-49df-9c93-c4e065e7d085,2287279112,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",b302c1a7-4a43-4730-9e10-e9afd0ced3e8,1524342435,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",78553371-74b5-4645-821d-95bea0d778d0,2270575583,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",c279a268-948e-4472-a1e5-9e9f68fb9b5f,107645379,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",c60a4777-0de7-476c-9eeb-71bb181db983,1697558784,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",f2b6154d-60cc-4988-be14-73885c0280f1,2929453611,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",02ab3358-7d53-48b1-91f0-393ad47a993f,2824955250,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",f028e230-b57d-4ccc-9cdd-b07145a9735c,2431939521,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",46e86f1b-d904-4866-b2ea-5aa99574d1e9,629736712,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",59a17985-f1e7-41ca-ac57-6875dfd67bab,2229709138,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",747e948c-4397-4c03-9d39-f6040e50e6e3,950811816,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,2873034541,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",d52cb13e-31c3-40f2-b02e-bab918564317,2364996658,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",6c53ec1a-b0af-42f4-9229-9f317c47c0c0,3593160942,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,2746380522,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",c470fc39-169e-4cba-a1e9-fa13d530ef63,4013447420,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,731463486,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,3381527913,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",de120618-ac87-45ec-9a52-620890322b22,2550314153,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",10cc3747-4c53-4729-91fe-ac8c3483babb,2949993779,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",8e20db67-63e1-45b0-b83a-d62021f7097e,884283235,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",fdee7837-a2ee-41a4-bff4-762905845c5a,3325732445,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",55864f9c-3825-46e5-885d-694ed2d1e2ff,1912055242,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,955931554,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",fffaf972-24f5-4edd-a4ad-8c2102141109,3637690060,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",616f2934-8143-407f-9eaa-0bdd91946d50,4058529123,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",fe540525-56cd-453f-9bc5-263fcd36bdd7,2635343963,log:output_norm_al_5.out
+gen_review_results_with_control_net_normals_al_5,INIT,short,mm,"ControlNet normals, alpha 0.5",437cad5a-ed5b-4085-872c-b294ba7da52f,1394763184,log:output_norm_al_5.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",231bbd3f-1927-435b-a34d-a8591e26fce6,2551010643,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",331fceb3-578b-4aa1-8346-c6c8ccdb214a,1812011134,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",04a31309-6d3f-459c-83fe-feba884592b0,2635585531,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",75a070a8-0c74-47c2-86c0-71d631aeefab,3196660932,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d,1471328222,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",1f0e458a-c23e-4606-8048-f2df1639e9d6,360928117,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",f1d86de9-d163-4a53-9d23-dd33b4389c93,3698118248,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",de5feb32-f3be-4e23-9d48-b693ee3af655,1604924320,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",dffd03bb-1e72-49f1-8717-2c9bd2af13c2,2709885362,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",5b64cf17-0333-4781-a77e-c1c85a821c07,4090706489,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",9dcba73c-46ba-447b-bbec-156086f7a907,3335516803,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",2ec2ce6f-cc48-435e-8b04-b342bd584136,371473381,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",5f1a87ae-ce52-457e-a585-97bfb0bfe70f,1602067700,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",03a30b14-5f7f-43f1-aa77-a84d8c1b5252,145734033,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",5d7b9888-91f4-4aa8-b702-1b8267fbcfb7,831070746,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",c23bd9c4-f2ad-4acb-a0c3-ec45858b1161,4040291903,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",96706168-be8a-4942-b901-28f1207e363c,3592050408,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",b4d2e3fd-2089-4707-aedc-e5026a4fb13d,2510620472,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",b7b33723-2b92-4be2-a46c-7a9dfa89248f,693716234,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",21239a90-6584-41b3-be6a-f8aebbb12df2,2959753978,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",425d31aa-4769-4ab8-8fad-9afca6072864,1637716862,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",037eebc6-1869-473d-bb7b-962e2b1d3b7f,310200060,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",bb5c4918-60b2-4303-a6c3-9e7320bee172,1033000618,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",eddc2d55-7a70-4165-b419-197e81f71ac9,528813591,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",008071f9-a71c-496c-82b0-e5ed23798272,1945935307,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",0e71e519-3bd3-4103-b6a4-ea410c8e0871,3099848537,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",1c50e560-fbd4-4e5f-a7c1-71f7539fc127,3501848376,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",a4cf910b-25aa-424b-a484-e83ff6a7437d,1183677026,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",8bd4a7bc-6fec-4468-90db-3c38885d3c89,1472908521,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",e88a9293-c2a6-4155-b92b-f746c940ebe3,2488716374,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68,1131879763,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",c48d51b3-4ff0-43e3-a12f-a34f8aa65304,1693482003,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",8290e377-035b-4009-a1cb-ca51ba6731b1,1604857550,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",27c3eb0c-484e-4b76-8e94-049f5ad01706,3405615447,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",b7e582f1-7374-493e-a56a-6843fb9b1a05,915270045,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",40ae95bd-746f-4516-b658-20c2f2d6f13c,2136769805,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",1eb7354f-3572-461a-b546-875a146333da,2156296728,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",a16d00eb-45ca-43da-8aa1-54dc705144f3,1725389754,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",d3e22242-1c40-4a42-9c34-4c4b54e308b8,3318852389,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",8cc30175-9af7-4f9e-b158-6e86c8aaf0ff,3598214798,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",5308da34-4f5c-4a4d-a072-f9ea7b7b48a8,739533943,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",6a0df167-097e-411d-9ebe-57d4562cd793,1844872566,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",09a57cd2-661e-451b-8a2e-c076c14162c3,1188348896,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",deb38b06-b9b4-42dd-8c84-023a8dd55c5f,1331223296,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",c3e467ac-5b0d-4bdf-8969-913dddc0cb7d,804714311,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",780e7aca-2c10-47b4-a122-97ae8b362aea,3220268891,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",52817538-1cb2-48b4-91af-f32e6351aabe,1464489294,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",81ec038a-d074-48c1-90c4-abda20b155af,2781091794,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",ce296e7d-e888-4bbd-b8ec-36a67ca86763,17298698,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",ecbf110f-2f2a-432a-8354-94173f7e1c42,2551754981,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",ce80bb67-32b6-4e63-90ce-4d2b00f0866c,2922857662,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",b82aee73-85f4-4046-9a14-b9f1719e95d6,3395297100,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",55a1235a-d6df-4255-b89d-bb0e815e45d1,3646225855,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",bacb99ac-7a82-4312-b11b-16e96e8c637c,4271530148,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",117f960d-f64a-4e12-92b9-e810c99c5de4,1064952123,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",c89f2274-cefb-4631-aa2b-81f9b1c23c8b,53658865,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",d53e640f-252a-4c75-90f7-73c46d7c41d1,3059719083,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",cb94c627-f388-4b27-bef4-29ccad6cee19,410598044,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",e6e905a5-3f25-4dc7-bbde-8220f81a0a63,2205414447,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",3e2a998b-7032-46c0-8fe4-77cabe34e430,2213848065,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",159b05d1-2e94-475b-8f3a-9da9883d8296,2766020235,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",62bfc4b2-f5a2-4495-9ccd-394ed027bbe1,315252442,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",4863d2c5-224c-4c01-b760-5e4535d4cc39,1515804644,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",f5cac53e-e22d-4d80-8d86-cce7117270d9,1758797773,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf,4129636701,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",2711ae63-a7d8-4e9a-a987-4424eda5d6b6,736166204,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",71c30d10-df22-4373-b56d-593807d73852,3040920912,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",34503502-bb62-4aac-94d8-9fc5e6e2bd05,2373807298,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",45e3f599-9a81-49c2-9311-20c9b99dea26,1105225610,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",4b5f0bea-415e-4e09-92ca-3a9b7ca743de,3317556326,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",c34596d7-96c5-43b4-b730-a109dacb4c6a,1867897532,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",bbecd6ea-6102-4672-a274-a048b5ebfc37,483729365,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",ec9d09be-d9d8-49df-9c93-c4e065e7d085,2287279112,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",b302c1a7-4a43-4730-9e10-e9afd0ced3e8,1524342435,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",78553371-74b5-4645-821d-95bea0d778d0,2270575583,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",c279a268-948e-4472-a1e5-9e9f68fb9b5f,107645379,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",c60a4777-0de7-476c-9eeb-71bb181db983,1697558784,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",f2b6154d-60cc-4988-be14-73885c0280f1,2929453611,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",02ab3358-7d53-48b1-91f0-393ad47a993f,2824955250,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",f028e230-b57d-4ccc-9cdd-b07145a9735c,2431939521,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",46e86f1b-d904-4866-b2ea-5aa99574d1e9,629736712,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",59a17985-f1e7-41ca-ac57-6875dfd67bab,2229709138,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",747e948c-4397-4c03-9d39-f6040e50e6e3,950811816,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc,2873034541,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",d52cb13e-31c3-40f2-b02e-bab918564317,2364996658,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",6c53ec1a-b0af-42f4-9229-9f317c47c0c0,3593160942,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6,2746380522,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",c470fc39-169e-4cba-a1e9-fa13d530ef63,4013447420,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",c17d8a46-742b-4eb4-8943-bc2f52c8b9b3,731463486,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",e86b75db-2a69-46f2-8ad1-7e29a7faf7ab,3381527913,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",de120618-ac87-45ec-9a52-620890322b22,2550314153,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",10cc3747-4c53-4729-91fe-ac8c3483babb,2949993779,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",8e20db67-63e1-45b0-b83a-d62021f7097e,884283235,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",fdee7837-a2ee-41a4-bff4-762905845c5a,3325732445,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",55864f9c-3825-46e5-885d-694ed2d1e2ff,1912055242,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",2b1277d8-3a49-4b9a-8e3f-6c0648a531c5,955931554,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",fffaf972-24f5-4edd-a4ad-8c2102141109,3637690060,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",616f2934-8143-407f-9eaa-0bdd91946d50,4058529123,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",fe540525-56cd-453f-9bc5-263fcd36bdd7,2635343963,log:review_out_depth_al_7.out
+gen_review_results_with_control_net_depth_al_7,INIT,short,mm,"ControlNet depth, alpha 0.7",437cad5a-ed5b-4085-872c-b294ba7da52f,1394763184,log:review_out_depth_al_7.out

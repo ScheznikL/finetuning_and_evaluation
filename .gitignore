@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# large data lives outside git; keep only the placeholder notes
+evaluation/data/**
+!evaluation/data/*/
+!evaluation/data/*/README.md
+!evaluation/data/*/.gitkeep
+*.glb
+*.zip
+*.xlsx
+_renders/

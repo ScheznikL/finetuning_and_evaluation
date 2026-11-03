@@ -1,0 +1,13 @@
+{
+    "total_cases": 100,
+    "avg_score_CLIP": 0.40113077327609065,
+    "max_score_CLIP": 0.4866756647825241,
+    "min_score_CLIP": 0.30860452353954315,
+    "avg_score_BSE": 0.0,
+    "max_score_BSE": 0.0,
+    "min_score_BSE": 0.0,
+    "is_watertight_count": 18,
+    "avg_time_in_sec": 36.2614,
+    "max_time_in_sec": 70.37,
+    "min_time_in_sec": 35.5
+}

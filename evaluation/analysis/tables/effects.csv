@@ -1,0 +1,31 @@
+analysis,metric,effect,mean_diff,ci_low,ci_high,d_z,p_boot,p_holm,n,note
+A: model x prompt style (mm),CLIP,model (CKPT8000 - INIT),-0.0005054999999999999,-0.002619500000000001,0.0014728171094195541,-0.04805172579029655,0.6484,1.0,100,
+A: model x prompt style (mm),CLIP,factor (training - detailed),0.04269849999999999,0.030012110508191053,0.05412949607168171,0.6842736714972445,0.0,0.0,100,
+A: model x prompt style (mm),CLIP,interaction,-0.0005250000000000038,-0.004089000000000007,0.0030541484211827163,-0.028457328158740282,0.761,1.0,100,
+A: model x prompt style (mm),CLIP,CKPT8000 - INIT within detailed,-0.0002429999999999971,-0.0029662077445200825,0.002411573632553446,-0.017611645362829033,0.8814,,100,
+A: model x prompt style (mm),CLIP,CKPT8000 - INIT within training,-0.0007680000000000009,-0.003498113110917252,0.0019538986925198743,-0.054151990187404776,0.583,,100,
+A: model x prompt style (mm),is_watertight,model (CKPT8000 - INIT),-0.035,-0.115,0.045,-0.08671657498780655,0.4072,1.0,100,
+A: model x prompt style (mm),is_watertight,factor (training - detailed),-0.045,-0.145,0.06,-0.08609274324800392,0.3972,1.0,100,
+A: model x prompt style (mm),is_watertight,interaction,0.05,-0.1,0.22,0.06182551109690742,0.5884,1.0,100,
+A: model x prompt style (mm),is_watertight,CKPT8000 - INIT within detailed,-0.06,-0.18,0.06,-0.1,0.3514,,100,
+A: model x prompt style (mm),is_watertight,CKPT8000 - INIT within training,-0.01,-0.11,0.1,-0.01847963928096182,0.9168,,100,
+A: model x prompt style (mm),time_shape,model (CKPT8000 - INIT),0.6768499999999998,0.6621932308376566,0.7069791632788303,6.513044701186785,0.0,0.0,100,
+A: model x prompt style (mm),time_shape,factor (training - detailed),0.020849999999999973,-0.034923499131226575,0.050749999999999955,0.10250214039882284,0.301,0.301,100,
+A: model x prompt style (mm),time_shape,interaction,0.1073,0.07926082119794209,0.13320000000000007,0.7877096558785981,0.0,0.0,100,
+A: model x prompt style (mm),time_shape,CKPT8000 - INIT within detailed,0.6232000000000002,0.6075,0.6489511988203615,6.179245956409685,0.0,,100,
+A: model x prompt style (mm),time_shape,CKPT8000 - INIT within training,0.7304999999999999,0.7074704176334858,0.7668,5.076613824914467,0.0,,100,
+B: model x unit (detailed),CLIP,model (CKPT8000 - INIT),0.016437,0.011807162103237337,0.021341938152270347,0.6723364536919139,0.0,0.0,100,
+B: model x unit (detailed),CLIP,factor (cm - mm),-0.016432000000000002,-0.021068934379740587,-0.012245054328033043,-0.7379350373986414,0.0,0.0,100,
+B: model x unit (detailed),CLIP,interaction,0.03335999999999999,0.024682515141875683,0.04266125863171669,0.7330708821637854,0.0,0.0,100,
+B: model x unit (detailed),CLIP,CKPT8000 - INIT within mm,-0.0002429999999999971,-0.0029662077445200825,0.002411573632553446,-0.017611645362829033,0.8814,,100,
+B: model x unit (detailed),CLIP,CKPT8000 - INIT within cm,0.033116999999999994,0.024595065169276235,0.042162,0.733142807115474,0.0,,100,
+B: model x unit (detailed),is_watertight,model (CKPT8000 - INIT),,,,,,,,n/a: no per-uuid is_watertight for INIT/cm
+B: model x unit (detailed),is_watertight,factor (cm - mm),,,,,,,,n/a: no per-uuid is_watertight for INIT/cm
+B: model x unit (detailed),is_watertight,interaction,,,,,,,,n/a: no per-uuid is_watertight for INIT/cm
+B: model x unit (detailed),is_watertight,CKPT8000 - INIT within mm,,,,,,,,n/a: no per-uuid is_watertight for INIT/cm
+B: model x unit (detailed),is_watertight,CKPT8000 - INIT within cm,,,,,,,,n/a: no per-uuid is_watertight for INIT/cm
+B: model x unit (detailed),time_shape,model (CKPT8000 - INIT),0.6613000000000002,0.6354500000000004,0.6865172617670153,5.042023241945035,0.0,0.0,100,
+B: model x unit (detailed),time_shape,factor (cm - mm),-0.06080000000000002,-0.0761999999999996,-0.029377284771534142,-0.5564710419334148,0.0,0.0,100,
+B: model x unit (detailed),time_shape,interaction,0.0761999999999999,0.021900000000000003,0.10079999999999964,0.42195720482851784,0.0004,0.0004,100,
+B: model x unit (detailed),time_shape,CKPT8000 - INIT within mm,0.6232000000000002,0.6075,0.6489511988203615,6.179245956409685,0.0,,100,
+B: model x unit (detailed),time_shape,CKPT8000 - INIT within cm,0.6993999999999998,0.6491052590662731,0.7300000000000001,3.4736731352741743,0.0,,100,

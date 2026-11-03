@@ -1,0 +1,6 @@
+Metric: CLIP  (A - B, paired on uuid)
+Pairs: 100  (unpaired ids dropped: 0)
+Mean difference: -0.000768
+95% BCa CI: [-0.003498, 0.001954]  (10000 resamples)
+Bootstrap p-value (H0: diff = 0): 0.5830
+z0 = 0.0084, acceleration = -0.0035

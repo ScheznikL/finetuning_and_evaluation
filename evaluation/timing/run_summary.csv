@@ -1,0 +1,10 @@
+batch,n,n_t2i_nonzero,n_t2i_zero,n_t2i_missing,time_shape_mean,time_shape_median,time_shape_std,time_shape_min,time_shape_max,time_t2i_mean,time_t2i_median,time_t2i_std,time_t2i_min,time_t2i_max,n_seed_shared,seed_shared_with,sources
+batch_CKPT00008000_dit_v2_cm_detailed_100_res,100,0,100,0,31.2001,31.19,0.1794,30.54,32.36,,,,,,0,,out;json+zip
+batch_CKPT00008000_dit_v2_mm_detailed_100_res,100,0,100,0,31.2228,31.21,0.1892,30.58,32.6,,,,,,0,,out;json;json+zip
+batch_CKPT00008000_dit_v2_mm_trained_100_res,100,0,100,0,31.2973,31.27,0.1382,30.59,31.75,,,,,,0,,out;json;json+zip
+batch_INIT_mm_detailed_100_res,100,0,100,0,30.5996,30.57,0.2081,29.77,32.16,,,,,,0,,out;json
+batch_INIT_mm_trained_100_res,100,100,0,0,30.5668,30.55,0.1098,30.03,30.85,26.7791,26.78,0.0255,26.6,26.82,0,,out;json+zip
+batch_generation_results,100,100,0,0,30.5007,30.45,0.2242,30.15,32.03,26.7415,26.75,0.0888,26.19,27.37,100,batch_generation_results_with_img,out;json+zip
+batch_generation_results_with_img,100,100,0,0,37.7872,37.74,0.1694,37.57,38.42,9.1521,9.035,0.7703,8.78,16.66,100,batch_generation_results,json+zip
+batch_generation_results_with_realimg_less_alpa,100,100,0,0,31.8427,31.83,0.1568,31.37,33.23,4.4187,4.05,3.3059,4.03,37.14,0,,json+zip
+one_model_INIT_HUNYUYAN3D_gen,1,0,0,1,35.92,35.92,0.0,35.92,35.92,,,,,,0,,json

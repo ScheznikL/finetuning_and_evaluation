@@ -1,0 +1,4902 @@
+[
+  {
+    "uuid": "437cad5a-ed5b-4085-872c-b294ba7da52f",
+    "prompt": "Create only one Carbon Kevlar Hybrid below-knee prosthetic cover with red and black weave. Ergonomic semi-cylindrical U-shaped open channel. Total length: 38.73 cm. Tapering U-channel: top internal width 10.08 cm, bottom internal width 6.59 cm, channel depth 5.04 cm, wall thickness is 0.45 cm. Centered rectangular top notch: 5.53 cm wide, 2.89 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 387.29999999999995,
+      "top_width": 100.8,
+      "bottom_width": 65.9,
+      "channel_depth": 50.4,
+      "wall_thickness": 4.5,
+      "notch_width": 55.300000000000004,
+      "notch_depth": 28.900000000000002,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.59253072738647,
+      "width_x": 131.70390129089355,
+      "depth_z": 64.57602381706238,
+      "top_width": 67.46800062507796,
+      "bottom_width": 59.84839525846352,
+      "channel_depth": 64.57602381706238
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 387.29999999999995,
+        "model_value": 199.59253072738647,
+        "absolute_diff": 187.70746927261348,
+        "percentage_diff": 48.46565176158366
+      },
+      "top_width": {
+        "prompt_value": 100.8,
+        "model_value": 67.46800062507796,
+        "absolute_diff": 33.331999374922034,
+        "percentage_diff": 33.06745969734329
+      },
+      "bottom_width": {
+        "prompt_value": 65.9,
+        "model_value": 59.84839525846352,
+        "absolute_diff": 6.051604741536487,
+        "percentage_diff": 9.183011747399828
+      },
+      "channel_depth": {
+        "prompt_value": 50.4,
+        "model_value": 64.57602381706238,
+        "absolute_diff": 14.17602381706238,
+        "percentage_diff": 28.127031383060274
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "10cc3747-4c53-4729-91fe-ac8c3483babb",
+    "prompt": "Create only one Hammered Copper below-knee prosthetic cover with dimpled texture. Ergonomic semi-cylindrical U-shaped open channel. Total length: 48.79 cm. Tapering U-channel: top internal width 12.46 cm, bottom internal width 8.12 cm, channel depth 6.23 cm, wall thickness is 0.31 cm. Centered rectangular top notch: 5.38 cm wide, 2.44 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 487.9,
+      "top_width": 124.60000000000001,
+      "bottom_width": 81.19999999999999,
+      "channel_depth": 62.300000000000004,
+      "wall_thickness": 3.1,
+      "notch_width": 53.8,
+      "notch_depth": 24.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.5291233062744,
+      "width_x": 94.41332519054413,
+      "depth_z": 75.16046464443207,
+      "top_width": 81.96830164271506,
+      "bottom_width": 65.25662940401654,
+      "channel_depth": 75.16046464443207
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 487.9,
+        "model_value": 199.5291233062744,
+        "absolute_diff": 288.37087669372556,
+        "percentage_diff": 59.104504343866694
+      },
+      "top_width": {
+        "prompt_value": 124.60000000000001,
+        "model_value": 81.96830164271506,
+        "absolute_diff": 42.63169835728495,
+        "percentage_diff": 34.21484619364763
+      },
+      "bottom_width": {
+        "prompt_value": 81.19999999999999,
+        "model_value": 65.25662940401654,
+        "absolute_diff": 15.943370595983453,
+        "percentage_diff": 19.634692852196373
+      },
+      "channel_depth": {
+        "prompt_value": 62.300000000000004,
+        "model_value": 75.16046464443207,
+        "absolute_diff": 12.860464644432064,
+        "percentage_diff": 20.64280039234681
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "75a070a8-0c74-47c2-86c0-71d631aeefab",
+    "prompt": "Create only one Recycled Grey Plastic below-knee prosthetic cover with a speckled texture. Ergonomic semi-cylindrical U-shaped open channel. Total length: 49.68 cm. Tapering U-channel: top internal width 13.21 cm, bottom internal width 8.33 cm, channel depth 6.61 cm, wall thickness is 0.46 cm. Centered rectangular top notch: 4.97 cm wide, 2.73 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 496.8,
+      "top_width": 132.10000000000002,
+      "bottom_width": 83.3,
+      "channel_depth": 66.10000000000001,
+      "wall_thickness": 4.6000000000000005,
+      "notch_width": 49.699999999999996,
+      "notch_depth": 27.3,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.46695566177368,
+      "width_x": 120.73860168457031,
+      "depth_z": 75.41758120059967,
+      "top_width": 11.709333475808414,
+      "bottom_width": 105.53013149429225,
+      "channel_depth": 75.41758120059967
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 496.8,
+        "model_value": 199.46695566177368,
+        "absolute_diff": 297.33304433822633,
+        "percentage_diff": 59.84964660592317
+      },
+      "top_width": {
+        "prompt_value": 132.10000000000002,
+        "model_value": 11.709333475808414,
+        "absolute_diff": 120.3906665241916,
+        "percentage_diff": 91.13600796683693
+      },
+      "bottom_width": {
+        "prompt_value": 83.3,
+        "model_value": 105.53013149429225,
+        "absolute_diff": 22.23013149429225,
+        "percentage_diff": 26.68683252616117
+      },
+      "channel_depth": {
+        "prompt_value": 66.10000000000001,
+        "model_value": 75.41758120059967,
+        "absolute_diff": 9.317581200599662,
+        "percentage_diff": 14.096189410892073
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "81ec038a-d074-48c1-90c4-abda20b155af",
+    "prompt": "Create only one Coral Reef texture below-knee prosthetic cover with porous organic details. Ergonomic semi-cylindrical U-shaped open channel. Total length: 39.78 cm. Tapering U-channel: top internal width 11.09 cm, bottom internal width 6.73 cm, channel depth 5.55 cm, wall thickness is 0.39 cm. Centered rectangular top notch: 4.92 cm wide, 2.79 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 397.8,
+      "top_width": 110.9,
+      "bottom_width": 67.30000000000001,
+      "channel_depth": 55.5,
+      "wall_thickness": 3.9000000000000004,
+      "notch_width": 49.2,
+      "notch_depth": 27.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.07026290893555,
+      "width_x": 194.320809841156,
+      "depth_z": 146.70488238334656,
+      "top_width": 15.444083783391873,
+      "bottom_width": 75.76580528494242,
+      "channel_depth": 146.70488238334656
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 397.8,
+        "model_value": 199.07026290893555,
+        "absolute_diff": 198.72973709106446,
+        "percentage_diff": 49.957198866532046
+      },
+      "top_width": {
+        "prompt_value": 110.9,
+        "model_value": 15.444083783391873,
+        "absolute_diff": 95.45591621660813,
+        "percentage_diff": 86.07386493833013
+      },
+      "bottom_width": {
+        "prompt_value": 67.30000000000001,
+        "model_value": 75.76580528494242,
+        "absolute_diff": 8.465805284942405,
+        "percentage_diff": 12.579205475397332
+      },
+      "channel_depth": {
+        "prompt_value": 55.5,
+        "model_value": 146.70488238334656,
+        "absolute_diff": 91.20488238334656,
+        "percentage_diff": 164.33312141143523
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b2b03c29-98d9-4d9c-b1ae-be19b6bb3ecf",
+    "prompt": "Create only one Mosaic Tile below-knee prosthetic cover with small colorful ceramic squares. Ergonomic semi-cylindrical U-shaped open channel. Total length: 43.88 cm. Tapering U-channel: top internal width 11.86 cm, bottom internal width 7.08 cm, channel depth 5.93 cm, wall thickness is 0.47 cm. Centered rectangular top notch: 5.06 cm wide, 2.88 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 438.8,
+      "top_width": 118.6,
+      "bottom_width": 70.8,
+      "channel_depth": 59.3,
+      "wall_thickness": 4.699999999999999,
+      "notch_width": 50.599999999999994,
+      "notch_depth": 28.799999999999997,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.66566562652588,
+      "width_x": 101.84947848320007,
+      "depth_z": 64.82178866863251,
+      "top_width": 90.39562032494652,
+      "bottom_width": 86.09707463369413,
+      "channel_depth": 64.82178866863251
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 438.8,
+        "model_value": 199.66566562652588,
+        "absolute_diff": 239.13433437347413,
+        "percentage_diff": 54.49734147070969
+      },
+      "top_width": {
+        "prompt_value": 118.6,
+        "model_value": 90.39562032494652,
+        "absolute_diff": 28.204379675053474,
+        "percentage_diff": 23.78109584743126
+      },
+      "bottom_width": {
+        "prompt_value": 70.8,
+        "model_value": 86.09707463369413,
+        "absolute_diff": 15.297074633694137,
+        "percentage_diff": 21.60603761821206
+      },
+      "channel_depth": {
+        "prompt_value": 59.3,
+        "model_value": 64.82178866863251,
+        "absolute_diff": 5.52178866863251,
+        "percentage_diff": 9.311616641876071
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "04a31309-6d3f-459c-83fe-feba884592b0",
+    "prompt": "Create only one Translucent Blue PETG below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 41.25 cm. Tapering U-channel: top internal width 11.57 cm, bottom internal width 7.12 cm, channel depth 5.78 cm, wall thickness is 0.49 cm. Centered rectangular top notch: 4.24 cm wide, 2.84 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 412.5,
+      "top_width": 115.7,
+      "bottom_width": 71.2,
+      "channel_depth": 57.800000000000004,
+      "wall_thickness": 4.9,
+      "notch_width": 42.400000000000006,
+      "notch_depth": 28.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.30148720741272,
+      "width_x": 99.93039667606354,
+      "depth_z": 60.72068810462952,
+      "top_width": 22.803900866752574,
+      "bottom_width": 38.336421631095966,
+      "channel_depth": 60.72068810462952
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 412.5,
+        "model_value": 199.30148720741272,
+        "absolute_diff": 213.19851279258728,
+        "percentage_diff": 51.684487949718125
+      },
+      "top_width": {
+        "prompt_value": 115.7,
+        "model_value": 22.803900866752574,
+        "absolute_diff": 92.89609913324743,
+        "percentage_diff": 80.29049190427608
+      },
+      "bottom_width": {
+        "prompt_value": 71.2,
+        "model_value": 38.336421631095966,
+        "absolute_diff": 32.86357836890404,
+        "percentage_diff": 46.156711192280945
+      },
+      "channel_depth": {
+        "prompt_value": 57.800000000000004,
+        "model_value": 60.72068810462952,
+        "absolute_diff": 2.9206881046295123,
+        "percentage_diff": 5.0530936066254535
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "bbecd6ea-6102-4672-a274-a048b5ebfc37",
+    "prompt": "Create only one Liquid Metal below-knee prosthetic cover appearing to melt chrome. Ergonomic semi-cylindrical U-shaped open channel. Total length: 35.19 cm. Tapering U-channel: top internal width 11.11 cm, bottom internal width 6.78 cm, channel depth 5.55 cm, wall thickness is 0.48 cm. Centered rectangular top notch: 5.73 cm wide, 2.81 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 351.9,
+      "top_width": 111.1,
+      "bottom_width": 67.8,
+      "channel_depth": 55.5,
+      "wall_thickness": 4.8,
+      "notch_width": 57.300000000000004,
+      "notch_depth": 28.1,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.50274229049683,
+      "width_x": 84.10625159740448,
+      "depth_z": 90.9094512462616,
+      "top_width": 52.39703102481445,
+      "bottom_width": 68.39471887751267,
+      "channel_depth": 90.9094512462616
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 351.9,
+        "model_value": 199.50274229049683,
+        "absolute_diff": 152.39725770950315,
+        "percentage_diff": 43.30697860457606
+      },
+      "top_width": {
+        "prompt_value": 111.1,
+        "model_value": 52.39703102481445,
+        "absolute_diff": 58.70296897518554,
+        "percentage_diff": 52.837955873254316
+      },
+      "bottom_width": {
+        "prompt_value": 67.8,
+        "model_value": 68.39471887751267,
+        "absolute_diff": 0.5947188775126762,
+        "percentage_diff": 0.8771664860068971
+      },
+      "channel_depth": {
+        "prompt_value": 55.5,
+        "model_value": 90.9094512462616,
+        "absolute_diff": 35.4094512462616,
+        "percentage_diff": 63.8008130563272
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "62bfc4b2-f5a2-4495-9ccd-394ed027bbe1",
+    "prompt": "Create only one Leather-wrapped below-knee prosthetic cover in brown with brass studs. Ergonomic semi-cylindrical U-shaped open channel. Total length: 41.98 cm. Tapering U-channel: top internal width 12.03 cm, bottom internal width 7.33 cm, channel depth 6.01 cm, wall thickness is 0.48 cm. Centered rectangular top notch: 4.38 cm wide, 3.39 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 419.79999999999995,
+      "top_width": 120.3,
+      "bottom_width": 73.3,
+      "channel_depth": 60.099999999999994,
+      "wall_thickness": 4.8,
+      "notch_width": 43.8,
+      "notch_depth": 33.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.4388461112976,
+      "width_x": 88.23027908802032,
+      "depth_z": 128.12296748161316,
+      "top_width": 88.2095076097636,
+      "bottom_width": 44.587936780709114,
+      "channel_depth": 128.12296748161316
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 419.79999999999995,
+        "model_value": 199.4388461112976,
+        "absolute_diff": 220.36115388870235,
+        "percentage_diff": 52.49193756281619
+      },
+      "top_width": {
+        "prompt_value": 120.3,
+        "model_value": 88.2095076097636,
+        "absolute_diff": 32.09049239023639,
+        "percentage_diff": 26.675388520562255
+      },
+      "bottom_width": {
+        "prompt_value": 73.3,
+        "model_value": 44.587936780709114,
+        "absolute_diff": 28.712063219290883,
+        "percentage_diff": 39.17061830735455
+      },
+      "channel_depth": {
+        "prompt_value": 60.099999999999994,
+        "model_value": 128.12296748161316,
+        "absolute_diff": 68.02296748161316,
+        "percentage_diff": 113.18297417905686
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "008071f9-a71c-496c-82b0-e5ed23798272",
+    "prompt": "Create only one Rusty Iron texture below-knee prosthetic cover for a post-apocalyptic look. Ergonomic semi-cylindrical U-shaped open channel. Total length: 38.31 cm. Tapering U-channel: top internal width 10.44 cm, bottom internal width 6.26 cm, channel depth 5.22 cm, wall thickness is 0.41 cm. Centered rectangular top notch: 5.05 cm wide, 2.11 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 383.1,
+      "top_width": 104.39999999999999,
+      "bottom_width": 62.599999999999994,
+      "channel_depth": 52.199999999999996,
+      "wall_thickness": 4.1,
+      "notch_width": 50.5,
+      "notch_depth": 21.099999999999998,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.44667220115662,
+      "width_x": 120.32620906829834,
+      "depth_z": 59.77052450180054,
+      "top_width": 9.554366262360992,
+      "bottom_width": 58.511713303701576,
+      "channel_depth": 59.77052450180054
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 383.1,
+        "model_value": 199.44667220115662,
+        "absolute_diff": 183.6533277988434,
+        "percentage_diff": 47.938743878580894
+      },
+      "top_width": {
+        "prompt_value": 104.39999999999999,
+        "model_value": 9.554366262360992,
+        "absolute_diff": 94.845633737639,
+        "percentage_diff": 90.84830817781516
+      },
+      "bottom_width": {
+        "prompt_value": 62.599999999999994,
+        "model_value": 58.511713303701576,
+        "absolute_diff": 4.088286696298418,
+        "percentage_diff": 6.530809419007058
+      },
+      "channel_depth": {
+        "prompt_value": 52.199999999999996,
+        "model_value": 59.77052450180054,
+        "absolute_diff": 7.570524501800541,
+        "percentage_diff": 14.502920501533605
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "5308da34-4f5c-4a4d-a072-f9ea7b7b48a8",
+    "prompt": "Create only one Wood-grain PLA below-knee prosthetic cover resembling dark walnut. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.42 cm. Tapering U-channel: top internal width 12.42 cm, bottom internal width 8.86 cm, channel depth 6.21 cm, wall thickness is 0.38 cm. Centered rectangular top notch: 5.96 cm wide, 3.08 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 474.20000000000005,
+      "top_width": 124.2,
+      "bottom_width": 88.6,
+      "channel_depth": 62.1,
+      "wall_thickness": 3.8,
+      "notch_width": 59.6,
+      "notch_depth": 30.8,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.58174228668213,
+      "width_x": 149.27088022232056,
+      "depth_z": 91.12750887870789,
+      "top_width": 30.51935370848057,
+      "bottom_width": 127.87425072657979,
+      "channel_depth": 91.12750887870789
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 474.20000000000005,
+        "model_value": 199.58174228668213,
+        "absolute_diff": 274.6182577133179,
+        "percentage_diff": 57.91190588640192
+      },
+      "top_width": {
+        "prompt_value": 124.2,
+        "model_value": 30.51935370848057,
+        "absolute_diff": 93.68064629151944,
+        "percentage_diff": 75.4272514424472
+      },
+      "bottom_width": {
+        "prompt_value": 88.6,
+        "model_value": 127.87425072657979,
+        "absolute_diff": 39.274250726579794,
+        "percentage_diff": 44.32759675686208
+      },
+      "channel_depth": {
+        "prompt_value": 62.1,
+        "model_value": 91.12750887870789,
+        "absolute_diff": 29.027508878707884,
+        "percentage_diff": 46.74317049711414
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b302c1a7-4a43-4730-9e10-e9afd0ced3e8",
+    "prompt": "Create only one Foam Bubble texture below-knee prosthetic cover with a porous surface. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.09 cm. Tapering U-channel: top internal width 12.7 cm, bottom internal width 8.55 cm, channel depth 6.35 cm, wall thickness is 0.31 cm. Centered rectangular top notch: 4.55 cm wide, 2.34 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 470.90000000000003,
+      "top_width": 127.0,
+      "bottom_width": 85.5,
+      "channel_depth": 63.5,
+      "wall_thickness": 3.1,
+      "notch_width": 45.5,
+      "notch_depth": 23.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.42666292190552,
+      "width_x": 94.02642548084259,
+      "depth_z": 54.99192476272583,
+      "top_width": 56.9829487628825,
+      "bottom_width": 48.3659192230437,
+      "channel_depth": 54.99192476272583
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 470.90000000000003,
+        "model_value": 199.42666292190552,
+        "absolute_diff": 271.4733370780945,
+        "percentage_diff": 57.64989107625706
+      },
+      "top_width": {
+        "prompt_value": 127.0,
+        "model_value": 56.9829487628825,
+        "absolute_diff": 70.0170512371175,
+        "percentage_diff": 55.13153640717914
+      },
+      "bottom_width": {
+        "prompt_value": 85.5,
+        "model_value": 48.3659192230437,
+        "absolute_diff": 37.1340807769563,
+        "percentage_diff": 43.431673423340705
+      },
+      "channel_depth": {
+        "prompt_value": 63.5,
+        "model_value": 54.99192476272583,
+        "absolute_diff": 8.50807523727417,
+        "percentage_diff": 13.398543680746725
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "de120618-ac87-45ec-9a52-620890322b22",
+    "prompt": "Create only one Sandblasted Metal below-knee prosthetic cover with a matte grey grain. Ergonomic semi-cylindrical U-shaped open channel. Total length: 49.9 cm. Tapering U-channel: top internal width 13.17 cm, bottom internal width 8.75 cm, channel depth 6.58 cm, wall thickness is 0.39 cm. Centered rectangular top notch: 5.05 cm wide, 3.0 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 499.0,
+      "top_width": 131.7,
+      "bottom_width": 87.5,
+      "channel_depth": 65.8,
+      "wall_thickness": 3.9000000000000004,
+      "notch_width": 50.5,
+      "notch_depth": 30.0,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.42302107810974,
+      "width_x": 115.90554714202881,
+      "depth_z": 78.88303101062775,
+      "top_width": 102.33803202696434,
+      "bottom_width": 106.41610166687468,
+      "channel_depth": 78.88303101062775
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 499.0,
+        "model_value": 199.42302107810974,
+        "absolute_diff": 299.57697892189026,
+        "percentage_diff": 60.03546671781368
+      },
+      "top_width": {
+        "prompt_value": 131.7,
+        "model_value": 102.33803202696434,
+        "absolute_diff": 29.361967973035647,
+        "percentage_diff": 22.29458464163679
+      },
+      "bottom_width": {
+        "prompt_value": 87.5,
+        "model_value": 106.41610166687468,
+        "absolute_diff": 18.91610166687468,
+        "percentage_diff": 21.618401904999633
+      },
+      "channel_depth": {
+        "prompt_value": 65.8,
+        "model_value": 78.88303101062775,
+        "absolute_diff": 13.08303101062775,
+        "percentage_diff": 19.88302585201786
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "f5cac53e-e22d-4d80-8d86-cce7117270d9",
+    "prompt": "Create only one Watercolor Splash below-knee prosthetic cover with blending pastel hues. Ergonomic semi-cylindrical U-shaped open channel. Total length: 39.72 cm. Tapering U-channel: top internal width 10.88 cm, bottom internal width 6.44 cm, channel depth 5.44 cm, wall thickness is 0.31 cm. Centered rectangular top notch: 5.53 cm wide, 2.59 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 397.2,
+      "top_width": 108.80000000000001,
+      "bottom_width": 64.4,
+      "channel_depth": 54.400000000000006,
+      "wall_thickness": 3.1,
+      "notch_width": 55.300000000000004,
+      "notch_depth": 25.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.82587099075317,
+      "width_x": 179.68576550483704,
+      "depth_z": 187.4135136604309,
+      "top_width": 83.53489054258276,
+      "bottom_width": 36.611205663026624,
+      "channel_depth": 187.4135136604309
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 397.2,
+        "model_value": 199.82587099075317,
+        "absolute_diff": 197.37412900924681,
+        "percentage_diff": 49.6913718552988
+      },
+      "top_width": {
+        "prompt_value": 108.80000000000001,
+        "model_value": 83.53489054258276,
+        "absolute_diff": 25.265109457417253,
+        "percentage_diff": 23.221607957184972
+      },
+      "bottom_width": {
+        "prompt_value": 64.4,
+        "model_value": 36.611205663026624,
+        "absolute_diff": 27.788794336973382,
+        "percentage_diff": 43.15030176548662
+      },
+      "channel_depth": {
+        "prompt_value": 54.400000000000006,
+        "model_value": 187.4135136604309,
+        "absolute_diff": 133.0135136604309,
+        "percentage_diff": 244.51013540520387
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "45e3f599-9a81-49c2-9311-20c9b99dea26",
+    "prompt": "Create only one Velvet texture below-knee prosthetic cover in deep royal purple. Ergonomic semi-cylindrical U-shaped open channel. Total length: 37.24 cm. Tapering U-channel: top internal width 10.07 cm, bottom internal width 6.06 cm, channel depth 5.03 cm, wall thickness is 0.45 cm. Centered rectangular top notch: 4.01 cm wide, 2.45 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 372.40000000000003,
+      "top_width": 100.7,
+      "bottom_width": 60.599999999999994,
+      "channel_depth": 50.300000000000004,
+      "wall_thickness": 4.5,
+      "notch_width": 40.099999999999994,
+      "notch_depth": 24.5,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.6656596660614,
+      "width_x": 125.00951290130615,
+      "depth_z": 64.6265983581543,
+      "top_width": 95.84534306192793,
+      "bottom_width": 50.7163621966777,
+      "channel_depth": 64.6265983581543
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 372.40000000000003,
+        "model_value": 199.6656596660614,
+        "absolute_diff": 172.73434033393863,
+        "percentage_diff": 46.38408709289437
+      },
+      "top_width": {
+        "prompt_value": 100.7,
+        "model_value": 95.84534306192793,
+        "absolute_diff": 4.854656938072068,
+        "percentage_diff": 4.8209105641232055
+      },
+      "bottom_width": {
+        "prompt_value": 60.599999999999994,
+        "model_value": 50.7163621966777,
+        "absolute_diff": 9.883637803322294,
+        "percentage_diff": 16.30963333881567
+      },
+      "channel_depth": {
+        "prompt_value": 50.300000000000004,
+        "model_value": 64.6265983581543,
+        "absolute_diff": 14.326598358154293,
+        "percentage_diff": 28.48230289891509
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "4863d2c5-224c-4c01-b760-5e4535d4cc39",
+    "prompt": "Create only one Graffiti Art below-knee prosthetic cover with vibrant street-style spray paint. Ergonomic semi-cylindrical U-shaped open channel. Total length: 50.02 cm. Tapering U-channel: top internal width 12.59 cm, bottom internal width 8.15 cm, channel depth 6.3 cm, wall thickness is 0.48 cm. Centered rectangular top notch: 5.68 cm wide, 2.83 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 500.20000000000005,
+      "top_width": 125.9,
+      "bottom_width": 81.5,
+      "channel_depth": 63.0,
+      "wall_thickness": 4.8,
+      "notch_width": 56.8,
+      "notch_depth": 28.3,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.48325753211975,
+      "width_x": 113.33425045013428,
+      "depth_z": 111.06588840484619,
+      "top_width": 40.1681228702989,
+      "bottom_width": 100.32919261155521,
+      "channel_depth": 111.06588840484619
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 500.20000000000005,
+        "model_value": 199.48325753211975,
+        "absolute_diff": 300.7167424678803,
+        "percentage_diff": 60.11930077326675
+      },
+      "top_width": {
+        "prompt_value": 125.9,
+        "model_value": 40.1681228702989,
+        "absolute_diff": 85.7318771297011,
+        "percentage_diff": 68.09521614749889
+      },
+      "bottom_width": {
+        "prompt_value": 81.5,
+        "model_value": 100.32919261155521,
+        "absolute_diff": 18.829192611555214,
+        "percentage_diff": 23.103303817859157
+      },
+      "channel_depth": {
+        "prompt_value": 63.0,
+        "model_value": 111.06588840484619,
+        "absolute_diff": 48.06588840484619,
+        "percentage_diff": 76.29506096007333
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c34596d7-96c5-43b4-b730-a109dacb4c6a",
+    "prompt": "Create only one Glitch Art below-knee prosthetic cover with distorted geometry. Ergonomic semi-cylindrical U-shaped open channel. Total length: 41.55 cm. Tapering U-channel: top internal width 11.65 cm, bottom internal width 7.21 cm, channel depth 5.83 cm, wall thickness is 0.49 cm. Centered rectangular top notch: 5.87 cm wide, 3.26 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 415.5,
+      "top_width": 116.5,
+      "bottom_width": 72.1,
+      "channel_depth": 58.3,
+      "wall_thickness": 4.9,
+      "notch_width": 58.7,
+      "notch_depth": 32.599999999999994,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.52269196510315,
+      "width_x": 77.50360369682312,
+      "depth_z": 36.3826259970665,
+      "top_width": 14.52840575948072,
+      "bottom_width": 33.22046593728272,
+      "channel_depth": 36.3826259970665
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 415.5,
+        "model_value": 199.52269196510315,
+        "absolute_diff": 215.97730803489685,
+        "percentage_diff": 51.9800982033446
+      },
+      "top_width": {
+        "prompt_value": 116.5,
+        "model_value": 14.52840575948072,
+        "absolute_diff": 101.97159424051928,
+        "percentage_diff": 87.52926544250582
+      },
+      "bottom_width": {
+        "prompt_value": 72.1,
+        "model_value": 33.22046593728272,
+        "absolute_diff": 38.879534062717276,
+        "percentage_diff": 53.92445778462868
+      },
+      "channel_depth": {
+        "prompt_value": 58.3,
+        "model_value": 36.3826259970665,
+        "absolute_diff": 21.9173740029335,
+        "percentage_diff": 37.5941235041741
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "02ab3358-7d53-48b1-91f0-393ad47a993f",
+    "prompt": "Create only one Optical Illusion below-knee prosthetic cover with black and white stripes. Ergonomic semi-cylindrical U-shaped open channel. Total length: 46.27 cm. Tapering U-channel: top internal width 13.13 cm, bottom internal width 8.65 cm, channel depth 6.57 cm, wall thickness is 0.45 cm. Centered rectangular top notch: 4.73 cm wide, 2.71 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 462.70000000000005,
+      "top_width": 131.3,
+      "bottom_width": 86.5,
+      "channel_depth": 65.7,
+      "wall_thickness": 4.5,
+      "notch_width": 47.300000000000004,
+      "notch_depth": 27.1,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.63942766189575,
+      "width_x": 86.02698743343353,
+      "depth_z": 59.17614996433258,
+      "top_width": 52.097457157731554,
+      "bottom_width": 41.314571568389,
+      "channel_depth": 59.17614996433258
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 462.70000000000005,
+        "model_value": 199.63942766189575,
+        "absolute_diff": 263.0605723381043,
+        "percentage_diff": 56.853376342793226
+      },
+      "top_width": {
+        "prompt_value": 131.3,
+        "model_value": 52.097457157731554,
+        "absolute_diff": 79.20254284226846,
+        "percentage_diff": 60.32181480751596
+      },
+      "bottom_width": {
+        "prompt_value": 86.5,
+        "model_value": 41.314571568389,
+        "absolute_diff": 45.185428431611,
+        "percentage_diff": 52.237489516313296
+      },
+      "channel_depth": {
+        "prompt_value": 65.7,
+        "model_value": 59.17614996433258,
+        "absolute_diff": 6.523850035667422,
+        "percentage_diff": 9.929756523085878
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "9dcba73c-46ba-447b-bbec-156086f7a907",
+    "prompt": "Create only one Woven Carbon Fiber below-knee prosthetic cover with a high-gloss clear coat. Ergonomic semi-cylindrical U-shaped open channel. Total length: 42.01 cm. Tapering U-channel: top internal width 11.34 cm, bottom internal width 7.23 cm, channel depth 5.67 cm, wall thickness is 0.4 cm. Centered rectangular top notch: 4.27 cm wide, 2.19 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 420.09999999999997,
+      "top_width": 113.4,
+      "bottom_width": 72.30000000000001,
+      "channel_depth": 56.7,
+      "wall_thickness": 4.0,
+      "notch_width": 42.699999999999996,
+      "notch_depth": 21.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.57046508789062,
+      "width_x": 51.592254638671875,
+      "depth_z": 102.34958529472351,
+      "top_width": 48.53791005963538,
+      "bottom_width": 33.95582447491551,
+      "channel_depth": 102.34958529472351
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 420.09999999999997,
+        "model_value": 199.57046508789062,
+        "absolute_diff": 220.52953491210934,
+        "percentage_diff": 52.494533423496634
+      },
+      "top_width": {
+        "prompt_value": 113.4,
+        "model_value": 48.53791005963538,
+        "absolute_diff": 64.86208994036463,
+        "percentage_diff": 57.197610176688386
+      },
+      "bottom_width": {
+        "prompt_value": 72.30000000000001,
+        "model_value": 33.95582447491551,
+        "absolute_diff": 38.3441755250845,
+        "percentage_diff": 53.034820919895566
+      },
+      "channel_depth": {
+        "prompt_value": 56.7,
+        "model_value": 102.34958529472351,
+        "absolute_diff": 45.64958529472351,
+        "percentage_diff": 80.51073244219313
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "ce80bb67-32b6-4e63-90ce-4d2b00f0866c",
+    "prompt": "Create only one Cyberpunk style below-knee prosthetic cover with neon yellow circuit lines. Ergonomic semi-cylindrical U-shaped open channel. Total length: 38.42 cm. Tapering U-channel: top internal width 10.77 cm, bottom internal width 6.22 cm, channel depth 5.39 cm, wall thickness is 0.49 cm. Centered rectangular top notch: 5.45 cm wide, 3.26 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 384.20000000000005,
+      "top_width": 107.69999999999999,
+      "bottom_width": 62.199999999999996,
+      "channel_depth": 53.9,
+      "wall_thickness": 4.9,
+      "notch_width": 54.5,
+      "notch_depth": 32.599999999999994,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.60771203041077,
+      "width_x": 106.14933967590332,
+      "depth_z": 88.00590634346008,
+      "top_width": 30.98657686933747,
+      "bottom_width": 56.77533770708207,
+      "channel_depth": 88.00590634346008
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 384.20000000000005,
+        "model_value": 199.60771203041077,
+        "absolute_diff": 184.59228796958928,
+        "percentage_diff": 48.045884427274665
+      },
+      "top_width": {
+        "prompt_value": 107.69999999999999,
+        "model_value": 30.98657686933747,
+        "absolute_diff": 76.71342313066252,
+        "percentage_diff": 71.2288051352484
+      },
+      "bottom_width": {
+        "prompt_value": 62.199999999999996,
+        "model_value": 56.77533770708207,
+        "absolute_diff": 5.4246622929179225,
+        "percentage_diff": 8.721322014337495
+      },
+      "channel_depth": {
+        "prompt_value": 53.9,
+        "model_value": 88.00590634346008,
+        "absolute_diff": 34.105906343460084,
+        "percentage_diff": 63.2762640880521
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "52817538-1cb2-48b4-91af-f32e6351aabe",
+    "prompt": "Create only one Floral relief below-knee prosthetic cover with embossed rose patterns. Ergonomic semi-cylindrical U-shaped open channel. Total length: 40.08 cm. Tapering U-channel: top internal width 9.62 cm, bottom internal width 6.38 cm, channel depth 4.81 cm, wall thickness is 0.36 cm. Centered rectangular top notch: 5.75 cm wide, 3.4 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 400.79999999999995,
+      "top_width": 96.19999999999999,
+      "bottom_width": 63.8,
+      "channel_depth": 48.099999999999994,
+      "wall_thickness": 3.5999999999999996,
+      "notch_width": 57.5,
+      "notch_depth": 34.0,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.29353594779968,
+      "width_x": 97.86165654659271,
+      "depth_z": 111.49899363517761,
+      "top_width": 31.818190328724928,
+      "bottom_width": 62.19926892943592,
+      "channel_depth": 111.49899363517761
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 400.79999999999995,
+        "model_value": 199.29353594779968,
+        "absolute_diff": 201.50646405220027,
+        "percentage_diff": 50.27606388527951
+      },
+      "top_width": {
+        "prompt_value": 96.19999999999999,
+        "model_value": 31.818190328724928,
+        "absolute_diff": 64.38180967127506,
+        "percentage_diff": 66.92495807824852
+      },
+      "bottom_width": {
+        "prompt_value": 63.8,
+        "model_value": 62.19926892943592,
+        "absolute_diff": 1.6007310705640805,
+        "percentage_diff": 2.508982869222697
+      },
+      "channel_depth": {
+        "prompt_value": 48.099999999999994,
+        "model_value": 111.49899363517761,
+        "absolute_diff": 63.39899363517762,
+        "percentage_diff": 131.80663957417386
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "780e7aca-2c10-47b4-a122-97ae8b362aea",
+    "prompt": "Create only one Tree Bark texture below-knee prosthetic cover with rough, organic grooves. Ergonomic semi-cylindrical U-shaped open channel. Total length: 41.78 cm. Tapering U-channel: top internal width 11.43 cm, bottom internal width 7.05 cm, channel depth 5.71 cm, wall thickness is 0.47 cm. Centered rectangular top notch: 5.26 cm wide, 3.13 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 417.8,
+      "top_width": 114.3,
+      "bottom_width": 70.5,
+      "channel_depth": 57.1,
+      "wall_thickness": 4.699999999999999,
+      "notch_width": 52.599999999999994,
+      "notch_depth": 31.299999999999997,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.6601164340973,
+      "width_x": 136.89919114112854,
+      "depth_z": 75.30753016471863,
+      "top_width": 23.876261642286835,
+      "bottom_width": 54.57952862215847,
+      "channel_depth": 75.30753016471863
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 417.8,
+        "model_value": 199.6601164340973,
+        "absolute_diff": 218.13988356590272,
+        "percentage_diff": 52.21155662180534
+      },
+      "top_width": {
+        "prompt_value": 114.3,
+        "model_value": 23.876261642286835,
+        "absolute_diff": 90.42373835771316,
+        "percentage_diff": 79.11088220272367
+      },
+      "bottom_width": {
+        "prompt_value": 70.5,
+        "model_value": 54.57952862215847,
+        "absolute_diff": 15.92047137784153,
+        "percentage_diff": 22.58222890473976
+      },
+      "channel_depth": {
+        "prompt_value": 57.1,
+        "model_value": 75.30753016471863,
+        "absolute_diff": 18.207530164718627,
+        "percentage_diff": 31.88709310808866
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "27c3eb0c-484e-4b76-8e94-049f5ad01706",
+    "prompt": "Create only one Gyroid Infill structure below-knee prosthetic cover exposed as the outer surface. Ergonomic semi-cylindrical U-shaped open channel. Total length: 49.15 cm. Tapering U-channel: top internal width 13.39 cm, bottom internal width 8.27 cm, channel depth 6.69 cm, wall thickness is 0.35 cm. Centered rectangular top notch: 5.49 cm wide, 2.74 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 491.5,
+      "top_width": 133.9,
+      "bottom_width": 82.69999999999999,
+      "channel_depth": 66.9,
+      "wall_thickness": 3.5,
+      "notch_width": 54.900000000000006,
+      "notch_depth": 27.400000000000002,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.72431063652039,
+      "width_x": 83.78826379776001,
+      "depth_z": 121.01564407348633,
+      "top_width": 72.95298650245978,
+      "bottom_width": 75.82650933142034,
+      "channel_depth": 121.01564407348633
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 491.5,
+        "model_value": 199.72431063652039,
+        "absolute_diff": 291.7756893634796,
+        "percentage_diff": 59.36433150833766
+      },
+      "top_width": {
+        "prompt_value": 133.9,
+        "model_value": 72.95298650245978,
+        "absolute_diff": 60.947013497540226,
+        "percentage_diff": 45.51681366507858
+      },
+      "bottom_width": {
+        "prompt_value": 82.69999999999999,
+        "model_value": 75.82650933142034,
+        "absolute_diff": 6.873490668579649,
+        "percentage_diff": 8.311355101063663
+      },
+      "channel_depth": {
+        "prompt_value": 66.9,
+        "model_value": 121.01564407348633,
+        "absolute_diff": 54.11564407348632,
+        "percentage_diff": 80.89034988562977
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "037eebc6-1869-473d-bb7b-962e2b1d3b7f",
+    "prompt": "Create only one Brushed Aluminum below-knee prosthetic cover with an industrial aesthetic. Ergonomic semi-cylindrical U-shaped open channel. Total length: 39.21 cm. Tapering U-channel: top internal width 10.06 cm, bottom internal width 6.1 cm, channel depth 5.03 cm, wall thickness is 0.47 cm. Centered rectangular top notch: 4.28 cm wide, 2.88 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 392.1,
+      "top_width": 100.60000000000001,
+      "bottom_width": 61.0,
+      "channel_depth": 50.300000000000004,
+      "wall_thickness": 4.699999999999999,
+      "notch_width": 42.800000000000004,
+      "notch_depth": 28.799999999999997,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.57634806632996,
+      "width_x": 67.05253720283508,
+      "depth_z": 114.4999086856842,
+      "top_width": 56.966195716985304,
+      "bottom_width": 63.269572518420915,
+      "channel_depth": 114.4999086856842
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 392.1,
+        "model_value": 199.57634806632996,
+        "absolute_diff": 192.52365193367007,
+        "percentage_diff": 49.100650837457295
+      },
+      "top_width": {
+        "prompt_value": 100.60000000000001,
+        "model_value": 56.966195716985304,
+        "absolute_diff": 43.633804283014705,
+        "percentage_diff": 43.37356290558122
+      },
+      "bottom_width": {
+        "prompt_value": 61.0,
+        "model_value": 63.269572518420915,
+        "absolute_diff": 2.2695725184209152,
+        "percentage_diff": 3.7206106859359265
+      },
+      "channel_depth": {
+        "prompt_value": 50.300000000000004,
+        "model_value": 114.4999086856842,
+        "absolute_diff": 64.19990868568419,
+        "percentage_diff": 127.63401329161866
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fded2fcd-d1b3-4b1b-8a82-21e9f0aaa94d",
+    "prompt": "Create only one High-visibility Orange Nylon below-knee prosthetic cover for active wear. Ergonomic semi-cylindrical U-shaped open channel. Total length: 49.62 cm. Tapering U-channel: top internal width 12.81 cm, bottom internal width 8.6 cm, channel depth 6.4 cm, wall thickness is 0.43 cm. Centered rectangular top notch: 5.87 cm wide, 2.3 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 496.2,
+      "top_width": 128.1,
+      "bottom_width": 86.0,
+      "channel_depth": 64.0,
+      "wall_thickness": 4.3,
+      "notch_width": 58.7,
+      "notch_depth": 23.0,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.48161244392395,
+      "width_x": 110.62908172607422,
+      "depth_z": 58.64939987659454,
+      "top_width": 58.492461479772864,
+      "bottom_width": 110.48028197421202,
+      "channel_depth": 58.64939987659454
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 496.2,
+        "model_value": 199.48161244392395,
+        "absolute_diff": 296.71838755607604,
+        "percentage_diff": 59.798143401063285
+      },
+      "top_width": {
+        "prompt_value": 128.1,
+        "model_value": 58.492461479772864,
+        "absolute_diff": 69.60753852022714,
+        "percentage_diff": 54.33843756458012
+      },
+      "bottom_width": {
+        "prompt_value": 86.0,
+        "model_value": 110.48028197421202,
+        "absolute_diff": 24.48028197421202,
+        "percentage_diff": 28.46544415606049
+      },
+      "channel_depth": {
+        "prompt_value": 64.0,
+        "model_value": 58.64939987659454,
+        "absolute_diff": 5.3506001234054565,
+        "percentage_diff": 8.360312692821026
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "09a57cd2-661e-451b-8a2e-c076c14162c3",
+    "prompt": "Create only one Snake Scale texture below-knee prosthetic cover in a shimmering green gradient. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.63 cm. Tapering U-channel: top internal width 13.34 cm, bottom internal width 8.9 cm, channel depth 6.67 cm, wall thickness is 0.47 cm. Centered rectangular top notch: 5.2 cm wide, 2.23 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 476.3,
+      "top_width": 133.4,
+      "bottom_width": 89.0,
+      "channel_depth": 66.7,
+      "wall_thickness": 4.699999999999999,
+      "notch_width": 52.0,
+      "notch_depth": 22.3,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.70905184745789,
+      "width_x": 89.95182514190674,
+      "depth_z": 76.59699320793152,
+      "top_width": 63.93114020714366,
+      "bottom_width": 83.13678837118887,
+      "channel_depth": 76.59699320793152
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 476.3,
+        "model_value": 199.70905184745789,
+        "absolute_diff": 276.5909481525421,
+        "percentage_diff": 58.070742841180376
+      },
+      "top_width": {
+        "prompt_value": 133.4,
+        "model_value": 63.93114020714366,
+        "absolute_diff": 69.46885979285634,
+        "percentage_diff": 52.075607041121685
+      },
+      "bottom_width": {
+        "prompt_value": 89.0,
+        "model_value": 83.13678837118887,
+        "absolute_diff": 5.863211628811129,
+        "percentage_diff": 6.587878234619246
+      },
+      "channel_depth": {
+        "prompt_value": 66.7,
+        "model_value": 76.59699320793152,
+        "absolute_diff": 9.896993207931516,
+        "percentage_diff": 14.838070776509019
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "46e86f1b-d904-4866-b2ea-5aa99574d1e9",
+    "prompt": "Create only one Gradient Fade below-knee prosthetic cover transitioning from red to blue. Ergonomic semi-cylindrical U-shaped open channel. Total length: 45.6 cm. Tapering U-channel: top internal width 11.42 cm, bottom internal width 7.13 cm, channel depth 5.71 cm, wall thickness is 0.4 cm. Centered rectangular top notch: 4.3 cm wide, 2.48 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 456.0,
+      "top_width": 114.2,
+      "bottom_width": 71.3,
+      "channel_depth": 57.1,
+      "wall_thickness": 4.0,
+      "notch_width": 43.0,
+      "notch_depth": 24.8,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.6221899986267,
+      "width_x": 74.94213283061981,
+      "depth_z": 74.85814392566681,
+      "top_width": 28.925370268933936,
+      "bottom_width": 64.48351700925767,
+      "channel_depth": 74.85814392566681
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 456.0,
+        "model_value": 199.6221899986267,
+        "absolute_diff": 256.3778100013733,
+        "percentage_diff": 56.22320394766959
+      },
+      "top_width": {
+        "prompt_value": 114.2,
+        "model_value": 28.925370268933936,
+        "absolute_diff": 85.27462973106607,
+        "percentage_diff": 74.6713044930526
+      },
+      "bottom_width": {
+        "prompt_value": 71.3,
+        "model_value": 64.48351700925767,
+        "absolute_diff": 6.81648299074233,
+        "percentage_diff": 9.560284699498359
+      },
+      "channel_depth": {
+        "prompt_value": 57.1,
+        "model_value": 74.85814392566681,
+        "absolute_diff": 17.758143925666808,
+        "percentage_diff": 31.100076927612623
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "0e71e519-3bd3-4103-b6a4-ea410c8e0871",
+    "prompt": "Create only one Chrome-finished below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.38 cm. Tapering U-channel: top internal width 13.09 cm, bottom internal width 8.7 cm, channel depth 6.55 cm, wall thickness is 0.5 cm. Centered rectangular top notch: 4.65 cm wide, 2.38 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 473.8,
+      "top_width": 130.9,
+      "bottom_width": 87.0,
+      "channel_depth": 65.5,
+      "wall_thickness": 5.0,
+      "notch_width": 46.5,
+      "notch_depth": 23.799999999999997,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.6207356452942,
+      "width_x": 71.4389055967331,
+      "depth_z": 128.66568565368652,
+      "top_width": 71.30414627468295,
+      "bottom_width": 45.960236786590215,
+      "channel_depth": 128.66568565368652
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 473.8,
+        "model_value": 199.6207356452942,
+        "absolute_diff": 274.1792643547058,
+        "percentage_diff": 57.868143595336804
+      },
+      "top_width": {
+        "prompt_value": 130.9,
+        "model_value": 71.30414627468295,
+        "absolute_diff": 59.595853725317056,
+        "percentage_diff": 45.527772135459934
+      },
+      "bottom_width": {
+        "prompt_value": 87.0,
+        "model_value": 45.960236786590215,
+        "absolute_diff": 41.039763213409785,
+        "percentage_diff": 47.17214162460895
+      },
+      "channel_depth": {
+        "prompt_value": 65.5,
+        "model_value": 128.66568565368652,
+        "absolute_diff": 63.16568565368652,
+        "percentage_diff": 96.43616130333821
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "bb5c4918-60b2-4303-a6c3-9e7320bee172",
+    "prompt": "Create only one Gold-plated below-knee prosthetic cover with an ornate luxury engraving. Ergonomic semi-cylindrical U-shaped open channel. Total length: 38.34 cm. Tapering U-channel: top internal width 9.96 cm, bottom internal width 6.49 cm, channel depth 4.98 cm, wall thickness is 0.49 cm. Centered rectangular top notch: 5.33 cm wide, 3.12 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 383.40000000000003,
+      "top_width": 99.60000000000001,
+      "bottom_width": 64.9,
+      "channel_depth": 49.800000000000004,
+      "wall_thickness": 4.9,
+      "notch_width": 53.3,
+      "notch_depth": 31.200000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.477356672287,
+      "width_x": 128.06770205497742,
+      "depth_z": 72.44480550289154,
+      "top_width": 48.40430003858639,
+      "bottom_width": 101.7279274709581,
+      "channel_depth": 72.44480550289154
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 383.40000000000003,
+        "model_value": 199.477356672287,
+        "absolute_diff": 183.92264332771305,
+        "percentage_diff": 47.971477132945495
+      },
+      "top_width": {
+        "prompt_value": 99.60000000000001,
+        "model_value": 48.40430003858639,
+        "absolute_diff": 51.19569996141362,
+        "percentage_diff": 51.401305182142174
+      },
+      "bottom_width": {
+        "prompt_value": 64.9,
+        "model_value": 101.7279274709581,
+        "absolute_diff": 36.82792747095809,
+        "percentage_diff": 56.74565095679212
+      },
+      "channel_depth": {
+        "prompt_value": 49.800000000000004,
+        "model_value": 72.44480550289154,
+        "absolute_diff": 22.644805502891536,
+        "percentage_diff": 45.4714969937581
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "6a0df167-097e-411d-9ebe-57d4562cd793",
+    "prompt": "Create only one Bamboo texture below-knee prosthetic cover with natural vertical striations. Ergonomic semi-cylindrical U-shaped open channel. Total length: 48.67 cm. Tapering U-channel: top internal width 13.53 cm, bottom internal width 8.39 cm, channel depth 6.76 cm, wall thickness is 0.34 cm. Centered rectangular top notch: 4.49 cm wide, 2.87 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 486.70000000000005,
+      "top_width": 135.29999999999998,
+      "bottom_width": 83.9,
+      "channel_depth": 67.6,
+      "wall_thickness": 3.4000000000000004,
+      "notch_width": 44.900000000000006,
+      "notch_depth": 28.700000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.6098518371582,
+      "width_x": 129.21517491340637,
+      "depth_z": 156.49212002754211,
+      "top_width": 62.50133581361552,
+      "bottom_width": 82.91410549654461,
+      "channel_depth": 156.49212002754211
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 486.70000000000005,
+        "model_value": 199.6098518371582,
+        "absolute_diff": 287.09014816284184,
+        "percentage_diff": 58.987086123452194
+      },
+      "top_width": {
+        "prompt_value": 135.29999999999998,
+        "model_value": 62.50133581361552,
+        "absolute_diff": 72.79866418638446,
+        "percentage_diff": 53.80536894780818
+      },
+      "bottom_width": {
+        "prompt_value": 83.9,
+        "model_value": 82.91410549654461,
+        "absolute_diff": 0.9858945034553983,
+        "percentage_diff": 1.1750828408288418
+      },
+      "channel_depth": {
+        "prompt_value": 67.6,
+        "model_value": 156.49212002754211,
+        "absolute_diff": 88.89212002754212,
+        "percentage_diff": 131.49721897565402
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "d3e22242-1c40-4a42-9c34-4c4b54e308b8",
+    "prompt": "Create only one Low-Poly geometric below-knee prosthetic cover with sharp faceted angles. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.13 cm. Tapering U-channel: top internal width 13.37 cm, bottom internal width 8.74 cm, channel depth 6.68 cm, wall thickness is 0.35 cm. Centered rectangular top notch: 5.1 cm wide, 2.88 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 471.3,
+      "top_width": 133.7,
+      "bottom_width": 87.4,
+      "channel_depth": 66.8,
+      "wall_thickness": 3.5,
+      "notch_width": 51.0,
+      "notch_depth": 28.799999999999997,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.26167130470276,
+      "width_x": 120.62830328941345,
+      "depth_z": 104.69979643821716,
+      "top_width": 38.77331119108896,
+      "bottom_width": 112.52579914909879,
+      "channel_depth": 104.69979643821716
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 471.3,
+        "model_value": 199.26167130470276,
+        "absolute_diff": 272.03832869529725,
+        "percentage_diff": 57.72084207411356
+      },
+      "top_width": {
+        "prompt_value": 133.7,
+        "model_value": 38.77331119108896,
+        "absolute_diff": 94.92668880891102,
+        "percentage_diff": 70.9997672467547
+      },
+      "bottom_width": {
+        "prompt_value": 87.4,
+        "model_value": 112.52579914909879,
+        "absolute_diff": 25.125799149098782,
+        "percentage_diff": 28.748053946337276
+      },
+      "channel_depth": {
+        "prompt_value": 66.8,
+        "model_value": 104.69979643821716,
+        "absolute_diff": 37.899796438217166,
+        "percentage_diff": 56.73622221289995
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c279a268-948e-4472-a1e5-9e9f68fb9b5f",
+    "prompt": "Create only one Wireframe below-knee prosthetic cover made of thin black scaffolding. Ergonomic semi-cylindrical U-shaped open channel. Total length: 42.5 cm. Tapering U-channel: top internal width 11.66 cm, bottom internal width 7.03 cm, channel depth 5.83 cm, wall thickness is 0.49 cm. Centered rectangular top notch: 4.67 cm wide, 2.44 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 425.0,
+      "top_width": 116.6,
+      "bottom_width": 70.3,
+      "channel_depth": 58.3,
+      "wall_thickness": 4.9,
+      "notch_width": 46.7,
+      "notch_depth": 24.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 200.27936697006226,
+      "width_x": 82.91907906532288,
+      "depth_z": 149.40561056137085,
+      "top_width": 47.27106758251581,
+      "bottom_width": 42.43949164584246,
+      "channel_depth": 149.40561056137085
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 425.0,
+        "model_value": 200.27936697006226,
+        "absolute_diff": 224.72063302993774,
+        "percentage_diff": 52.8754430658677
+      },
+      "top_width": {
+        "prompt_value": 116.6,
+        "model_value": 47.27106758251581,
+        "absolute_diff": 69.32893241748418,
+        "percentage_diff": 59.45877565821971
+      },
+      "bottom_width": {
+        "prompt_value": 70.3,
+        "model_value": 42.43949164584246,
+        "absolute_diff": 27.86050835415754,
+        "percentage_diff": 39.630879593396216
+      },
+      "channel_depth": {
+        "prompt_value": 58.3,
+        "model_value": 149.40561056137085,
+        "absolute_diff": 91.10561056137085,
+        "percentage_diff": 156.27034401607352
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c48d51b3-4ff0-43e3-a12f-a34f8aa65304",
+    "prompt": "Create only one Hexagonal Mesh below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 48.99 cm. Tapering U-channel: top internal width 13.38 cm, bottom internal width 8.01 cm, channel depth 6.69 cm, wall thickness is 0.44 cm. Centered rectangular top notch: 4.66 cm wide, 2.67 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 489.90000000000003,
+      "top_width": 133.8,
+      "bottom_width": 80.1,
+      "channel_depth": 66.9,
+      "wall_thickness": 4.4,
+      "notch_width": 46.6,
+      "notch_depth": 26.7,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.36200976371765,
+      "width_x": 102.64953374862671,
+      "depth_z": 69.4149911403656,
+      "top_width": 78.306864512462,
+      "bottom_width": 90.09417008453454,
+      "channel_depth": 69.4149911403656
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 489.90000000000003,
+        "model_value": 199.36200976371765,
+        "absolute_diff": 290.5379902362824,
+        "percentage_diff": 59.30557057282759
+      },
+      "top_width": {
+        "prompt_value": 133.8,
+        "model_value": 78.306864512462,
+        "absolute_diff": 55.49313548753801,
+        "percentage_diff": 41.47469019995367
+      },
+      "bottom_width": {
+        "prompt_value": 80.1,
+        "model_value": 90.09417008453454,
+        "absolute_diff": 9.994170084534545,
+        "percentage_diff": 12.477116210405176
+      },
+      "channel_depth": {
+        "prompt_value": 66.9,
+        "model_value": 69.4149911403656,
+        "absolute_diff": 2.514991140365595,
+        "percentage_diff": 3.7593290588424435
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "2ec2ce6f-cc48-435e-8b04-b342bd584136",
+    "prompt": "Create only one Forged Carbon Fiber below-knee prosthetic cover with a marbled black texture. Ergonomic semi-cylindrical U-shaped open channel. Total length: 50.18 cm. Tapering U-channel: top internal width 13.11 cm, bottom internal width 8.22 cm, channel depth 6.55 cm, wall thickness is 0.37 cm. Centered rectangular top notch: 5.88 cm wide, 3.27 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 501.8,
+      "top_width": 131.1,
+      "bottom_width": 82.2,
+      "channel_depth": 65.5,
+      "wall_thickness": 3.7,
+      "notch_width": 58.8,
+      "notch_depth": 32.7,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.68141317367554,
+      "width_x": 141.62163734436035,
+      "depth_z": 126.25449895858765,
+      "top_width": 57.6444567876695,
+      "bottom_width": 34.677838508061946,
+      "channel_depth": 126.25449895858765
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 501.8,
+        "model_value": 199.68141317367554,
+        "absolute_diff": 302.1185868263245,
+        "percentage_diff": 60.206972265110494
+      },
+      "top_width": {
+        "prompt_value": 131.1,
+        "model_value": 57.6444567876695,
+        "absolute_diff": 73.4555432123305,
+        "percentage_diff": 56.030162633356596
+      },
+      "bottom_width": {
+        "prompt_value": 82.2,
+        "model_value": 34.677838508061946,
+        "absolute_diff": 47.52216149193806,
+        "percentage_diff": 57.812848530338265
+      },
+      "channel_depth": {
+        "prompt_value": 65.5,
+        "model_value": 126.25449895858765,
+        "absolute_diff": 60.75449895858765,
+        "percentage_diff": 92.75496024211854
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "5b64cf17-0333-4781-a77e-c1c85a821c07",
+    "prompt": "Create only one Neon Green TPU below-knee prosthetic cover with a flexible, rubberized finish. Ergonomic semi-cylindrical U-shaped open channel. Total length: 46.57 cm. Tapering U-channel: top internal width 13.1 cm, bottom internal width 8.73 cm, channel depth 6.55 cm, wall thickness is 0.48 cm. Centered rectangular top notch: 4.12 cm wide, 3.47 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 465.7,
+      "top_width": 131.0,
+      "bottom_width": 87.30000000000001,
+      "channel_depth": 65.5,
+      "wall_thickness": 4.8,
+      "notch_width": 41.2,
+      "notch_depth": 34.7,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.37878847122192,
+      "width_x": 127.02747583389282,
+      "depth_z": 64.14925158023834,
+      "top_width": 82.35739149402275,
+      "bottom_width": 107.64269568962952,
+      "channel_depth": 64.14925158023834
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 465.7,
+        "model_value": 199.37878847122192,
+        "absolute_diff": 266.32121152877806,
+        "percentage_diff": 57.18729042919865
+      },
+      "top_width": {
+        "prompt_value": 131.0,
+        "model_value": 82.35739149402275,
+        "absolute_diff": 48.64260850597725,
+        "percentage_diff": 37.131762218303244
+      },
+      "bottom_width": {
+        "prompt_value": 87.30000000000001,
+        "model_value": 107.64269568962952,
+        "absolute_diff": 20.342695689629508,
+        "percentage_diff": 23.302056918246855
+      },
+      "channel_depth": {
+        "prompt_value": 65.5,
+        "model_value": 64.14925158023834,
+        "absolute_diff": 1.3507484197616577,
+        "percentage_diff": 2.0622113278803935
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b7e582f1-7374-493e-a56a-6843fb9b1a05",
+    "prompt": "Create only one Spiral Vase mode below-knee prosthetic cover with continuous fluid ridges. Ergonomic semi-cylindrical U-shaped open channel. Total length: 49.33 cm. Tapering U-channel: top internal width 12.87 cm, bottom internal width 8.82 cm, channel depth 6.44 cm, wall thickness is 0.42 cm. Centered rectangular top notch: 4.58 cm wide, 2.29 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 493.29999999999995,
+      "top_width": 128.7,
+      "bottom_width": 88.2,
+      "channel_depth": 64.4,
+      "wall_thickness": 4.2,
+      "notch_width": 45.8,
+      "notch_depth": 22.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.49175119400024,
+      "width_x": 91.50052666664124,
+      "depth_z": 98.15658628940582,
+      "top_width": 14.212867188273332,
+      "bottom_width": 74.35360650152218,
+      "channel_depth": 98.15658628940582
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 493.29999999999995,
+        "model_value": 199.49175119400024,
+        "absolute_diff": 293.8082488059997,
+        "percentage_diff": 59.559750416784865
+      },
+      "top_width": {
+        "prompt_value": 128.7,
+        "model_value": 14.212867188273332,
+        "absolute_diff": 114.48713281172665,
+        "percentage_diff": 88.95659115130276
+      },
+      "bottom_width": {
+        "prompt_value": 88.2,
+        "model_value": 74.35360650152218,
+        "absolute_diff": 13.846393498477823,
+        "percentage_diff": 15.698858841811592
+      },
+      "channel_depth": {
+        "prompt_value": 64.4,
+        "model_value": 98.15658628940582,
+        "absolute_diff": 33.75658628940582,
+        "percentage_diff": 52.41705945559909
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "03a30b14-5f7f-43f1-aa77-a84d8c1b5252",
+    "prompt": "Create only one Kevlar-reinforced below-knee prosthetic cover with a yellow-black weave pattern. Ergonomic semi-cylindrical U-shaped open channel. Total length: 45.92 cm. Tapering U-channel: top internal width 11.39 cm, bottom internal width 7.5 cm, channel depth 5.7 cm, wall thickness is 0.35 cm. Centered rectangular top notch: 5.46 cm wide, 3.42 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 459.20000000000005,
+      "top_width": 113.9,
+      "bottom_width": 75.0,
+      "channel_depth": 57.0,
+      "wall_thickness": 3.5,
+      "notch_width": 54.6,
+      "notch_depth": 34.2,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.46709275245667,
+      "width_x": 74.1276890039444,
+      "depth_z": 87.33041882514954,
+      "top_width": 63.35851150777925,
+      "bottom_width": 63.81177734978465,
+      "channel_depth": 87.33041882514954
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 459.20000000000005,
+        "model_value": 199.46709275245667,
+        "absolute_diff": 259.7329072475434,
+        "percentage_diff": 56.5620442612246
+      },
+      "top_width": {
+        "prompt_value": 113.9,
+        "model_value": 63.35851150777925,
+        "absolute_diff": 50.54148849222076,
+        "percentage_diff": 44.37356320651515
+      },
+      "bottom_width": {
+        "prompt_value": 75.0,
+        "model_value": 63.81177734978465,
+        "absolute_diff": 11.188222650215351,
+        "percentage_diff": 14.917630200287135
+      },
+      "channel_depth": {
+        "prompt_value": 57.0,
+        "model_value": 87.33041882514954,
+        "absolute_diff": 30.330418825149536,
+        "percentage_diff": 53.21126109675357
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "78553371-74b5-4645-821d-95bea0d778d0",
+    "prompt": "Create only one Origami Fold below-knee prosthetic cover appearing made of folded paper. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.67 cm. Tapering U-channel: top internal width 12.71 cm, bottom internal width 8.54 cm, channel depth 6.36 cm, wall thickness is 0.48 cm. Centered rectangular top notch: 5.45 cm wide, 2.26 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 476.70000000000005,
+      "top_width": 127.10000000000001,
+      "bottom_width": 85.39999999999999,
+      "channel_depth": 63.6,
+      "wall_thickness": 4.8,
+      "notch_width": 54.5,
+      "notch_depth": 22.599999999999998,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.44559931755066,
+      "width_x": 107.86577463150024,
+      "depth_z": 83.20129811763763,
+      "top_width": 58.495287636545925,
+      "bottom_width": 105.06349218199786,
+      "channel_depth": 83.20129811763763
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 476.70000000000005,
+        "model_value": 199.44559931755066,
+        "absolute_diff": 277.2544006824494,
+        "percentage_diff": 58.161191668229364
+      },
+      "top_width": {
+        "prompt_value": 127.10000000000001,
+        "model_value": 58.495287636545925,
+        "absolute_diff": 68.60471236345408,
+        "percentage_diff": 53.97695701294577
+      },
+      "bottom_width": {
+        "prompt_value": 85.39999999999999,
+        "model_value": 105.06349218199786,
+        "absolute_diff": 19.663492181997867,
+        "percentage_diff": 23.02516648945886
+      },
+      "channel_depth": {
+        "prompt_value": 63.6,
+        "model_value": 83.20129811763763,
+        "absolute_diff": 19.601298117637633,
+        "percentage_diff": 30.81965112836106
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fcd2d5f5-afbd-4c58-8aa2-0e61ebc5fc68",
+    "prompt": "Create only one Voronoi Pattern below-knee prosthetic cover with organic cellular holes. Ergonomic semi-cylindrical U-shaped open channel. Total length: 36.58 cm. Tapering U-channel: top internal width 9.9 cm, bottom internal width 6.36 cm, channel depth 4.95 cm, wall thickness is 0.37 cm. Centered rectangular top notch: 5.04 cm wide, 2.22 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 365.79999999999995,
+      "top_width": 99.0,
+      "bottom_width": 63.6,
+      "channel_depth": 49.5,
+      "wall_thickness": 3.7,
+      "notch_width": 50.4,
+      "notch_depth": 22.200000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.48697686195374,
+      "width_x": 119.27101016044617,
+      "depth_z": 69.69663798809052,
+      "top_width": 18.823880893745116,
+      "bottom_width": 43.213730345425375,
+      "channel_depth": 69.69663798809052
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 365.79999999999995,
+        "model_value": 199.48697686195374,
+        "absolute_diff": 166.31302313804622,
+        "percentage_diff": 45.465561273386065
+      },
+      "top_width": {
+        "prompt_value": 99.0,
+        "model_value": 18.823880893745116,
+        "absolute_diff": 80.17611910625489,
+        "percentage_diff": 80.98597889520696
+      },
+      "bottom_width": {
+        "prompt_value": 63.6,
+        "model_value": 43.213730345425375,
+        "absolute_diff": 20.386269654574626,
+        "percentage_diff": 32.053883104677084
+      },
+      "channel_depth": {
+        "prompt_value": 49.5,
+        "model_value": 69.69663798809052,
+        "absolute_diff": 20.196637988090515,
+        "percentage_diff": 40.801288864829324
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "3e2a998b-7032-46c0-8fe4-77cabe34e430",
+    "prompt": "Create only one Alien Biotech below-knee prosthetic cover with pulsing purple veins. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.8 cm. Tapering U-channel: top internal width 12.49 cm, bottom internal width 8.42 cm, channel depth 6.24 cm, wall thickness is 0.44 cm. Centered rectangular top notch: 5.3 cm wide, 2.73 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 478.0,
+      "top_width": 124.9,
+      "bottom_width": 84.2,
+      "channel_depth": 62.400000000000006,
+      "wall_thickness": 4.4,
+      "notch_width": 53.0,
+      "notch_depth": 27.3,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.49623942375183,
+      "width_x": 144.64125633239746,
+      "depth_z": 67.67152547836304,
+      "top_width": 101.9104415160641,
+      "bottom_width": 131.61908282962628,
+      "channel_depth": 67.67152547836304
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 478.0,
+        "model_value": 199.49623942375183,
+        "absolute_diff": 278.50376057624817,
+        "percentage_diff": 58.2643850577925
+      },
+      "top_width": {
+        "prompt_value": 124.9,
+        "model_value": 101.9104415160641,
+        "absolute_diff": 22.98955848393591,
+        "percentage_diff": 18.40637188465645
+      },
+      "bottom_width": {
+        "prompt_value": 84.2,
+        "model_value": 131.61908282962628,
+        "absolute_diff": 47.41908282962628,
+        "percentage_diff": 56.31720051024498
+      },
+      "channel_depth": {
+        "prompt_value": 62.400000000000006,
+        "model_value": 67.67152547836304,
+        "absolute_diff": 5.271525478363031,
+        "percentage_diff": 8.447957497376652
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "2711ae63-a7d8-4e9a-a987-4424eda5d6b6",
+    "prompt": "Create only one Tattoo Ink style below-knee prosthetic cover featuring traditional dragon art. Ergonomic semi-cylindrical U-shaped open channel. Total length: 37.63 cm. Tapering U-channel: top internal width 10.07 cm, bottom internal width 6.65 cm, channel depth 5.03 cm, wall thickness is 0.47 cm. Centered rectangular top notch: 4.42 cm wide, 2.72 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 376.3,
+      "top_width": 100.7,
+      "bottom_width": 66.5,
+      "channel_depth": 50.300000000000004,
+      "wall_thickness": 4.699999999999999,
+      "notch_width": 44.2,
+      "notch_depth": 27.200000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.55039024353027,
+      "width_x": 99.7971922159195,
+      "depth_z": 56.6542387008667,
+      "top_width": 11.742827041288152,
+      "bottom_width": 78.12102822129788,
+      "channel_depth": 56.6542387008667
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 376.3,
+        "model_value": 199.55039024353027,
+        "absolute_diff": 176.74960975646974,
+        "percentage_diff": 46.97039855340678
+      },
+      "top_width": {
+        "prompt_value": 100.7,
+        "model_value": 11.742827041288152,
+        "absolute_diff": 88.95717295871185,
+        "percentage_diff": 88.33880134926699
+      },
+      "bottom_width": {
+        "prompt_value": 66.5,
+        "model_value": 78.12102822129788,
+        "absolute_diff": 11.621028221297877,
+        "percentage_diff": 17.475230407966734
+      },
+      "channel_depth": {
+        "prompt_value": 50.300000000000004,
+        "model_value": 56.6542387008667,
+        "absolute_diff": 6.354238700866695,
+        "percentage_diff": 12.632681313850286
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "e88a9293-c2a6-4155-b92b-f746c940ebe3",
+    "prompt": "Create only one Iridescent Bismuth-style below-knee prosthetic cover with geometric metallic crystals. Ergonomic semi-cylindrical U-shaped open channel. Total length: 50.21 cm. Tapering U-channel: top internal width 12.62 cm, bottom internal width 8.86 cm, channel depth 6.31 cm, wall thickness is 0.37 cm. Centered rectangular top notch: 4.88 cm wide, 2.22 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 502.1,
+      "top_width": 126.19999999999999,
+      "bottom_width": 88.6,
+      "channel_depth": 63.099999999999994,
+      "wall_thickness": 3.7,
+      "notch_width": 48.8,
+      "notch_depth": 22.200000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.10705089569092,
+      "width_x": 87.25781440734863,
+      "depth_z": 44.47183012962341,
+      "top_width": 18.149667694344345,
+      "bottom_width": 52.454230256261965,
+      "channel_depth": 44.47183012962341
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 502.1,
+        "model_value": 199.10705089569092,
+        "absolute_diff": 302.9929491043091,
+        "percentage_diff": 60.34514023188788
+      },
+      "top_width": {
+        "prompt_value": 126.19999999999999,
+        "model_value": 18.149667694344345,
+        "absolute_diff": 108.05033230565564,
+        "percentage_diff": 85.61832987769861
+      },
+      "bottom_width": {
+        "prompt_value": 88.6,
+        "model_value": 52.454230256261965,
+        "absolute_diff": 36.14576974373803,
+        "percentage_diff": 40.796579846205454
+      },
+      "channel_depth": {
+        "prompt_value": 63.099999999999994,
+        "model_value": 44.47183012962341,
+        "absolute_diff": 18.62816987037658,
+        "percentage_diff": 29.52166381993119
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fe540525-56cd-453f-9bc5-263fcd36bdd7",
+    "prompt": "Create only one Terrazzo Stonly one below-knee prosthetic cover with colorful embedded chips. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.89 cm. Tapering U-channel: top internal width 13.29 cm, bottom internal width 8.47 cm, channel depth 6.65 cm, wall thickness is 0.32 cm. Centered rectangular top notch: 5.62 cm wide, 2.37 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 478.9,
+      "top_width": 132.89999999999998,
+      "bottom_width": 84.7,
+      "channel_depth": 66.5,
+      "wall_thickness": 3.2,
+      "notch_width": 56.2,
+      "notch_depth": 23.700000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.5129644870758,
+      "width_x": 104.80068325996399,
+      "depth_z": 55.55671751499176,
+      "top_width": 42.96780306598969,
+      "bottom_width": 90.3970854083472,
+      "channel_depth": 55.55671751499176
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 478.9,
+        "model_value": 199.5129644870758,
+        "absolute_diff": 279.3870355129242,
+        "percentage_diff": 58.3393266888545
+      },
+      "top_width": {
+        "prompt_value": 132.89999999999998,
+        "model_value": 42.96780306598969,
+        "absolute_diff": 89.93219693401028,
+        "percentage_diff": 67.66907218510933
+      },
+      "bottom_width": {
+        "prompt_value": 84.7,
+        "model_value": 90.3970854083472,
+        "absolute_diff": 5.697085408347192,
+        "percentage_diff": 6.726192926029742
+      },
+      "channel_depth": {
+        "prompt_value": 66.5,
+        "model_value": 55.55671751499176,
+        "absolute_diff": 10.94328248500824,
+        "percentage_diff": 16.456063887230435
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "159b05d1-2e94-475b-8f3a-9da9883d8296",
+    "prompt": "Create only one Denim Fabric texture below-knee prosthetic cover with stitching details. Ergonomic semi-cylindrical U-shaped open channel. Total length: 50.14 cm. Tapering U-channel: top internal width 13.15 cm, bottom internal width 8.19 cm, channel depth 6.57 cm, wall thickness is 0.39 cm. Centered rectangular top notch: 5.76 cm wide, 2.61 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 501.4,
+      "top_width": 131.5,
+      "bottom_width": 81.89999999999999,
+      "channel_depth": 65.7,
+      "wall_thickness": 3.9000000000000004,
+      "notch_width": 57.599999999999994,
+      "notch_depth": 26.099999999999998,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.4588315486908,
+      "width_x": 110.18049120903015,
+      "depth_z": 64.49980139732361,
+      "top_width": 77.82675001162471,
+      "bottom_width": 101.38220183324715,
+      "channel_depth": 64.49980139732361
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 501.4,
+        "model_value": 199.4588315486908,
+        "absolute_diff": 301.9411684513092,
+        "percentage_diff": 60.219618757740164
+      },
+      "top_width": {
+        "prompt_value": 131.5,
+        "model_value": 77.82675001162471,
+        "absolute_diff": 53.67324998837529,
+        "percentage_diff": 40.81615968697741
+      },
+      "bottom_width": {
+        "prompt_value": 81.89999999999999,
+        "model_value": 101.38220183324715,
+        "absolute_diff": 19.48220183324716,
+        "percentage_diff": 23.78779222618701
+      },
+      "channel_depth": {
+        "prompt_value": 65.7,
+        "model_value": 64.49980139732361,
+        "absolute_diff": 1.2001986026763944,
+        "percentage_diff": 1.8267863054435225
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "331fceb3-578b-4aa1-8346-c6c8ccdb214a",
+    "prompt": "Create only one Glossy Black ABS below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 38.36 cm. Tapering U-channel: top internal width 9.79 cm, bottom internal width 6.35 cm, channel depth 4.9 cm, wall thickness is 0.5 cm. Centered rectangular top notch: 5.26 cm wide, 2.06 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 383.6,
+      "top_width": 97.89999999999999,
+      "bottom_width": 63.5,
+      "channel_depth": 49.0,
+      "wall_thickness": 5.0,
+      "notch_width": 52.599999999999994,
+      "notch_depth": 20.6,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.38066601753235,
+      "width_x": 98.19584488868713,
+      "depth_z": 75.67122876644135,
+      "top_width": 27.59282001656709,
+      "bottom_width": 77.16569360551536,
+      "channel_depth": 75.67122876644135
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 383.6,
+        "model_value": 199.38066601753235,
+        "absolute_diff": 184.21933398246767,
+        "percentage_diff": 48.0238096930312
+      },
+      "top_width": {
+        "prompt_value": 97.89999999999999,
+        "model_value": 27.59282001656709,
+        "absolute_diff": 70.3071799834329,
+        "percentage_diff": 71.81530131096314
+      },
+      "bottom_width": {
+        "prompt_value": 63.5,
+        "model_value": 77.16569360551536,
+        "absolute_diff": 13.665693605515358,
+        "percentage_diff": 21.52077733152025
+      },
+      "channel_depth": {
+        "prompt_value": 49.0,
+        "model_value": 75.67122876644135,
+        "absolute_diff": 26.671228766441345,
+        "percentage_diff": 54.43107911518642
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "eddc2d55-7a70-4165-b419-197e81f71ac9",
+    "prompt": "Create only one Copper Patina below-knee prosthetic cover showing aged green oxidation details. Ergonomic semi-cylindrical U-shaped open channel. Total length: 45.2 cm. Tapering U-channel: top internal width 12.4 cm, bottom internal width 7.68 cm, channel depth 6.2 cm, wall thickness is 0.45 cm. Centered rectangular top notch: 5.25 cm wide, 2.54 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 452.0,
+      "top_width": 124.0,
+      "bottom_width": 76.8,
+      "channel_depth": 62.0,
+      "wall_thickness": 4.5,
+      "notch_width": 52.5,
+      "notch_depth": 25.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.75615739822388,
+      "width_x": 109.67610478401184,
+      "depth_z": 64.75549936294556,
+      "top_width": 21.288812301561027,
+      "bottom_width": 99.43389625687401,
+      "channel_depth": 64.75549936294556
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 452.0,
+        "model_value": 199.75615739822388,
+        "absolute_diff": 252.24384260177612,
+        "percentage_diff": 55.80615986764958
+      },
+      "top_width": {
+        "prompt_value": 124.0,
+        "model_value": 21.288812301561027,
+        "absolute_diff": 102.71118769843898,
+        "percentage_diff": 82.83160298261207
+      },
+      "bottom_width": {
+        "prompt_value": 76.8,
+        "model_value": 99.43389625687401,
+        "absolute_diff": 22.63389625687401,
+        "percentage_diff": 29.471219084471368
+      },
+      "channel_depth": {
+        "prompt_value": 62.0,
+        "model_value": 64.75549936294556,
+        "absolute_diff": 2.7554993629455566,
+        "percentage_diff": 4.444353811202511
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "34503502-bb62-4aac-94d8-9fc5e6e2bd05",
+    "prompt": "Create only one Porcelain Doll style below-knee prosthetic cover with cracks and floral paint. Ergonomic semi-cylindrical U-shaped open channel. Total length: 39.55 cm. Tapering U-channel: top internal width 10.91 cm, bottom internal width 6.9 cm, channel depth 5.45 cm, wall thickness is 0.35 cm. Centered rectangular top notch: 4.89 cm wide, 3.06 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 395.5,
+      "top_width": 109.1,
+      "bottom_width": 69.0,
+      "channel_depth": 54.5,
+      "wall_thickness": 3.5,
+      "notch_width": 48.9,
+      "notch_depth": 30.6,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.58276748657227,
+      "width_x": 91.03991091251373,
+      "depth_z": 81.28964602947235,
+      "top_width": 65.44935616384167,
+      "bottom_width": 71.5571510259903,
+      "channel_depth": 81.28964602947235
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 395.5,
+        "model_value": 199.58276748657227,
+        "absolute_diff": 195.91723251342773,
+        "percentage_diff": 49.53659482008286
+      },
+      "top_width": {
+        "prompt_value": 109.1,
+        "model_value": 65.44935616384167,
+        "absolute_diff": 43.65064383615832,
+        "percentage_diff": 40.00975603680873
+      },
+      "bottom_width": {
+        "prompt_value": 69.0,
+        "model_value": 71.5571510259903,
+        "absolute_diff": 2.5571510259902936,
+        "percentage_diff": 3.706015979696078
+      },
+      "channel_depth": {
+        "prompt_value": 54.5,
+        "model_value": 81.28964602947235,
+        "absolute_diff": 26.78964602947235,
+        "percentage_diff": 49.1553138155456
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b82aee73-85f4-4046-9a14-b9f1719e95d6",
+    "prompt": "Create only one Android White below-knee prosthetic cover with black panel lines. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.54 cm. Tapering U-channel: top internal width 12.86 cm, bottom internal width 8.04 cm, channel depth 6.43 cm, wall thickness is 0.4 cm. Centered rectangular top notch: 4.33 cm wide, 3.27 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 475.4,
+      "top_width": 128.6,
+      "bottom_width": 80.39999999999999,
+      "channel_depth": 64.3,
+      "wall_thickness": 4.0,
+      "notch_width": 43.3,
+      "notch_depth": 32.7,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.50637817382812,
+      "width_x": 89.86160159111023,
+      "depth_z": 42.10464209318161,
+      "top_width": 17.570137282647597,
+      "bottom_width": 54.29613809228265,
+      "channel_depth": 42.10464209318161
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 475.4,
+        "model_value": 199.50637817382812,
+        "absolute_diff": 275.89362182617185,
+        "percentage_diff": 58.03399701854688
+      },
+      "top_width": {
+        "prompt_value": 128.6,
+        "model_value": 17.570137282647597,
+        "absolute_diff": 111.0298627173524,
+        "percentage_diff": 86.33737380820561
+      },
+      "bottom_width": {
+        "prompt_value": 80.39999999999999,
+        "model_value": 54.29613809228265,
+        "absolute_diff": 26.103861907717338,
+        "percentage_diff": 32.467489934971816
+      },
+      "channel_depth": {
+        "prompt_value": 64.3,
+        "model_value": 42.10464209318161,
+        "absolute_diff": 22.195357906818387,
+        "percentage_diff": 34.51844153470978
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fffaf972-24f5-4edd-a4ad-8c2102141109",
+    "prompt": "Create only one Lava Rock below-knee prosthetic cover black with glowing red cracks. Ergonomic semi-cylindrical U-shaped open channel. Total length: 35.9 cm. Tapering U-channel: top internal width 10.55 cm, bottom internal width 6.36 cm, channel depth 5.28 cm, wall thickness is 0.45 cm. Centered rectangular top notch: 4.79 cm wide, 2.57 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 359.0,
+      "top_width": 105.5,
+      "bottom_width": 63.6,
+      "channel_depth": 52.800000000000004,
+      "wall_thickness": 4.5,
+      "notch_width": 47.9,
+      "notch_depth": 25.7,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.66387152671814,
+      "width_x": 98.65853786468506,
+      "depth_z": 159.40365195274353,
+      "top_width": 81.67978382526047,
+      "bottom_width": 68.48269625965968,
+      "channel_depth": 159.40365195274353
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 359.0,
+        "model_value": 199.66387152671814,
+        "absolute_diff": 159.33612847328186,
+        "percentage_diff": 44.383322694507484
+      },
+      "top_width": {
+        "prompt_value": 105.5,
+        "model_value": 81.67978382526047,
+        "absolute_diff": 23.820216174739528,
+        "percentage_diff": 22.578403957099077
+      },
+      "bottom_width": {
+        "prompt_value": 63.6,
+        "model_value": 68.48269625965968,
+        "absolute_diff": 4.882696259659674,
+        "percentage_diff": 7.677195376823387
+      },
+      "channel_depth": {
+        "prompt_value": 52.800000000000004,
+        "model_value": 159.40365195274353,
+        "absolute_diff": 106.60365195274352,
+        "percentage_diff": 201.90085597110513
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "1eb7354f-3572-461a-b546-875a146333da",
+    "prompt": "Create only one Perforated Sheet Metal style below-knee prosthetic cover with circular vents. Ergonomic semi-cylindrical U-shaped open channel. Total length: 40.11 cm. Tapering U-channel: top internal width 10.64 cm, bottom internal width 6.53 cm, channel depth 5.32 cm, wall thickness is 0.47 cm. Centered rectangular top notch: 4.14 cm wide, 3.25 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 401.1,
+      "top_width": 106.4,
+      "bottom_width": 65.3,
+      "channel_depth": 53.2,
+      "wall_thickness": 4.699999999999999,
+      "notch_width": 41.4,
+      "notch_depth": 32.5,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.64950680732727,
+      "width_x": 95.07143795490265,
+      "depth_z": 63.53742480278015,
+      "top_width": 68.64886718190697,
+      "bottom_width": 91.31466914560491,
+      "channel_depth": 63.53742480278015
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 401.1,
+        "model_value": 199.64950680732727,
+        "absolute_diff": 201.45049319267275,
+        "percentage_diff": 50.22450590692414
+      },
+      "top_width": {
+        "prompt_value": 106.4,
+        "model_value": 68.64886718190697,
+        "absolute_diff": 37.75113281809304,
+        "percentage_diff": 35.48038798692954
+      },
+      "bottom_width": {
+        "prompt_value": 65.3,
+        "model_value": 91.31466914560491,
+        "absolute_diff": 26.014669145604913,
+        "percentage_diff": 39.838697007051934
+      },
+      "channel_depth": {
+        "prompt_value": 53.2,
+        "model_value": 63.53742480278015,
+        "absolute_diff": 10.337424802780149,
+        "percentage_diff": 19.431249629285993
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "4b5f0bea-415e-4e09-92ca-3a9b7ca743de",
+    "prompt": "Create only one Camouflage print below-knee prosthetic cover in woodland green patterns. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.98 cm. Tapering U-channel: top internal width 13.26 cm, bottom internal width 8.09 cm, channel depth 6.63 cm, wall thickness is 0.43 cm. Centered rectangular top notch: 4.6 cm wide, 2.14 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 479.79999999999995,
+      "top_width": 132.6,
+      "bottom_width": 80.9,
+      "channel_depth": 66.3,
+      "wall_thickness": 4.3,
+      "notch_width": 46.0,
+      "notch_depth": 21.400000000000002,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.53286051750183,
+      "width_x": 108.65404605865479,
+      "depth_z": 54.47336733341217,
+      "top_width": 53.86299163620334,
+      "bottom_width": 91.78536696591277,
+      "channel_depth": 54.47336733341217
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 479.79999999999995,
+        "model_value": 199.53286051750183,
+        "absolute_diff": 280.2671394824981,
+        "percentage_diff": 58.41332627813634
+      },
+      "top_width": {
+        "prompt_value": 132.6,
+        "model_value": 53.86299163620334,
+        "absolute_diff": 78.73700836379666,
+        "percentage_diff": 59.37934265746355
+      },
+      "bottom_width": {
+        "prompt_value": 80.9,
+        "model_value": 91.78536696591277,
+        "absolute_diff": 10.885366965912766,
+        "percentage_diff": 13.455336175417509
+      },
+      "channel_depth": {
+        "prompt_value": 66.3,
+        "model_value": 54.47336733341217,
+        "absolute_diff": 11.826632666587827,
+        "percentage_diff": 17.83805832064529
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b4d2e3fd-2089-4707-aedc-e5026a4fb13d",
+    "prompt": "Create only one Lightweight Honly oneycomb Composite below-knee prosthetic cover exposed structure. Ergonomic semi-cylindrical U-shaped open channel. Total length: 42.27 cm. Tapering U-channel: top internal width 11.25 cm, bottom internal width 7.33 cm, channel depth 5.62 cm, wall thickness is 0.43 cm. Centered rectangular top notch: 5.18 cm wide, 2.11 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 422.70000000000005,
+      "top_width": 112.5,
+      "bottom_width": 73.3,
+      "channel_depth": 56.2,
+      "wall_thickness": 4.3,
+      "notch_width": 51.8,
+      "notch_depth": 21.099999999999998,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 198.2513129711151,
+      "width_x": 199.0062177181244,
+      "depth_z": 201.03003978729248,
+      "top_width": 25.892389247608566,
+      "bottom_width": 21.954414255870976,
+      "channel_depth": 201.03003978729248
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 422.70000000000005,
+        "model_value": 198.2513129711151,
+        "absolute_diff": 224.44868702888493,
+        "percentage_diff": 53.09881405935295
+      },
+      "top_width": {
+        "prompt_value": 112.5,
+        "model_value": 25.892389247608566,
+        "absolute_diff": 86.60761075239144,
+        "percentage_diff": 76.98454289101461
+      },
+      "bottom_width": {
+        "prompt_value": 73.3,
+        "model_value": 21.954414255870976,
+        "absolute_diff": 51.345585744129025,
+        "percentage_diff": 70.04854808203142
+      },
+      "channel_depth": {
+        "prompt_value": 56.2,
+        "model_value": 201.03003978729248,
+        "absolute_diff": 144.8300397872925,
+        "percentage_diff": 257.7046971304137
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c23bd9c4-f2ad-4acb-a0c3-ec45858b1161",
+    "prompt": "Create only one Graphene-infused composite below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 42.39 cm. Tapering U-channel: top internal width 11.5 cm, bottom internal width 7.37 cm, channel depth 5.75 cm, wall thickness is 0.33 cm. Centered rectangular top notch: 5.66 cm wide, 2.78 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 423.9,
+      "top_width": 115.0,
+      "bottom_width": 73.7,
+      "channel_depth": 57.5,
+      "wall_thickness": 3.3000000000000003,
+      "notch_width": 56.6,
+      "notch_depth": 27.799999999999997,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.46002960205078,
+      "width_x": 74.69167113304138,
+      "depth_z": 112.52779364585876,
+      "top_width": 60.63057399701833,
+      "bottom_width": 50.437344011881954,
+      "channel_depth": 112.52779364585876
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 423.9,
+        "model_value": 199.46002960205078,
+        "absolute_diff": 224.4399703979492,
+        "percentage_diff": 52.94644265108498
+      },
+      "top_width": {
+        "prompt_value": 115.0,
+        "model_value": 60.63057399701833,
+        "absolute_diff": 54.36942600298167,
+        "percentage_diff": 47.27776174172319
+      },
+      "bottom_width": {
+        "prompt_value": 73.7,
+        "model_value": 50.437344011881954,
+        "absolute_diff": 23.26265598811805,
+        "percentage_diff": 31.56398370165271
+      },
+      "channel_depth": {
+        "prompt_value": 57.5,
+        "model_value": 112.52779364585876,
+        "absolute_diff": 55.027793645858765,
+        "percentage_diff": 95.70051068845002
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "5d7b9888-91f4-4aa8-b702-1b8267fbcfb7",
+    "prompt": "Create only one Fiberglass below-knee prosthetic cover painted in a metallic automotive red. Ergonomic semi-cylindrical U-shaped open channel. Total length: 46.27 cm. Tapering U-channel: top internal width 12.8 cm, bottom internal width 8.71 cm, channel depth 6.4 cm, wall thickness is 0.48 cm. Centered rectangular top notch: 4.55 cm wide, 3.35 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 462.70000000000005,
+      "top_width": 128.0,
+      "bottom_width": 87.10000000000001,
+      "channel_depth": 64.0,
+      "wall_thickness": 4.8,
+      "notch_width": 45.5,
+      "notch_depth": 33.5,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.14143085479736,
+      "width_x": 91.09025597572327,
+      "depth_z": 72.95337915420532,
+      "top_width": 1.2583333434046884,
+      "bottom_width": 48.498826939362914,
+      "channel_depth": 72.95337915420532
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 462.70000000000005,
+        "model_value": 199.14143085479736,
+        "absolute_diff": 263.5585691452027,
+        "percentage_diff": 56.96100478608227
+      },
+      "top_width": {
+        "prompt_value": 128.0,
+        "model_value": 1.2583333434046884,
+        "absolute_diff": 126.74166665659531,
+        "percentage_diff": 99.01692707546509
+      },
+      "bottom_width": {
+        "prompt_value": 87.10000000000001,
+        "model_value": 48.498826939362914,
+        "absolute_diff": 38.601173060637095,
+        "percentage_diff": 44.3182239502148
+      },
+      "channel_depth": {
+        "prompt_value": 64.0,
+        "model_value": 72.95337915420532,
+        "absolute_diff": 8.953379154205322,
+        "percentage_diff": 13.989654928445816
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "f2b6154d-60cc-4988-be14-73885c0280f1",
+    "prompt": "Create only one Abstract Expressionist below-knee prosthetic cover with chaotic paint splatters. Ergonomic semi-cylindrical U-shaped open channel. Total length: 40.85 cm. Tapering U-channel: top internal width 10.67 cm, bottom internal width 6.37 cm, channel depth 5.34 cm, wall thickness is 0.43 cm. Centered rectangular top notch: 4.14 cm wide, 3.28 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 408.5,
+      "top_width": 106.7,
+      "bottom_width": 63.7,
+      "channel_depth": 53.4,
+      "wall_thickness": 4.3,
+      "notch_width": 41.4,
+      "notch_depth": 32.8,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.71455931663513,
+      "width_x": 97.25792407989502,
+      "depth_z": 89.57128524780273,
+      "top_width": 88.02836966323788,
+      "bottom_width": 87.26095198463088,
+      "channel_depth": 89.57128524780273
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 408.5,
+        "model_value": 199.71455931663513,
+        "absolute_diff": 208.78544068336487,
+        "percentage_diff": 51.11026699715174
+      },
+      "top_width": {
+        "prompt_value": 106.7,
+        "model_value": 88.02836966323788,
+        "absolute_diff": 18.67163033676212,
+        "percentage_diff": 17.499184945419046
+      },
+      "bottom_width": {
+        "prompt_value": 63.7,
+        "model_value": 87.26095198463088,
+        "absolute_diff": 23.560951984630876,
+        "percentage_diff": 36.987365752952705
+      },
+      "channel_depth": {
+        "prompt_value": 53.4,
+        "model_value": 89.57128524780273,
+        "absolute_diff": 36.171285247802736,
+        "percentage_diff": 67.73648922809501
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "55864f9c-3825-46e5-885d-694ed2d1e2ff",
+    "prompt": "Create only one Slate Rock below-knee prosthetic cover with layered stonly one texture. Ergonomic semi-cylindrical U-shaped open channel. Total length: 44.81 cm. Tapering U-channel: top internal width 12.09 cm, bottom internal width 7.74 cm, channel depth 6.05 cm, wall thickness is 0.42 cm. Centered rectangular top notch: 5.26 cm wide, 3.37 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 448.1,
+      "top_width": 120.9,
+      "bottom_width": 77.4,
+      "channel_depth": 60.5,
+      "wall_thickness": 4.2,
+      "notch_width": 52.599999999999994,
+      "notch_depth": 33.7,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.70945119857788,
+      "width_x": 97.90228605270386,
+      "depth_z": 138.62470984458923,
+      "top_width": 85.52342295974489,
+      "bottom_width": 47.87078932484481,
+      "channel_depth": 138.62470984458923
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 448.1,
+        "model_value": 199.70945119857788,
+        "absolute_diff": 248.39054880142214,
+        "percentage_diff": 55.43194572671772
+      },
+      "top_width": {
+        "prompt_value": 120.9,
+        "model_value": 85.52342295974489,
+        "absolute_diff": 35.376577040255114,
+        "percentage_diff": 29.261023192932267
+      },
+      "bottom_width": {
+        "prompt_value": 77.4,
+        "model_value": 47.87078932484481,
+        "absolute_diff": 29.5292106751552,
+        "percentage_diff": 38.15143498082067
+      },
+      "channel_depth": {
+        "prompt_value": 60.5,
+        "model_value": 138.62470984458923,
+        "absolute_diff": 78.12470984458923,
+        "percentage_diff": 129.13175180923838
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "40ae95bd-746f-4516-b658-20c2f2d6f13c",
+    "prompt": "Create only one Diamond Knurled texture below-knee prosthetic cover for enhanced grip. Ergonomic semi-cylindrical U-shaped open channel. Total length: 44.0 cm. Tapering U-channel: top internal width 11.74 cm, bottom internal width 7.39 cm, channel depth 5.87 cm, wall thickness is 0.5 cm. Centered rectangular top notch: 4.06 cm wide, 2.26 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 440.0,
+      "top_width": 117.4,
+      "bottom_width": 73.89999999999999,
+      "channel_depth": 58.7,
+      "wall_thickness": 5.0,
+      "notch_width": 40.599999999999994,
+      "notch_depth": 22.599999999999998,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.39588904380798,
+      "width_x": 63.1746768951416,
+      "depth_z": 43.535786867141724,
+      "top_width": 48.08403741176589,
+      "bottom_width": 38.27478906630182,
+      "channel_depth": 43.535786867141724
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 440.0,
+        "model_value": 199.39588904380798,
+        "absolute_diff": 240.60411095619202,
+        "percentage_diff": 54.68275249004364
+      },
+      "top_width": {
+        "prompt_value": 117.4,
+        "model_value": 48.08403741176589,
+        "absolute_diff": 69.31596258823411,
+        "percentage_diff": 59.04255757089788
+      },
+      "bottom_width": {
+        "prompt_value": 73.89999999999999,
+        "model_value": 38.27478906630182,
+        "absolute_diff": 35.62521093369817,
+        "percentage_diff": 48.207321967115256
+      },
+      "channel_depth": {
+        "prompt_value": 58.7,
+        "model_value": 43.535786867141724,
+        "absolute_diff": 15.16421313285828,
+        "percentage_diff": 25.833412492092467
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "de5feb32-f3be-4e23-9d48-b693ee3af655",
+    "prompt": "Create only one Rough Sandstonly one-finish PLA below-knee prosthetic cover with a tactile grip. Ergonomic semi-cylindrical U-shaped open channel. Total length: 37.5 cm. Tapering U-channel: top internal width 10.63 cm, bottom internal width 6.08 cm, channel depth 5.31 cm, wall thickness is 0.46 cm. Centered rectangular top notch: 5.15 cm wide, 2.05 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 375.0,
+      "top_width": 106.30000000000001,
+      "bottom_width": 60.8,
+      "channel_depth": 53.099999999999994,
+      "wall_thickness": 4.6000000000000005,
+      "notch_width": 51.5,
+      "notch_depth": 20.5,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.28553104400635,
+      "width_x": 173.2873260974884,
+      "depth_z": 79.77790832519531,
+      "top_width": 33.93300147123283,
+      "bottom_width": 45.75800125374099,
+      "channel_depth": 79.77790832519531
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 375.0,
+        "model_value": 199.28553104400635,
+        "absolute_diff": 175.71446895599365,
+        "percentage_diff": 46.857191721598305
+      },
+      "top_width": {
+        "prompt_value": 106.30000000000001,
+        "model_value": 33.93300147123283,
+        "absolute_diff": 72.36699852876718,
+        "percentage_diff": 68.07807951906601
+      },
+      "bottom_width": {
+        "prompt_value": 60.8,
+        "model_value": 45.75800125374099,
+        "absolute_diff": 15.041998746259004,
+        "percentage_diff": 24.740129516873363
+      },
+      "channel_depth": {
+        "prompt_value": 53.099999999999994,
+        "model_value": 79.77790832519531,
+        "absolute_diff": 26.677908325195318,
+        "percentage_diff": 50.24088196835277
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c60a4777-0de7-476c-9eeb-71bb181db983",
+    "prompt": "Create only one Pixel Art below-knee prosthetic cover with a voxel block construction. Ergonomic semi-cylindrical U-shaped open channel. Total length: 45.09 cm. Tapering U-channel: top internal width 12.19 cm, bottom internal width 7.27 cm, channel depth 6.09 cm, wall thickness is 0.37 cm. Centered rectangular top notch: 4.82 cm wide, 2.24 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 450.90000000000003,
+      "top_width": 121.89999999999999,
+      "bottom_width": 72.69999999999999,
+      "channel_depth": 60.9,
+      "wall_thickness": 3.7,
+      "notch_width": 48.2,
+      "notch_depth": 22.400000000000002,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.4699478149414,
+      "width_x": 94.40236389636993,
+      "depth_z": 75.51591992378235,
+      "top_width": 67.47496978445272,
+      "bottom_width": 88.45063546455334,
+      "channel_depth": 75.51591992378235
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 450.90000000000003,
+        "model_value": 199.4699478149414,
+        "absolute_diff": 251.43005218505863,
+        "percentage_diff": 55.76182128743815
+      },
+      "top_width": {
+        "prompt_value": 121.89999999999999,
+        "model_value": 67.47496978445272,
+        "absolute_diff": 54.42503021554727,
+        "percentage_diff": 44.6472766329346
+      },
+      "bottom_width": {
+        "prompt_value": 72.69999999999999,
+        "model_value": 88.45063546455334,
+        "absolute_diff": 15.750635464553355,
+        "percentage_diff": 21.66524823184781
+      },
+      "channel_depth": {
+        "prompt_value": 60.9,
+        "model_value": 75.51591992378235,
+        "absolute_diff": 14.61591992378235,
+        "percentage_diff": 23.999868511957885
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c89f2274-cefb-4631-aa2b-81f9b1c23c8b",
+    "prompt": "Create only one Mech-Suit below-knee prosthetic cover with hydraulic piston details. Ergonomic semi-cylindrical U-shaped open channel. Total length: 50.4 cm. Tapering U-channel: top internal width 13.29 cm, bottom internal width 8.7 cm, channel depth 6.65 cm, wall thickness is 0.3 cm. Centered rectangular top notch: 5.21 cm wide, 2.17 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 504.0,
+      "top_width": 132.89999999999998,
+      "bottom_width": 87.0,
+      "channel_depth": 66.5,
+      "wall_thickness": 3.0,
+      "notch_width": 52.1,
+      "notch_depth": 21.7,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.94885921478271,
+      "width_x": 127.00808048248291,
+      "depth_z": 106.41703009605408,
+      "top_width": 51.04506004822939,
+      "bottom_width": 117.9920733245357,
+      "channel_depth": 106.41703009605408
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 504.0,
+        "model_value": 199.94885921478271,
+        "absolute_diff": 304.0511407852173,
+        "percentage_diff": 60.327607298654215
+      },
+      "top_width": {
+        "prompt_value": 132.89999999999998,
+        "model_value": 51.04506004822939,
+        "absolute_diff": 81.85493995177059,
+        "percentage_diff": 61.59137693887931
+      },
+      "bottom_width": {
+        "prompt_value": 87.0,
+        "model_value": 117.9920733245357,
+        "absolute_diff": 30.992073324535696,
+        "percentage_diff": 35.62307278682264
+      },
+      "channel_depth": {
+        "prompt_value": 66.5,
+        "model_value": 106.41703009605408,
+        "absolute_diff": 39.91703009605408,
+        "percentage_diff": 60.02560916699862
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "ce296e7d-e888-4bbd-b8ec-36a67ca86763",
+    "prompt": "Create only one Chitin Armor below-knee prosthetic cover resembling a beetle shell. Ergonomic semi-cylindrical U-shaped open channel. Total length: 36.75 cm. Tapering U-channel: top internal width 9.79 cm, bottom internal width 6.77 cm, channel depth 4.89 cm, wall thickness is 0.31 cm. Centered rectangular top notch: 4.71 cm wide, 2.61 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 367.5,
+      "top_width": 97.89999999999999,
+      "bottom_width": 67.69999999999999,
+      "channel_depth": 48.9,
+      "wall_thickness": 3.1,
+      "notch_width": 47.1,
+      "notch_depth": 26.099999999999998,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.40796494483948,
+      "width_x": 96.22619152069092,
+      "depth_z": 44.36458200216293,
+      "top_width": 17.004293090269346,
+      "bottom_width": 56.987963668617624,
+      "channel_depth": 44.36458200216293
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 367.5,
+        "model_value": 199.40796494483948,
+        "absolute_diff": 168.09203505516052,
+        "percentage_diff": 45.73932926671034
+      },
+      "top_width": {
+        "prompt_value": 97.89999999999999,
+        "model_value": 17.004293090269346,
+        "absolute_diff": 80.89570690973065,
+        "percentage_diff": 82.63095700687502
+      },
+      "bottom_width": {
+        "prompt_value": 67.69999999999999,
+        "model_value": 56.987963668617624,
+        "absolute_diff": 10.712036331382365,
+        "percentage_diff": 15.822801080328459
+      },
+      "channel_depth": {
+        "prompt_value": 48.9,
+        "model_value": 44.36458200216293,
+        "absolute_diff": 4.535417997837065,
+        "percentage_diff": 9.274883431159644
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "117f960d-f64a-4e12-92b9-e810c99c5de4",
+    "prompt": "Create only one Transparent OLED style below-knee prosthetic cover with digital glitch graphics. Ergonomic semi-cylindrical U-shaped open channel. Total length: 44.75 cm. Tapering U-channel: top internal width 11.55 cm, bottom internal width 7.22 cm, channel depth 5.77 cm, wall thickness is 0.32 cm. Centered rectangular top notch: 5.43 cm wide, 2.63 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 447.5,
+      "top_width": 115.5,
+      "bottom_width": 72.2,
+      "channel_depth": 57.699999999999996,
+      "wall_thickness": 3.2,
+      "notch_width": 54.3,
+      "notch_depth": 26.299999999999997,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.55538511276245,
+      "width_x": 126.18845105171204,
+      "depth_z": 75.03020167350769,
+      "top_width": 66.09583967686041,
+      "bottom_width": 116.18610474219867,
+      "channel_depth": 75.03020167350769
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 447.5,
+        "model_value": 199.55538511276245,
+        "absolute_diff": 247.94461488723755,
+        "percentage_diff": 55.406617851896655
+      },
+      "top_width": {
+        "prompt_value": 115.5,
+        "model_value": 66.09583967686041,
+        "absolute_diff": 49.40416032313959,
+        "percentage_diff": 42.77416478193904
+      },
+      "bottom_width": {
+        "prompt_value": 72.2,
+        "model_value": 116.18610474219867,
+        "absolute_diff": 43.98610474219866,
+        "percentage_diff": 60.92258274542751
+      },
+      "channel_depth": {
+        "prompt_value": 57.699999999999996,
+        "model_value": 75.03020167350769,
+        "absolute_diff": 17.330201673507695,
+        "percentage_diff": 30.035011565871223
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c3e467ac-5b0d-4bdf-8969-913dddc0cb7d",
+    "prompt": "Create only one Bonly one texture below-knee prosthetic cover looking like a natural skeletal extension. Ergonomic semi-cylindrical U-shaped open channel. Total length: 48.17 cm. Tapering U-channel: top internal width 12.99 cm, bottom internal width 8.91 cm, channel depth 6.49 cm, wall thickness is 0.35 cm. Centered rectangular top notch: 5.83 cm wide, 2.04 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 481.70000000000005,
+      "top_width": 129.9,
+      "bottom_width": 89.1,
+      "channel_depth": 64.9,
+      "wall_thickness": 3.5,
+      "notch_width": 58.3,
+      "notch_depth": 20.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.3126392364502,
+      "width_x": 57.17817544937134,
+      "depth_z": 135.85129380226135,
+      "top_width": 54.89458257563098,
+      "bottom_width": 46.177109135962944,
+      "channel_depth": 135.85129380226135
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 481.70000000000005,
+        "model_value": 199.3126392364502,
+        "absolute_diff": 282.38736076354985,
+        "percentage_diff": 58.62307676220673
+      },
+      "top_width": {
+        "prompt_value": 129.9,
+        "model_value": 54.89458257563098,
+        "absolute_diff": 75.00541742436903,
+        "percentage_diff": 57.74089101183143
+      },
+      "bottom_width": {
+        "prompt_value": 89.1,
+        "model_value": 46.177109135962944,
+        "absolute_diff": 42.92289086403705,
+        "percentage_diff": 48.173839353576945
+      },
+      "channel_depth": {
+        "prompt_value": 64.9,
+        "model_value": 135.85129380226135,
+        "absolute_diff": 70.95129380226135,
+        "percentage_diff": 109.32402743029483
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8e192eeb-5d65-4bf0-afc9-ae2d6fb864fc",
+    "prompt": "Create only one Matte Olive Green below-knee prosthetic cover tactical style. Ergonomic semi-cylindrical U-shaped open channel. Total length: 43.25 cm. Tapering U-channel: top internal width 11.7 cm, bottom internal width 7.08 cm, channel depth 5.85 cm, wall thickness is 0.43 cm. Centered rectangular top notch: 5.29 cm wide, 2.35 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 432.5,
+      "top_width": 117.0,
+      "bottom_width": 70.8,
+      "channel_depth": 58.5,
+      "wall_thickness": 4.3,
+      "notch_width": 52.9,
+      "notch_depth": 23.5,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.55891966819763,
+      "width_x": 75.86702108383179,
+      "depth_z": 53.01200747489929,
+      "top_width": 64.01830197639096,
+      "bottom_width": 63.47682456845434,
+      "channel_depth": 53.01200747489929
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 432.5,
+        "model_value": 199.55891966819763,
+        "absolute_diff": 232.94108033180237,
+        "percentage_diff": 53.859209325272225
+      },
+      "top_width": {
+        "prompt_value": 117.0,
+        "model_value": 64.01830197639096,
+        "absolute_diff": 52.98169802360904,
+        "percentage_diff": 45.28350258428123
+      },
+      "bottom_width": {
+        "prompt_value": 70.8,
+        "model_value": 63.47682456845434,
+        "absolute_diff": 7.323175431545657,
+        "percentage_diff": 10.343468123652059
+      },
+      "channel_depth": {
+        "prompt_value": 58.5,
+        "model_value": 53.01200747489929,
+        "absolute_diff": 5.487992525100708,
+        "percentage_diff": 9.381183803590954
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "4d5ccfc6-ec9c-4115-9b4b-fd772b28a4c6",
+    "prompt": "Create only one Canary Yellow below-knee prosthetic cover with a matte finish. Ergonomic semi-cylindrical U-shaped open channel. Total length: 45.62 cm. Tapering U-channel: top internal width 11.45 cm, bottom internal width 7.18 cm, channel depth 5.73 cm, wall thickness is 0.45 cm. Centered rectangular top notch: 5.41 cm wide, 2.81 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 456.2,
+      "top_width": 114.5,
+      "bottom_width": 71.8,
+      "channel_depth": 57.300000000000004,
+      "wall_thickness": 4.5,
+      "notch_width": 54.1,
+      "notch_depth": 28.1,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.72758889198303,
+      "width_x": 129.5242965221405,
+      "depth_z": 187.72420287132263,
+      "top_width": 21.408038995049466,
+      "bottom_width": 129.5204284156192,
+      "channel_depth": 187.72420287132263
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 456.2,
+        "model_value": 199.72758889198303,
+        "absolute_diff": 256.47241110801696,
+        "percentage_diff": 56.21929222008263
+      },
+      "top_width": {
+        "prompt_value": 114.5,
+        "model_value": 21.408038995049466,
+        "absolute_diff": 93.09196100495053,
+        "percentage_diff": 81.30302271174719
+      },
+      "bottom_width": {
+        "prompt_value": 71.8,
+        "model_value": 129.5204284156192,
+        "absolute_diff": 57.720428415619196,
+        "percentage_diff": 80.39056882398216
+      },
+      "channel_depth": {
+        "prompt_value": 57.300000000000004,
+        "model_value": 187.72420287132263,
+        "absolute_diff": 130.42420287132262,
+        "percentage_diff": 227.61640989759618
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8e20db67-63e1-45b0-b83a-d62021f7097e",
+    "prompt": "Create only one Knitted Wool texture below-knee prosthetic cover scanned 3D surface. Ergonomic semi-cylindrical U-shaped open channel. Total length: 36.29 cm. Tapering U-channel: top internal width 10.08 cm, bottom internal width 6.74 cm, channel depth 5.04 cm, wall thickness is 0.44 cm. Centered rectangular top notch: 4.71 cm wide, 2.22 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 362.9,
+      "top_width": 100.8,
+      "bottom_width": 67.4,
+      "channel_depth": 50.4,
+      "wall_thickness": 4.4,
+      "notch_width": 47.1,
+      "notch_depth": 22.200000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.71176385879517,
+      "width_x": 112.70083785057068,
+      "depth_z": 75.4690170288086,
+      "top_width": 34.77043038184705,
+      "bottom_width": 110.05377229302601,
+      "channel_depth": 75.4690170288086
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 362.9,
+        "model_value": 199.71176385879517,
+        "absolute_diff": 163.1882361412048,
+        "percentage_diff": 44.96782478401896
+      },
+      "top_width": {
+        "prompt_value": 100.8,
+        "model_value": 34.77043038184705,
+        "absolute_diff": 66.02956961815295,
+        "percentage_diff": 65.50552541483428
+      },
+      "bottom_width": {
+        "prompt_value": 67.4,
+        "model_value": 110.05377229302601,
+        "absolute_diff": 42.65377229302601,
+        "percentage_diff": 63.28452862466767
+      },
+      "channel_depth": {
+        "prompt_value": 50.4,
+        "model_value": 75.4690170288086,
+        "absolute_diff": 25.069017028808595,
+        "percentage_diff": 49.74011315239801
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "5f1a87ae-ce52-457e-a585-97bfb0bfe70f",
+    "prompt": "Create only one Matte Carbon Fiber below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 37.15 cm. Tapering U-channel: top internal width 9.94 cm, bottom internal width 6.65 cm, channel depth 4.97 cm, wall thickness is 0.4 cm. Centered rectangular top notch: 4.87 cm wide, 3.0 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 371.5,
+      "top_width": 99.39999999999999,
+      "bottom_width": 66.5,
+      "channel_depth": 49.699999999999996,
+      "wall_thickness": 4.0,
+      "notch_width": 48.7,
+      "notch_depth": 30.0,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.36545491218567,
+      "width_x": 83.62912237644196,
+      "depth_z": 58.700260519981384,
+      "top_width": 53.09728072906721,
+      "bottom_width": 83.55379754193567,
+      "channel_depth": 58.700260519981384
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 371.5,
+        "model_value": 199.36545491218567,
+        "absolute_diff": 172.13454508781433,
+        "percentage_diff": 46.33500540721786
+      },
+      "top_width": {
+        "prompt_value": 99.39999999999999,
+        "model_value": 53.09728072906721,
+        "absolute_diff": 46.30271927093278,
+        "percentage_diff": 46.58221254621005
+      },
+      "bottom_width": {
+        "prompt_value": 66.5,
+        "model_value": 83.55379754193567,
+        "absolute_diff": 17.053797541935666,
+        "percentage_diff": 25.644808333737846
+      },
+      "channel_depth": {
+        "prompt_value": 49.699999999999996,
+        "model_value": 58.700260519981384,
+        "absolute_diff": 9.000260519981389,
+        "percentage_diff": 18.109176096542033
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "bacb99ac-7a82-4312-b11b-16e96e8c637c",
+    "prompt": "Create only one Sci-Fi Armor below-knee prosthetic cover with distressed battle damage. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.82 cm. Tapering U-channel: top internal width 12.47 cm, bottom internal width 8.1 cm, channel depth 6.23 cm, wall thickness is 0.39 cm. Centered rectangular top notch: 4.94 cm wide, 2.5 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 478.2,
+      "top_width": 124.7,
+      "bottom_width": 81.0,
+      "channel_depth": 62.300000000000004,
+      "wall_thickness": 3.9000000000000004,
+      "notch_width": 49.400000000000006,
+      "notch_depth": 25.0,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.39220547676086,
+      "width_x": 103.6508560180664,
+      "depth_z": 43.58118027448654,
+      "top_width": 19.267014552494093,
+      "bottom_width": 64.20661261801614,
+      "channel_depth": 43.58118027448654
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 478.2,
+        "model_value": 199.39220547676086,
+        "absolute_diff": 278.8077945232391,
+        "percentage_diff": 58.30359567612696
+      },
+      "top_width": {
+        "prompt_value": 124.7,
+        "model_value": 19.267014552494093,
+        "absolute_diff": 105.43298544750591,
+        "percentage_diff": 84.54930669407051
+      },
+      "bottom_width": {
+        "prompt_value": 81.0,
+        "model_value": 64.20661261801614,
+        "absolute_diff": 16.793387381983862,
+        "percentage_diff": 20.73257701479489
+      },
+      "channel_depth": {
+        "prompt_value": 62.300000000000004,
+        "model_value": 43.58118027448654,
+        "absolute_diff": 18.718819725513463,
+        "percentage_diff": 30.046259591514385
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "231bbd3f-1927-435b-a34d-a8591e26fce6",
+    "prompt": "Create only one Matte White PLA below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 43.22 cm. Tapering U-channel: top internal width 11.25 cm, bottom internal width 7.05 cm, channel depth 5.62 cm, wall thickness is 0.3 cm. Centered rectangular top notch: 4.14 cm wide, 2.62 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 432.2,
+      "top_width": 112.5,
+      "bottom_width": 70.5,
+      "channel_depth": 56.2,
+      "wall_thickness": 3.0,
+      "notch_width": 41.4,
+      "notch_depth": 26.200000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.4195520877838,
+      "width_x": 145.54787278175354,
+      "depth_z": 71.44343256950378,
+      "top_width": 74.77984225335163,
+      "bottom_width": 79.70924792956211,
+      "channel_depth": 71.44343256950378
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 432.2,
+        "model_value": 199.4195520877838,
+        "absolute_diff": 232.78044791221618,
+        "percentage_diff": 53.85942802226196
+      },
+      "top_width": {
+        "prompt_value": 112.5,
+        "model_value": 74.77984225335163,
+        "absolute_diff": 37.72015774664837,
+        "percentage_diff": 33.52902910813188
+      },
+      "bottom_width": {
+        "prompt_value": 70.5,
+        "model_value": 79.70924792956211,
+        "absolute_diff": 9.20924792956211,
+        "percentage_diff": 13.062763020655478
+      },
+      "channel_depth": {
+        "prompt_value": 56.2,
+        "model_value": 71.44343256950378,
+        "absolute_diff": 15.243432569503781,
+        "percentage_diff": 27.123545497337687
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "e6e905a5-3f25-4dc7-bbde-8220f81a0a63",
+    "prompt": "Create only one Starship Hull below-knee prosthetic cover with grey plating and rivets. Ergonomic semi-cylindrical U-shaped open channel. Total length: 39.77 cm. Tapering U-channel: top internal width 10.28 cm, bottom internal width 6.89 cm, channel depth 5.14 cm, wall thickness is 0.3 cm. Centered rectangular top notch: 4.9 cm wide, 2.7 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 397.70000000000005,
+      "top_width": 102.8,
+      "bottom_width": 68.89999999999999,
+      "channel_depth": 51.4,
+      "wall_thickness": 3.0,
+      "notch_width": 49.0,
+      "notch_depth": 27.0,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.47290420532227,
+      "width_x": 97.84210622310638,
+      "depth_z": 52.966564893722534,
+      "top_width": 31.33355489261075,
+      "bottom_width": 83.30851097319334,
+      "channel_depth": 52.966564893722534
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 397.70000000000005,
+        "model_value": 199.47290420532227,
+        "absolute_diff": 198.22709579467778,
+        "percentage_diff": 49.843373345405524
+      },
+      "top_width": {
+        "prompt_value": 102.8,
+        "model_value": 31.33355489261075,
+        "absolute_diff": 71.46644510738925,
+        "percentage_diff": 69.51988823675997
+      },
+      "bottom_width": {
+        "prompt_value": 68.89999999999999,
+        "model_value": 83.30851097319334,
+        "absolute_diff": 14.408510973193344,
+        "percentage_diff": 20.912207508263204
+      },
+      "channel_depth": {
+        "prompt_value": 51.4,
+        "model_value": 52.966564893722534,
+        "absolute_diff": 1.5665648937225356,
+        "percentage_diff": 3.0477916220282797
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "96706168-be8a-4942-b901-28f1207e363c",
+    "prompt": "Create only one Basalt Fiber below-knee prosthetic cover with a natural brownish-gold weave. Ergonomic semi-cylindrical U-shaped open channel. Total length: 43.28 cm. Tapering U-channel: top internal width 12.08 cm, bottom internal width 7.38 cm, channel depth 6.04 cm, wall thickness is 0.43 cm. Centered rectangular top notch: 5.83 cm wide, 2.83 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 432.8,
+      "top_width": 120.8,
+      "bottom_width": 73.8,
+      "channel_depth": 60.4,
+      "wall_thickness": 4.3,
+      "notch_width": 58.3,
+      "notch_depth": 28.3,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.62729811668396,
+      "width_x": 72.41940200328827,
+      "depth_z": 75.1186341047287,
+      "top_width": 50.357783305979865,
+      "bottom_width": 66.04489694820946,
+      "channel_depth": 75.1186341047287
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 432.8,
+        "model_value": 199.62729811668396,
+        "absolute_diff": 233.17270188331605,
+        "percentage_diff": 53.875393226274504
+      },
+      "top_width": {
+        "prompt_value": 120.8,
+        "model_value": 50.357783305979865,
+        "absolute_diff": 70.44221669402013,
+        "percentage_diff": 58.31309328975177
+      },
+      "bottom_width": {
+        "prompt_value": 73.8,
+        "model_value": 66.04489694820946,
+        "absolute_diff": 7.755103051790542,
+        "percentage_diff": 10.508269717873363
+      },
+      "channel_depth": {
+        "prompt_value": 60.4,
+        "model_value": 75.1186341047287,
+        "absolute_diff": 14.7186341047287,
+        "percentage_diff": 24.368599511140232
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "ecbf110f-2f2a-432a-8354-94173f7e1c42",
+    "prompt": "Create only one Marble Stonly one below-knee prosthetic cover with grey veins on white. Ergonomic semi-cylindrical U-shaped open channel. Total length: 48.25 cm. Tapering U-channel: top internal width 12.94 cm, bottom internal width 8.23 cm, channel depth 6.47 cm, wall thickness is 0.37 cm. Centered rectangular top notch: 4.08 cm wide, 2.44 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 482.5,
+      "top_width": 129.4,
+      "bottom_width": 82.30000000000001,
+      "channel_depth": 64.7,
+      "wall_thickness": 3.7,
+      "notch_width": 40.8,
+      "notch_depth": 24.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.54445958137512,
+      "width_x": 94.27621960639954,
+      "depth_z": 81.88295364379883,
+      "top_width": 24.184552889944506,
+      "bottom_width": 81.16875966096681,
+      "channel_depth": 81.88295364379883
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 482.5,
+        "model_value": 199.54445958137512,
+        "absolute_diff": 282.9555404186249,
+        "percentage_diff": 58.64363531992225
+      },
+      "top_width": {
+        "prompt_value": 129.4,
+        "model_value": 24.184552889944506,
+        "absolute_diff": 105.21544711005549,
+        "percentage_diff": 81.31023733389141
+      },
+      "bottom_width": {
+        "prompt_value": 82.30000000000001,
+        "model_value": 81.16875966096681,
+        "absolute_diff": 1.131240339033198,
+        "percentage_diff": 1.3745326112189524
+      },
+      "channel_depth": {
+        "prompt_value": 64.7,
+        "model_value": 81.88295364379883,
+        "absolute_diff": 17.182953643798825,
+        "percentage_diff": 26.55788816661333
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "71c30d10-df22-4373-b56d-593807d73852",
+    "prompt": "Create only one Quilted Fabric texture below-knee prosthetic cover in a luxury diamond pattern. Ergonomic semi-cylindrical U-shaped open channel. Total length: 45.43 cm. Tapering U-channel: top internal width 12.24 cm, bottom internal width 7.89 cm, channel depth 6.12 cm, wall thickness is 0.33 cm. Centered rectangular top notch: 4.52 cm wide, 2.0 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 454.3,
+      "top_width": 122.4,
+      "bottom_width": 78.89999999999999,
+      "channel_depth": 61.2,
+      "wall_thickness": 3.3000000000000003,
+      "notch_width": 45.199999999999996,
+      "notch_depth": 20.0,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.63907599449158,
+      "width_x": 96.92637920379639,
+      "depth_z": 64.46635723114014,
+      "top_width": 89.47541432095115,
+      "bottom_width": 77.74282146382495,
+      "channel_depth": 64.46635723114014
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 454.3,
+        "model_value": 199.63907599449158,
+        "absolute_diff": 254.66092400550843,
+        "percentage_diff": 56.05567334481806
+      },
+      "top_width": {
+        "prompt_value": 122.4,
+        "model_value": 89.47541432095115,
+        "absolute_diff": 32.92458567904886,
+        "percentage_diff": 26.899171306412466
+      },
+      "bottom_width": {
+        "prompt_value": 78.89999999999999,
+        "model_value": 77.74282146382495,
+        "absolute_diff": 1.1571785361750386,
+        "percentage_diff": 1.4666394628327486
+      },
+      "channel_depth": {
+        "prompt_value": 61.2,
+        "model_value": 64.46635723114014,
+        "absolute_diff": 3.266357231140134,
+        "percentage_diff": 5.337185018202833
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "21239a90-6584-41b3-be6a-f8aebbb12df2",
+    "prompt": "Create only one Epoxy Resin below-knee prosthetic cover with embedded gold leaf flakes. Ergonomic semi-cylindrical U-shaped open channel. Total length: 41.66 cm. Tapering U-channel: top internal width 11.26 cm, bottom internal width 7.21 cm, channel depth 5.63 cm, wall thickness is 0.4 cm. Centered rectangular top notch: 4.99 cm wide, 3.09 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 416.59999999999997,
+      "top_width": 112.6,
+      "bottom_width": 72.1,
+      "channel_depth": 56.3,
+      "wall_thickness": 4.0,
+      "notch_width": 49.900000000000006,
+      "notch_depth": 30.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.249267578125,
+      "width_x": 112.23803162574768,
+      "depth_z": 137.05065846443176,
+      "top_width": 26.40830674270031,
+      "bottom_width": 34.218276371779865,
+      "channel_depth": 137.05065846443176
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 416.59999999999997,
+        "model_value": 199.249267578125,
+        "absolute_diff": 217.35073242187497,
+        "percentage_diff": 52.1725233849916
+      },
+      "top_width": {
+        "prompt_value": 112.6,
+        "model_value": 26.40830674270031,
+        "absolute_diff": 86.19169325729968,
+        "percentage_diff": 76.54679685372973
+      },
+      "bottom_width": {
+        "prompt_value": 72.1,
+        "model_value": 34.218276371779865,
+        "absolute_diff": 37.88172362822013,
+        "percentage_diff": 52.54053207797522
+      },
+      "channel_depth": {
+        "prompt_value": 56.3,
+        "model_value": 137.05065846443176,
+        "absolute_diff": 80.75065846443177,
+        "percentage_diff": 143.4292335069836
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "a4cf910b-25aa-424b-a484-e83ff6a7437d",
+    "prompt": "Create only one Anodized Red Aluminum below-knee prosthetic cover with a scratch-resistant surface. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.26 cm. Tapering U-channel: top internal width 12.71 cm, bottom internal width 8.48 cm, channel depth 6.35 cm, wall thickness is 0.46 cm. Centered rectangular top notch: 4.17 cm wide, 2.42 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 472.59999999999997,
+      "top_width": 127.10000000000001,
+      "bottom_width": 84.80000000000001,
+      "channel_depth": 63.5,
+      "wall_thickness": 4.6000000000000005,
+      "notch_width": 41.7,
+      "notch_depth": 24.2,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.34627413749695,
+      "width_x": 105.0983190536499,
+      "depth_z": 81.56419098377228,
+      "top_width": 75.47457922489261,
+      "bottom_width": 97.58506452819499,
+      "channel_depth": 81.56419098377228
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 472.59999999999997,
+        "model_value": 199.34627413749695,
+        "absolute_diff": 273.253725862503,
+        "percentage_diff": 57.819239496932504
+      },
+      "top_width": {
+        "prompt_value": 127.10000000000001,
+        "model_value": 75.47457922489261,
+        "absolute_diff": 51.6254207751074,
+        "percentage_diff": 40.61795497648104
+      },
+      "bottom_width": {
+        "prompt_value": 84.80000000000001,
+        "model_value": 97.58506452819499,
+        "absolute_diff": 12.78506452819498,
+        "percentage_diff": 15.076727037965776
+      },
+      "channel_depth": {
+        "prompt_value": 63.5,
+        "model_value": 81.56419098377228,
+        "absolute_diff": 18.064190983772278,
+        "percentage_diff": 28.447544856334297
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c17d8a46-742b-4eb4-8943-bc2f52c8b9b3",
+    "prompt": "Create only one Jet Black Stealth below-knee prosthetic cover with light-absorbing texture. Ergonomic semi-cylindrical U-shaped open channel. Total length: 38.32 cm. Tapering U-channel: top internal width 10.59 cm, bottom internal width 6.14 cm, channel depth 5.3 cm, wall thickness is 0.43 cm. Centered rectangular top notch: 5.19 cm wide, 2.62 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 383.2,
+      "top_width": 105.9,
+      "bottom_width": 61.4,
+      "channel_depth": 53.0,
+      "wall_thickness": 4.3,
+      "notch_width": 51.900000000000006,
+      "notch_depth": 26.200000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.52538013458252,
+      "width_x": 65.93539714813232,
+      "depth_z": 112.04726696014404,
+      "top_width": 45.80075011213433,
+      "bottom_width": 41.36816928784188,
+      "channel_depth": 112.04726696014404
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 383.2,
+        "model_value": 199.52538013458252,
+        "absolute_diff": 183.67461986541747,
+        "percentage_diff": 47.931790152770745
+      },
+      "top_width": {
+        "prompt_value": 105.9,
+        "model_value": 45.80075011213433,
+        "absolute_diff": 60.099249887865675,
+        "percentage_diff": 56.750944181176266
+      },
+      "bottom_width": {
+        "prompt_value": 61.4,
+        "model_value": 41.36816928784188,
+        "absolute_diff": 20.03183071215812,
+        "percentage_diff": 32.62513145302625
+      },
+      "channel_depth": {
+        "prompt_value": 53.0,
+        "model_value": 112.04726696014404,
+        "absolute_diff": 59.04726696014404,
+        "percentage_diff": 111.40993766064912
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "59a17985-f1e7-41ca-ac57-6875dfd67bab",
+    "prompt": "Create only one Metallic Gold below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 42.17 cm. Tapering U-channel: top internal width 11.57 cm, bottom internal width 7.68 cm, channel depth 5.79 cm, wall thickness is 0.49 cm. Centered rectangular top notch: 5.82 cm wide, 3.36 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 421.70000000000005,
+      "top_width": 115.7,
+      "bottom_width": 76.8,
+      "channel_depth": 57.9,
+      "wall_thickness": 4.9,
+      "notch_width": 58.2,
+      "notch_depth": 33.6,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.51127171516418,
+      "width_x": 140.46813249588013,
+      "depth_z": 58.963215351104736,
+      "top_width": 27.348060379035044,
+      "bottom_width": 53.5911224217615,
+      "channel_depth": 58.963215351104736
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 421.70000000000005,
+        "model_value": 199.51127171516418,
+        "absolute_diff": 222.18872828483586,
+        "percentage_diff": 52.68881391625227
+      },
+      "top_width": {
+        "prompt_value": 115.7,
+        "model_value": 27.348060379035044,
+        "absolute_diff": 88.35193962096496,
+        "percentage_diff": 76.36295559288241
+      },
+      "bottom_width": {
+        "prompt_value": 76.8,
+        "model_value": 53.5911224217615,
+        "absolute_diff": 23.2088775782385,
+        "percentage_diff": 30.21989267999805
+      },
+      "channel_depth": {
+        "prompt_value": 57.9,
+        "model_value": 58.963215351104736,
+        "absolute_diff": 1.0632153511047377,
+        "percentage_diff": 1.8362959431860757
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "1c50e560-fbd4-4e5f-a7c1-71f7539fc127",
+    "prompt": "Create only one Gunmetal Grey Steel below-knee prosthetic cover with a matte tactical finish. Ergonomic semi-cylindrical U-shaped open channel. Total length: 39.75 cm. Tapering U-channel: top internal width 10.46 cm, bottom internal width 6.62 cm, channel depth 5.23 cm, wall thickness is 0.45 cm. Centered rectangular top notch: 5.29 cm wide, 3.43 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 397.5,
+      "top_width": 104.60000000000001,
+      "bottom_width": 66.2,
+      "channel_depth": 52.300000000000004,
+      "wall_thickness": 4.5,
+      "notch_width": 52.9,
+      "notch_depth": 34.300000000000004,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.6235191822052,
+      "width_x": 93.61445605754852,
+      "depth_z": 52.77453660964966,
+      "top_width": 58.37628488094979,
+      "bottom_width": 81.67529354415717,
+      "channel_depth": 52.77453660964966
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 397.5,
+        "model_value": 199.6235191822052,
+        "absolute_diff": 197.8764808177948,
+        "percentage_diff": 49.78024674661504
+      },
+      "top_width": {
+        "prompt_value": 104.60000000000001,
+        "model_value": 58.37628488094979,
+        "absolute_diff": 46.22371511905022,
+        "percentage_diff": 44.190932236185674
+      },
+      "bottom_width": {
+        "prompt_value": 66.2,
+        "model_value": 81.67529354415717,
+        "absolute_diff": 15.475293544157168,
+        "percentage_diff": 23.376576350690584
+      },
+      "channel_depth": {
+        "prompt_value": 52.300000000000004,
+        "model_value": 52.77453660964966,
+        "absolute_diff": 0.47453660964965394,
+        "percentage_diff": 0.9073357737087072
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "a16d00eb-45ca-43da-8aa1-54dc705144f3",
+    "prompt": "Create only one Woven Basket texture below-knee prosthetic cover made of synthetic brown polymer. Ergonomic semi-cylindrical U-shaped open channel. Total length: 35.77 cm. Tapering U-channel: top internal width 9.89 cm, bottom internal width 6.83 cm, channel depth 4.94 cm, wall thickness is 0.31 cm. Centered rectangular top notch: 4.63 cm wide, 3.12 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 357.70000000000005,
+      "top_width": 98.9,
+      "bottom_width": 68.3,
+      "channel_depth": 49.400000000000006,
+      "wall_thickness": 3.1,
+      "notch_width": 46.3,
+      "notch_depth": 31.200000000000003,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.64650869369507,
+      "width_x": 128.9518177509308,
+      "depth_z": 109.241783618927,
+      "top_width": 128.57902117159904,
+      "bottom_width": 99.585806401566,
+      "channel_depth": 109.241783618927
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 357.70000000000005,
+        "model_value": 199.64650869369507,
+        "absolute_diff": 158.05349130630498,
+        "percentage_diff": 44.18604733192758
+      },
+      "top_width": {
+        "prompt_value": 98.9,
+        "model_value": 128.57902117159904,
+        "absolute_diff": 29.679021171599032,
+        "percentage_diff": 30.009121508189114
+      },
+      "bottom_width": {
+        "prompt_value": 68.3,
+        "model_value": 99.585806401566,
+        "absolute_diff": 31.285806401566006,
+        "percentage_diff": 45.80645153962812
+      },
+      "channel_depth": {
+        "prompt_value": 49.400000000000006,
+        "model_value": 109.241783618927,
+        "absolute_diff": 59.841783618926996,
+        "percentage_diff": 121.13721380349594
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "ec9d09be-d9d8-49df-9c93-c4e065e7d085",
+    "prompt": "Create only one Crystal Shard below-knee prosthetic cover with jagged transparent spikes. Ergonomic semi-cylindrical U-shaped open channel. Total length: 42.88 cm. Tapering U-channel: top internal width 11.3 cm, bottom internal width 7.02 cm, channel depth 5.65 cm, wall thickness is 0.41 cm. Centered rectangular top notch: 4.04 cm wide, 3.47 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 428.8,
+      "top_width": 113.0,
+      "bottom_width": 70.19999999999999,
+      "channel_depth": 56.5,
+      "wall_thickness": 4.1,
+      "notch_width": 40.4,
+      "notch_depth": 34.7,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 198.73457551002502,
+      "width_x": 67.52136051654816,
+      "depth_z": 64.40380811691284,
+      "top_width": 6.683513290854079,
+      "bottom_width": 30.25470087634937,
+      "channel_depth": 64.40380811691284
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 428.8,
+        "model_value": 198.73457551002502,
+        "absolute_diff": 230.065424489975,
+        "percentage_diff": 53.653317278445655
+      },
+      "top_width": {
+        "prompt_value": 113.0,
+        "model_value": 6.683513290854079,
+        "absolute_diff": 106.31648670914592,
+        "percentage_diff": 94.08538646827073
+      },
+      "bottom_width": {
+        "prompt_value": 70.19999999999999,
+        "model_value": 30.25470087634937,
+        "absolute_diff": 39.945299123650614,
+        "percentage_diff": 56.90213550377581
+      },
+      "channel_depth": {
+        "prompt_value": 56.5,
+        "model_value": 64.40380811691284,
+        "absolute_diff": 7.903808116912842,
+        "percentage_diff": 13.989040914889985
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "b7b33723-2b92-4be2-a46c-7a9dfa89248f",
+    "prompt": "Create only one Black Alcantara-wrapped below-knee prosthetic cover for a premium automotive feel. Ergonomic semi-cylindrical U-shaped open channel. Total length: 46.37 cm. Tapering U-channel: top internal width 13.32 cm, bottom internal width 8.31 cm, channel depth 6.66 cm, wall thickness is 0.47 cm. Centered rectangular top notch: 4.18 cm wide, 2.91 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 463.7,
+      "top_width": 133.2,
+      "bottom_width": 83.10000000000001,
+      "channel_depth": 66.6,
+      "wall_thickness": 4.699999999999999,
+      "notch_width": 41.8,
+      "notch_depth": 29.1,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.69471096992493,
+      "width_x": 136.74782514572144,
+      "depth_z": 97.70950675010681,
+      "top_width": 18.11131077438558,
+      "bottom_width": 86.95599124605222,
+      "channel_depth": 97.70950675010681
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 463.7,
+        "model_value": 199.69471096992493,
+        "absolute_diff": 264.00528903007506,
+        "percentage_diff": 56.93450270219432
+      },
+      "top_width": {
+        "prompt_value": 133.2,
+        "model_value": 18.11131077438558,
+        "absolute_diff": 115.08868922561442,
+        "percentage_diff": 86.40291983904987
+      },
+      "bottom_width": {
+        "prompt_value": 83.10000000000001,
+        "model_value": 86.95599124605222,
+        "absolute_diff": 3.8559912460522128,
+        "percentage_diff": 4.6401820048763085
+      },
+      "channel_depth": {
+        "prompt_value": 66.6,
+        "model_value": 97.70950675010681,
+        "absolute_diff": 31.109506750106817,
+        "percentage_diff": 46.710971096256486
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8290e377-035b-4009-a1cb-ca51ba6731b1",
+    "prompt": "Create only one Triangular Lattice below-knee prosthetic cover optimized for lightweight strength. Ergonomic semi-cylindrical U-shaped open channel. Total length: 40.8 cm. Tapering U-channel: top internal width 10.2 cm, bottom internal width 6.49 cm, channel depth 5.1 cm, wall thickness is 0.49 cm. Centered rectangular top notch: 4.57 cm wide, 3.09 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 408.0,
+      "top_width": 102.0,
+      "bottom_width": 64.9,
+      "channel_depth": 51.0,
+      "wall_thickness": 4.9,
+      "notch_width": 45.7,
+      "notch_depth": 30.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.47195649147034,
+      "width_x": 81.70687854290009,
+      "depth_z": 60.7440322637558,
+      "top_width": 16.58869758364076,
+      "bottom_width": 38.150700378286814,
+      "channel_depth": 60.7440322637558
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 408.0,
+        "model_value": 199.47195649147034,
+        "absolute_diff": 208.52804350852966,
+        "percentage_diff": 51.10981458542394
+      },
+      "top_width": {
+        "prompt_value": 102.0,
+        "model_value": 16.58869758364076,
+        "absolute_diff": 85.41130241635923,
+        "percentage_diff": 83.73657099643063
+      },
+      "bottom_width": {
+        "prompt_value": 64.9,
+        "model_value": 38.150700378286814,
+        "absolute_diff": 26.74929962171319,
+        "percentage_diff": 41.21617815364127
+      },
+      "channel_depth": {
+        "prompt_value": 51.0,
+        "model_value": 60.7440322637558,
+        "absolute_diff": 9.744032263755798,
+        "percentage_diff": 19.10594561520745
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "e86b75db-2a69-46f2-8ad1-7e29a7faf7ab",
+    "prompt": "Create only one Hot Pink below-knee prosthetic cover with a glitter texture. Ergonomic semi-cylindrical U-shaped open channel. Total length: 46.99 cm. Tapering U-channel: top internal width 13.01 cm, bottom internal width 8.23 cm, channel depth 6.51 cm, wall thickness is 0.43 cm. Centered rectangular top notch: 5.59 cm wide, 2.44 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 469.90000000000003,
+      "top_width": 130.1,
+      "bottom_width": 82.30000000000001,
+      "channel_depth": 65.1,
+      "wall_thickness": 4.3,
+      "notch_width": 55.9,
+      "notch_depth": 24.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.56828355789185,
+      "width_x": 145.20055055618286,
+      "depth_z": 70.81456482410431,
+      "top_width": 32.186283327117266,
+      "bottom_width": 58.32576502473391,
+      "channel_depth": 70.81456482410431
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 469.90000000000003,
+        "model_value": 199.56828355789185,
+        "absolute_diff": 270.3317164421082,
+        "percentage_diff": 57.52962682317688
+      },
+      "top_width": {
+        "prompt_value": 130.1,
+        "model_value": 32.186283327117266,
+        "absolute_diff": 97.91371667288273,
+        "percentage_diff": 75.26035101681994
+      },
+      "bottom_width": {
+        "prompt_value": 82.30000000000001,
+        "model_value": 58.32576502473391,
+        "absolute_diff": 23.9742349752661,
+        "percentage_diff": 29.13029766131968
+      },
+      "channel_depth": {
+        "prompt_value": 65.1,
+        "model_value": 70.81456482410431,
+        "absolute_diff": 5.714564824104315,
+        "percentage_diff": 8.778133370359932
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "d53e640f-252a-4c75-90f7-73c46d7c41d1",
+    "prompt": "Create only one Tron-style below-knee prosthetic cover with glowing blue light strips. Ergonomic semi-cylindrical U-shaped open channel. Total length: 45.78 cm. Tapering U-channel: top internal width 11.4 cm, bottom internal width 7.13 cm, channel depth 5.7 cm, wall thickness is 0.41 cm. Centered rectangular top notch: 4.44 cm wide, 2.01 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 457.8,
+      "top_width": 114.0,
+      "bottom_width": 71.3,
+      "channel_depth": 57.0,
+      "wall_thickness": 4.1,
+      "notch_width": 44.400000000000006,
+      "notch_depth": 20.099999999999998,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.5184302330017,
+      "width_x": 88.71182203292847,
+      "depth_z": 43.669493496418,
+      "top_width": 15.961307738669955,
+      "bottom_width": 56.18816064810771,
+      "channel_depth": 43.669493496418
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 457.8,
+        "model_value": 199.5184302330017,
+        "absolute_diff": 258.2815697669983,
+        "percentage_diff": 56.4179925222801
+      },
+      "top_width": {
+        "prompt_value": 114.0,
+        "model_value": 15.961307738669955,
+        "absolute_diff": 98.03869226133004,
+        "percentage_diff": 85.99885286081582
+      },
+      "bottom_width": {
+        "prompt_value": 71.3,
+        "model_value": 56.18816064810771,
+        "absolute_diff": 15.111839351892286,
+        "percentage_diff": 21.19472559872691
+      },
+      "channel_depth": {
+        "prompt_value": 57.0,
+        "model_value": 43.669493496418,
+        "absolute_diff": 13.330506503582,
+        "percentage_diff": 23.386853515056142
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "425d31aa-4769-4ab8-8fad-9afca6072864",
+    "prompt": "Create only one Polished Titanium below-knee prosthetic cover with a mirror finish. Ergonomic semi-cylindrical U-shaped open channel. Total length: 35.53 cm. Tapering U-channel: top internal width 10.96 cm, bottom internal width 6.43 cm, channel depth 5.48 cm, wall thickness is 0.4 cm. Centered rectangular top notch: 4.06 cm wide, 2.84 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 355.3,
+      "top_width": 109.60000000000001,
+      "bottom_width": 64.3,
+      "channel_depth": 54.800000000000004,
+      "wall_thickness": 4.0,
+      "notch_width": 40.599999999999994,
+      "notch_depth": 28.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.4691550731659,
+      "width_x": 93.97401213645935,
+      "depth_z": 51.80497765541077,
+      "top_width": 34.601619670548295,
+      "bottom_width": 81.48379498811951,
+      "channel_depth": 51.80497765541077
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 355.3,
+        "model_value": 199.4691550731659,
+        "absolute_diff": 155.83084492683412,
+        "percentage_diff": 43.85894875508981
+      },
+      "top_width": {
+        "prompt_value": 109.60000000000001,
+        "model_value": 34.601619670548295,
+        "absolute_diff": 74.99838032945172,
+        "percentage_diff": 68.42917913271141
+      },
+      "bottom_width": {
+        "prompt_value": 64.3,
+        "model_value": 81.48379498811951,
+        "absolute_diff": 17.183794988119516,
+        "percentage_diff": 26.724409001741083
+      },
+      "channel_depth": {
+        "prompt_value": 54.800000000000004,
+        "model_value": 51.80497765541077,
+        "absolute_diff": 2.9950223445892377,
+        "percentage_diff": 5.465369241951163
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "2b1277d8-3a49-4b9a-8e3f-6c0648a531c5",
+    "prompt": "Create only one Ice texture below-knee prosthetic cover translucent with internal cracks. Ergonomic semi-cylindrical U-shaped open channel. Total length: 50.51 cm. Tapering U-channel: top internal width 13.59 cm, bottom internal width 7.97 cm, channel depth 6.8 cm, wall thickness is 0.41 cm. Centered rectangular top notch: 5.9 cm wide, 2.09 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 505.09999999999997,
+      "top_width": 135.9,
+      "bottom_width": 79.7,
+      "channel_depth": 68.0,
+      "wall_thickness": 4.1,
+      "notch_width": 59.0,
+      "notch_depth": 20.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.4478464126587,
+      "width_x": 129.7272264957428,
+      "depth_z": 65.17542600631714,
+      "top_width": 37.183270017853054,
+      "bottom_width": 123.6048523507864,
+      "channel_depth": 65.17542600631714
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 505.09999999999997,
+        "model_value": 199.4478464126587,
+        "absolute_diff": 305.6521535873413,
+        "percentage_diff": 60.51319611707411
+      },
+      "top_width": {
+        "prompt_value": 135.9,
+        "model_value": 37.183270017853054,
+        "absolute_diff": 98.71672998214694,
+        "percentage_diff": 72.63924207663499
+      },
+      "bottom_width": {
+        "prompt_value": 79.7,
+        "model_value": 123.6048523507864,
+        "absolute_diff": 43.9048523507864,
+        "percentage_diff": 55.08764410387252
+      },
+      "channel_depth": {
+        "prompt_value": 68.0,
+        "model_value": 65.17542600631714,
+        "absolute_diff": 2.8245739936828613,
+        "percentage_diff": 4.1537852848277375
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "c470fc39-169e-4cba-a1e9-fa13d530ef63",
+    "prompt": "Create only one Pure White Minimalist below-knee prosthetic cover in a form of shell. Ergonomic semi-cylindrical U-shaped open channel. Total length: 35.83 cm. Tapering U-channel: top internal width 10.02 cm, bottom internal width 6.96 cm, channel depth 5.01 cm, wall thickness is 0.39 cm. Centered rectangular top notch: 5.99 cm wide, 2.76 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 358.29999999999995,
+      "top_width": 100.19999999999999,
+      "bottom_width": 69.6,
+      "channel_depth": 50.099999999999994,
+      "wall_thickness": 3.9000000000000004,
+      "notch_width": 59.900000000000006,
+      "notch_depth": 27.599999999999998,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.459969997406,
+      "width_x": 97.38488495349884,
+      "depth_z": 85.67275106906891,
+      "top_width": 95.88274775150454,
+      "bottom_width": 66.21742724238806,
+      "channel_depth": 85.67275106906891
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 358.29999999999995,
+        "model_value": 199.459969997406,
+        "absolute_diff": 158.84003000259395,
+        "percentage_diff": 44.33157410064024
+      },
+      "top_width": {
+        "prompt_value": 100.19999999999999,
+        "model_value": 95.88274775150454,
+        "absolute_diff": 4.31725224849545,
+        "percentage_diff": 4.3086349785383735
+      },
+      "bottom_width": {
+        "prompt_value": 69.6,
+        "model_value": 66.21742724238806,
+        "absolute_diff": 3.382572757611939,
+        "percentage_diff": 4.8600183299022115
+      },
+      "channel_depth": {
+        "prompt_value": 50.099999999999994,
+        "model_value": 85.67275106906891,
+        "absolute_diff": 35.572751069068914,
+        "percentage_diff": 71.00349514784216
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "dffd03bb-1e72-49f1-8717-2c9bd2af13c2",
+    "prompt": "Create only one Pastel Pink ASA below-knee prosthetic cover with a soft-touch coating. Ergonomic semi-cylindrical U-shaped open channel. Total length: 41.51 cm. Tapering U-channel: top internal width 12.3 cm, bottom internal width 7.69 cm, channel depth 6.15 cm, wall thickness is 0.38 cm. Centered rectangular top notch: 4.06 cm wide, 2.44 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 415.09999999999997,
+      "top_width": 123.0,
+      "bottom_width": 76.9,
+      "channel_depth": 61.5,
+      "wall_thickness": 3.8,
+      "notch_width": 40.599999999999994,
+      "notch_depth": 24.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.75069165229797,
+      "width_x": 113.31536173820496,
+      "depth_z": 136.8177592754364,
+      "top_width": 54.15212067643813,
+      "bottom_width": 72.8104047560227,
+      "channel_depth": 136.8177592754364
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 415.09999999999997,
+        "model_value": 199.75069165229797,
+        "absolute_diff": 215.349308347702,
+        "percentage_diff": 51.87889866241918
+      },
+      "top_width": {
+        "prompt_value": 123.0,
+        "model_value": 54.15212067643813,
+        "absolute_diff": 68.84787932356187,
+        "percentage_diff": 55.97388562891209
+      },
+      "bottom_width": {
+        "prompt_value": 76.9,
+        "model_value": 72.8104047560227,
+        "absolute_diff": 4.0895952439773,
+        "percentage_diff": 5.318069237941872
+      },
+      "channel_depth": {
+        "prompt_value": 61.5,
+        "model_value": 136.8177592754364,
+        "absolute_diff": 75.3177592754364,
+        "percentage_diff": 122.4679012608722
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "55a1235a-d6df-4255-b89d-bb0e815e45d1",
+    "prompt": "Create only one Steampunk below-knee prosthetic cover with faux gears and copper pipes. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.45 cm. Tapering U-channel: top internal width 13.33 cm, bottom internal width 8.18 cm, channel depth 6.66 cm, wall thickness is 0.4 cm. Centered rectangular top notch: 5.89 cm wide, 3.29 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 474.5,
+      "top_width": 133.3,
+      "bottom_width": 81.8,
+      "channel_depth": 66.6,
+      "wall_thickness": 4.0,
+      "notch_width": 58.9,
+      "notch_depth": 32.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.14889335632324,
+      "width_x": 138.97180557250977,
+      "depth_z": 138.63418698310852,
+      "top_width": 22.587784234153517,
+      "bottom_width": 47.91194754679171,
+      "channel_depth": 138.63418698310852
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 474.5,
+        "model_value": 199.14889335632324,
+        "absolute_diff": 275.35110664367676,
+        "percentage_diff": 58.02973796494768
+      },
+      "top_width": {
+        "prompt_value": 133.3,
+        "model_value": 22.587784234153517,
+        "absolute_diff": 110.7122157658465,
+        "percentage_diff": 83.0549255557738
+      },
+      "bottom_width": {
+        "prompt_value": 81.8,
+        "model_value": 47.91194754679171,
+        "absolute_diff": 33.88805245320829,
+        "percentage_diff": 41.42793698436221
+      },
+      "channel_depth": {
+        "prompt_value": 66.6,
+        "model_value": 138.63418698310852,
+        "absolute_diff": 72.03418698310853,
+        "percentage_diff": 108.15943991457738
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "747e948c-4397-4c03-9d39-f6040e50e6e3",
+    "prompt": "Create only one Metallic Silver below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 37.65 cm. Tapering U-channel: top internal width 10.97 cm, bottom internal width 6.37 cm, channel depth 5.49 cm, wall thickness is 0.48 cm. Centered rectangular top notch: 5.55 cm wide, 2.42 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 376.5,
+      "top_width": 109.7,
+      "bottom_width": 63.7,
+      "channel_depth": 54.900000000000006,
+      "wall_thickness": 4.8,
+      "notch_width": 55.5,
+      "notch_depth": 24.2,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.38950538635254,
+      "width_x": 95.51977813243866,
+      "depth_z": 60.598400235176086,
+      "top_width": 58.528966715067135,
+      "bottom_width": 93.27582576058435,
+      "channel_depth": 60.598400235176086
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 376.5,
+        "model_value": 199.38950538635254,
+        "absolute_diff": 177.11049461364746,
+        "percentage_diff": 47.041300030185255
+      },
+      "top_width": {
+        "prompt_value": 109.7,
+        "model_value": 58.528966715067135,
+        "absolute_diff": 51.17103328493287,
+        "percentage_diff": 46.64633845481574
+      },
+      "bottom_width": {
+        "prompt_value": 63.7,
+        "model_value": 93.27582576058435,
+        "absolute_diff": 29.57582576058435,
+        "percentage_diff": 46.42986775601939
+      },
+      "channel_depth": {
+        "prompt_value": 54.900000000000006,
+        "model_value": 60.598400235176086,
+        "absolute_diff": 5.698400235176081,
+        "percentage_diff": 10.37959969977428
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "f028e230-b57d-4ccc-9cdd-b07145a9735c",
+    "prompt": "Create only one Fur texture below-knee prosthetic cover (synthetic) in a short black pile. Ergonomic semi-cylindrical U-shaped open channel. Total length: 41.8 cm. Tapering U-channel: top internal width 11.81 cm, bottom internal width 7.31 cm, channel depth 5.9 cm, wall thickness is 0.46 cm. Centered rectangular top notch: 4.64 cm wide, 2.99 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 418.0,
+      "top_width": 118.10000000000001,
+      "bottom_width": 73.1,
+      "channel_depth": 59.0,
+      "wall_thickness": 4.6000000000000005,
+      "notch_width": 46.4,
+      "notch_depth": 29.900000000000002,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.53400492668152,
+      "width_x": 108.93483757972717,
+      "depth_z": 113.33102583885193,
+      "top_width": 105.18770980688572,
+      "bottom_width": 86.94815180697337,
+      "channel_depth": 113.33102583885193
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 418.0,
+        "model_value": 199.53400492668152,
+        "absolute_diff": 218.46599507331848,
+        "percentage_diff": 52.264592122803464
+      },
+      "top_width": {
+        "prompt_value": 118.10000000000001,
+        "model_value": 105.18770980688572,
+        "absolute_diff": 12.912290193114288,
+        "percentage_diff": 10.933353254118787
+      },
+      "bottom_width": {
+        "prompt_value": 73.1,
+        "model_value": 86.94815180697337,
+        "absolute_diff": 13.848151806973377,
+        "percentage_diff": 18.94412011897863
+      },
+      "channel_depth": {
+        "prompt_value": 59.0,
+        "model_value": 113.33102583885193,
+        "absolute_diff": 54.33102583885193,
+        "percentage_diff": 92.08648447263039
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "6c53ec1a-b0af-42f4-9229-9f317c47c0c0",
+    "prompt": "Create only one Vibrant Crimson Red below-knee prosthetic cover with a gloss finish. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.51 cm. Tapering U-channel: top internal width 12.82 cm, bottom internal width 8.62 cm, channel depth 6.41 cm, wall thickness is 0.31 cm. Centered rectangular top notch: 5.97 cm wide, 2.33 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 475.09999999999997,
+      "top_width": 128.2,
+      "bottom_width": 86.19999999999999,
+      "channel_depth": 64.1,
+      "wall_thickness": 3.1,
+      "notch_width": 59.699999999999996,
+      "notch_depth": 23.3,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.41253066062927,
+      "width_x": 134.1482937335968,
+      "depth_z": 72.67359793186188,
+      "top_width": 75.75267053840362,
+      "bottom_width": 98.17102396191916,
+      "channel_depth": 72.67359793186188
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 475.09999999999997,
+        "model_value": 199.41253066062927,
+        "absolute_diff": 275.6874693393707,
+        "percentage_diff": 58.027250965979945
+      },
+      "top_width": {
+        "prompt_value": 128.2,
+        "model_value": 75.75267053840362,
+        "absolute_diff": 52.44732946159637,
+        "percentage_diff": 40.91055340218126
+      },
+      "bottom_width": {
+        "prompt_value": 86.19999999999999,
+        "model_value": 98.17102396191916,
+        "absolute_diff": 11.971023961919173,
+        "percentage_diff": 13.887498795729899
+      },
+      "channel_depth": {
+        "prompt_value": 64.1,
+        "model_value": 72.67359793186188,
+        "absolute_diff": 8.573597931861883,
+        "percentage_diff": 13.375347787616043
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "cb94c627-f388-4b27-bef4-29ccad6cee19",
+    "prompt": "Create only one Industrial Hazard below-knee prosthetic cover with yellow and black caution stripes. Ergonomic semi-cylindrical U-shaped open channel. Total length: 36.32 cm. Tapering U-channel: top internal width 9.57 cm, bottom internal width 6.33 cm, channel depth 4.78 cm, wall thickness is 0.44 cm. Centered rectangular top notch: 4.32 cm wide, 2.65 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 363.2,
+      "top_width": 95.7,
+      "bottom_width": 63.3,
+      "channel_depth": 47.800000000000004,
+      "wall_thickness": 4.4,
+      "notch_width": 43.2,
+      "notch_depth": 26.5,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.90464448928833,
+      "width_x": 124.48699474334717,
+      "depth_z": 76.6038715839386,
+      "top_width": 64.2012500086613,
+      "bottom_width": 112.97508632105537,
+      "channel_depth": 76.6038715839386
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 363.2,
+        "model_value": 199.90464448928833,
+        "absolute_diff": 163.29535551071166,
+        "percentage_diff": 44.96017497541621
+      },
+      "top_width": {
+        "prompt_value": 95.7,
+        "model_value": 64.2012500086613,
+        "absolute_diff": 31.4987499913387,
+        "percentage_diff": 32.91405432741766
+      },
+      "bottom_width": {
+        "prompt_value": 63.3,
+        "model_value": 112.97508632105537,
+        "absolute_diff": 49.675086321055375,
+        "percentage_diff": 78.47564979629601
+      },
+      "channel_depth": {
+        "prompt_value": 47.800000000000004,
+        "model_value": 76.6038715839386,
+        "absolute_diff": 28.803871583938594,
+        "percentage_diff": 60.259145573093285
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "d52cb13e-31c3-40f2-b02e-bab918564317",
+    "prompt": "Create only one Deep Navy Blue below-knee prosthetic cover with a satin finish. Ergonomic semi-cylindrical U-shaped open channel. Total length: 45.05 cm. Tapering U-channel: top internal width 11.25 cm, bottom internal width 7.65 cm, channel depth 5.62 cm, wall thickness is 0.45 cm. Centered rectangular top notch: 4.76 cm wide, 2.53 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 450.5,
+      "top_width": 112.5,
+      "bottom_width": 76.5,
+      "channel_depth": 56.2,
+      "wall_thickness": 4.5,
+      "notch_width": 47.599999999999994,
+      "notch_depth": 25.299999999999997,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.54485297203064,
+      "width_x": 85.5308324098587,
+      "depth_z": 69.52832639217377,
+      "top_width": 68.19259042134738,
+      "bottom_width": 82.77258489287598,
+      "channel_depth": 69.52832639217377
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 450.5,
+        "model_value": 199.54485297203064,
+        "absolute_diff": 250.95514702796936,
+        "percentage_diff": 55.70591498956035
+      },
+      "top_width": {
+        "prompt_value": 112.5,
+        "model_value": 68.19259042134738,
+        "absolute_diff": 44.307409578652624,
+        "percentage_diff": 39.38436406991344
+      },
+      "bottom_width": {
+        "prompt_value": 76.5,
+        "model_value": 82.77258489287598,
+        "absolute_diff": 6.272584892875983,
+        "percentage_diff": 8.199457376308475
+      },
+      "channel_depth": {
+        "prompt_value": 56.2,
+        "model_value": 69.52832639217377,
+        "absolute_diff": 13.328326392173764,
+        "percentage_diff": 23.715883260095666
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "f1d86de9-d163-4a53-9d23-dd33b4389c93",
+    "prompt": "Create only one Frosted Clear Resin below-knee prosthetic cover in a form of shell the style restores natural limb silhouette. Ergonomic semi-cylindrical U-shaped open channel. Total length: 42.67 cm. Tapering U-channel: top internal width 11.52 cm, bottom internal width 7.04 cm, channel depth 5.76 cm, wall thickness is 0.47 cm. Centered rectangular top notch: 5.49 cm wide, 2.4 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 426.70000000000005,
+      "top_width": 115.19999999999999,
+      "bottom_width": 70.4,
+      "channel_depth": 57.599999999999994,
+      "wall_thickness": 4.699999999999999,
+      "notch_width": 54.900000000000006,
+      "notch_depth": 24.0,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.68608617782593,
+      "width_x": 141.70595407485962,
+      "depth_z": 68.15096735954285,
+      "top_width": 87.5345222834193,
+      "bottom_width": 100.37582886443602,
+      "channel_depth": 68.15096735954285
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 426.70000000000005,
+        "model_value": 199.68608617782593,
+        "absolute_diff": 227.01391382217412,
+        "percentage_diff": 53.20222962788238
+      },
+      "top_width": {
+        "prompt_value": 115.19999999999999,
+        "model_value": 87.5345222834193,
+        "absolute_diff": 27.665477716580682,
+        "percentage_diff": 24.01517162897629
+      },
+      "bottom_width": {
+        "prompt_value": 70.4,
+        "model_value": 100.37582886443602,
+        "absolute_diff": 29.97582886443601,
+        "percentage_diff": 42.579302364255696
+      },
+      "channel_depth": {
+        "prompt_value": 57.599999999999994,
+        "model_value": 68.15096735954285,
+        "absolute_diff": 10.550967359542852,
+        "percentage_diff": 18.317651665873008
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8bd4a7bc-6fec-4468-90db-3c38885d3c89",
+    "prompt": "Create only one Bronze Cast below-knee prosthetic cover with a heavy, antique texture. Ergonomic semi-cylindrical U-shaped open channel. Total length: 35.57 cm. Tapering U-channel: top internal width 10.07 cm, bottom internal width 6.61 cm, channel depth 5.04 cm, wall thickness is 0.31 cm. Centered rectangular top notch: 5.16 cm wide, 3.27 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 355.7,
+      "top_width": 100.7,
+      "bottom_width": 66.10000000000001,
+      "channel_depth": 50.4,
+      "wall_thickness": 3.1,
+      "notch_width": 51.6,
+      "notch_depth": 32.7,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.68554377555847,
+      "width_x": 59.86447334289551,
+      "depth_z": 120.45028805732727,
+      "top_width": 21.996614636712764,
+      "bottom_width": 41.87439578165022,
+      "channel_depth": 120.45028805732727
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 355.7,
+        "model_value": 199.68554377555847,
+        "absolute_diff": 156.01445622444152,
+        "percentage_diff": 43.86124718145671
+      },
+      "top_width": {
+        "prompt_value": 100.7,
+        "model_value": 21.996614636712764,
+        "absolute_diff": 78.70338536328724,
+        "percentage_diff": 78.1562913240191
+      },
+      "bottom_width": {
+        "prompt_value": 66.10000000000001,
+        "model_value": 41.87439578165022,
+        "absolute_diff": 24.225604218349787,
+        "percentage_diff": 36.649930738804514
+      },
+      "channel_depth": {
+        "prompt_value": 50.4,
+        "model_value": 120.45028805732727,
+        "absolute_diff": 70.05028805732726,
+        "percentage_diff": 138.98866678041125
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "1f0e458a-c23e-4606-8048-f2df1639e9d6",
+    "prompt": "Create only one Smooth Beige Polycarbonate below-knee prosthetic cover matching skin tonly one. Ergonomic semi-cylindrical U-shaped open channel. Total length: 47.29 cm. Tapering U-channel: top internal width 12.43 cm, bottom internal width 8.83 cm, channel depth 6.22 cm, wall thickness is 0.34 cm. Centered rectangular top notch: 5.58 cm wide, 2.93 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 472.9,
+      "top_width": 124.3,
+      "bottom_width": 88.3,
+      "channel_depth": 62.199999999999996,
+      "wall_thickness": 3.4000000000000004,
+      "notch_width": 55.8,
+      "notch_depth": 29.3,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.55646395683289,
+      "width_x": 89.10444974899292,
+      "depth_z": 106.31133317947388,
+      "top_width": 29.60141989392588,
+      "bottom_width": 80.97511935880625,
+      "channel_depth": 106.31133317947388
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 472.9,
+        "model_value": 199.55646395683289,
+        "absolute_diff": 273.3435360431671,
+        "percentage_diff": 57.80155128846841
+      },
+      "top_width": {
+        "prompt_value": 124.3,
+        "model_value": 29.60141989392588,
+        "absolute_diff": 94.69858010607412,
+        "percentage_diff": 76.18550290110548
+      },
+      "bottom_width": {
+        "prompt_value": 88.3,
+        "model_value": 80.97511935880625,
+        "absolute_diff": 7.324880641193744,
+        "percentage_diff": 8.295448064772076
+      },
+      "channel_depth": {
+        "prompt_value": 62.199999999999996,
+        "model_value": 106.31133317947388,
+        "absolute_diff": 44.11133317947388,
+        "percentage_diff": 70.9185420891863
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "8cc30175-9af7-4f9e-b158-6e86c8aaf0ff",
+    "prompt": "Create only one Wave Pattern below-knee prosthetic cover mimicking ocean ripples in blue plastic. Ergonomic semi-cylindrical U-shaped open channel. Total length: 49.53 cm. Tapering U-channel: top internal width 13.06 cm, bottom internal width 8.12 cm, channel depth 6.53 cm, wall thickness is 0.41 cm. Centered rectangular top notch: 5.81 cm wide, 2.79 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 495.3,
+      "top_width": 130.6,
+      "bottom_width": 81.19999999999999,
+      "channel_depth": 65.3,
+      "wall_thickness": 4.1,
+      "notch_width": 58.099999999999994,
+      "notch_depth": 27.9,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.54253435134888,
+      "width_x": 133.3951473236084,
+      "depth_z": 102.97381579875946,
+      "top_width": 68.77506525291348,
+      "bottom_width": 119.54671889315884,
+      "channel_depth": 102.97381579875946
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 495.3,
+        "model_value": 199.54253435134888,
+        "absolute_diff": 295.75746564865113,
+        "percentage_diff": 59.71279338757341
+      },
+      "top_width": {
+        "prompt_value": 130.6,
+        "model_value": 68.77506525291348,
+        "absolute_diff": 61.824934747086516,
+        "percentage_diff": 47.33915371139856
+      },
+      "bottom_width": {
+        "prompt_value": 81.19999999999999,
+        "model_value": 119.54671889315884,
+        "absolute_diff": 38.34671889315885,
+        "percentage_diff": 47.22502326743702
+      },
+      "channel_depth": {
+        "prompt_value": 65.3,
+        "model_value": 102.97381579875946,
+        "absolute_diff": 37.67381579875946,
+        "percentage_diff": 57.6934392017756
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "deb38b06-b9b4-42dd-8c84-023a8dd55c5f",
+    "prompt": "Create only one Human Muscle anatomy style below-knee prosthetic cover showing stylized red fibers. Ergonomic semi-cylindrical U-shaped open channel. Total length: 42.64 cm. Tapering U-channel: top internal width 11.32 cm, bottom internal width 7.56 cm, channel depth 5.66 cm, wall thickness is 0.39 cm. Centered rectangular top notch: 4.91 cm wide, 3.34 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 426.4,
+      "top_width": 113.2,
+      "bottom_width": 75.6,
+      "channel_depth": 56.6,
+      "wall_thickness": 3.9000000000000004,
+      "notch_width": 49.1,
+      "notch_depth": 33.4,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.51801896095276,
+      "width_x": 111.95634007453918,
+      "depth_z": 73.71975928544998,
+      "top_width": 17.530216206910605,
+      "bottom_width": 73.03224908136706,
+      "channel_depth": 73.71975928544998
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 426.4,
+        "model_value": 199.51801896095276,
+        "absolute_diff": 226.88198103904722,
+        "percentage_diff": 53.208719755874114
+      },
+      "top_width": {
+        "prompt_value": 113.2,
+        "model_value": 17.530216206910605,
+        "absolute_diff": 95.6697837930894,
+        "percentage_diff": 84.5139432801143
+      },
+      "bottom_width": {
+        "prompt_value": 75.6,
+        "model_value": 73.03224908136706,
+        "absolute_diff": 2.567750918632939,
+        "percentage_diff": 3.3964959241176444
+      },
+      "channel_depth": {
+        "prompt_value": 56.6,
+        "model_value": 73.71975928544998,
+        "absolute_diff": 17.11975928544998,
+        "percentage_diff": 30.246924532597134
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "616f2934-8143-407f-9eaa-0bdd91946d50",
+    "prompt": "Create only one Damascene Steel below-knee prosthetic cover with wavy metal patterns. Ergonomic semi-cylindrical U-shaped open channel. Total length: 48.99 cm. Tapering U-channel: top internal width 13.0 cm, bottom internal width 8.6 cm, channel depth 6.5 cm, wall thickness is 0.31 cm. Centered rectangular top notch: 5.52 cm wide, 2.61 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 489.90000000000003,
+      "top_width": 130.0,
+      "bottom_width": 86.0,
+      "channel_depth": 65.0,
+      "wall_thickness": 3.1,
+      "notch_width": 55.199999999999996,
+      "notch_depth": 26.099999999999998,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.60371851921082,
+      "width_x": 112.24416494369507,
+      "depth_z": 59.10385549068451,
+      "top_width": 20.98665187033863,
+      "bottom_width": 104.85380214710922,
+      "channel_depth": 59.10385549068451
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 489.90000000000003,
+        "model_value": 199.60371851921082,
+        "absolute_diff": 290.2962814807892,
+        "percentage_diff": 59.25623218632153
+      },
+      "top_width": {
+        "prompt_value": 130.0,
+        "model_value": 20.98665187033863,
+        "absolute_diff": 109.01334812966137,
+        "percentage_diff": 83.85642163820106
+      },
+      "bottom_width": {
+        "prompt_value": 86.0,
+        "model_value": 104.85380214710922,
+        "absolute_diff": 18.85380214710922,
+        "percentage_diff": 21.92302575245258
+      },
+      "channel_depth": {
+        "prompt_value": 65.0,
+        "model_value": 59.10385549068451,
+        "absolute_diff": 5.896144509315491,
+        "percentage_diff": 9.070991552793064
+      }
+    },
+    "units": "mm"
+  },
+  {
+    "uuid": "fdee7837-a2ee-41a4-bff4-762905845c5a",
+    "prompt": "Create only one Cork texture below-knee prosthetic cover with natural brown spotting. Ergonomic semi-cylindrical U-shaped open channel. Total length: 36.71 cm. Tapering U-channel: top internal width 10.01 cm, bottom internal width 6.57 cm, channel depth 5.0 cm, wall thickness is 0.4 cm. Centered rectangular top notch: 4.59 cm wide, 3.5 cm deep.",
+    "prompt_dimensions": {
+      "total_length": 367.1,
+      "top_width": 100.1,
+      "bottom_width": 65.7,
+      "channel_depth": 50.0,
+      "wall_thickness": 4.0,
+      "notch_width": 45.9,
+      "notch_depth": 35.0,
+      "_format": "simple_mm"
+    },
+    "model_dimensions": {
+      "total_length": 199.4804859161377,
+      "width_x": 73.99484515190125,
+      "depth_z": 135.86469292640686,
+      "top_width": 64.87322243271949,
+      "bottom_width": 48.080928870670384,
+      "channel_depth": 135.86469292640686
+    },
+    "differences": {
+      "total_length": {
+        "prompt_value": 367.1,
+        "model_value": 199.4804859161377,
+        "absolute_diff": 167.61951408386233,
+        "percentage_diff": 45.660450581275484
+      },
+      "top_width": {
+        "prompt_value": 100.1,
+        "model_value": 64.87322243271949,
+        "absolute_diff": 35.22677756728051,
+        "percentage_diff": 35.19158598129921
+      },
+      "bottom_width": {
+        "prompt_value": 65.7,
+        "model_value": 48.080928870670384,
+        "absolute_diff": 17.61907112932962,
+        "percentage_diff": 26.81745986199333
+      },
+      "channel_depth": {
+        "prompt_value": 50.0,
+        "model_value": 135.86469292640686,
+        "absolute_diff": 85.86469292640686,
+        "percentage_diff": 171.72938585281372
+      }
+    },
+    "units": "mm"
+  }
+]

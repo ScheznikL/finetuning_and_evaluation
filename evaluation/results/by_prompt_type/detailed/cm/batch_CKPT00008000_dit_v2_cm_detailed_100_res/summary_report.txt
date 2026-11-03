@@ -1,0 +1,47 @@
+================================================================================
+BATCH MODEL ANALYSIS - SUMMARY REPORT (MILLIMETERS)
+================================================================================
+
+Total models analyzed: 100
+
+AVERAGE DIFFERENCES BETWEEN PROMPT AND GENERATED MODELS
+--------------------------------------------------------------------------------
+
+TOTAL LENGTH:
+  Number of measurements: 100
+  Average difference: 235.644 mm (23.564 cm)
+  Median difference: 236.154 mm (23.615 cm)
+  Standard deviation: 45.745 mm (4.575 cm)
+  Min difference: 152.397 mm (15.240 cm)
+  Max difference: 305.652 mm (30.565 cm)
+
+TOP WIDTH:
+  Number of measurements: 100
+  Average difference: 67.891 mm (6.789 cm)
+  Median difference: 69.538 mm (6.954 cm)
+  Standard deviation: 27.980 mm (2.798 cm)
+  Min difference: 4.317 mm (0.432 cm)
+  Max difference: 126.742 mm (12.674 cm)
+
+BOTTOM WIDTH:
+  Number of measurements: 100
+  Average difference: 21.192 mm (2.119 cm)
+  Median difference: 18.885 mm (1.888 cm)
+  Standard deviation: 14.073 mm (1.407 cm)
+  Min difference: 0.595 mm (0.059 cm)
+  Max difference: 57.720 mm (5.772 cm)
+
+CHANNEL DEPTH:
+  Number of measurements: 100
+  Average difference: 31.667 mm (3.167 cm)
+  Median difference: 18.418 mm (1.842 cm)
+  Standard deviation: 31.646 mm (3.165 cm)
+  Min difference: 0.475 mm (0.047 cm)
+  Max difference: 144.830 mm (14.483 cm)
+
+
+================================================================================
+OVERALL AVERAGE ACROSS ALL DIMENSIONS
+================================================================================
+
+Overall average difference: 89.098 mm (8.910 cm)

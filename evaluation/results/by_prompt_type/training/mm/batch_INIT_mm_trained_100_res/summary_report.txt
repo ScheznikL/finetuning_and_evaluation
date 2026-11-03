@@ -1,0 +1,252 @@
+================================================================================
+BATCH MODEL ANALYSIS - SUMMARY REPORT (MILLIMETERS)
+================================================================================
+
+Total models analyzed: 100
+
+================================================================================
+3D CONSISTENCY RATE
+================================================================================
+
+Total models: 100
+Valid models: 0
+Invalid models: 100
+Consistency Rate: 0.00%
+
+Common issues found:
+  - Inconsistent vertex normals (possible inside-out faces): 100 models
+  - Mesh is not watertight (has holes): 73 models
+  - Mesh has 2 disconnected components: 14 models
+  - Mesh has 5 disconnected components: 11 models
+  - Mesh has 3 disconnected components: 10 models
+  - Mesh has 7 disconnected components: 10 models
+  - Mesh has 6 disconnected components: 8 models
+  - Mesh has 14 disconnected components: 4 models
+  - 224 degenerate faces (zero area): 4 models
+  - Mesh has 8 disconnected components: 4 models
+  - Mesh has 11 disconnected components: 4 models
+  - Mesh has 4 disconnected components: 3 models
+  - 328 degenerate faces (zero area): 3 models
+  - 183 degenerate faces (zero area): 3 models
+  - 170 degenerate faces (zero area): 3 models
+  - Mesh has 12 disconnected components: 2 models
+  - Extreme edge length ratio: 90683706.4: 2 models
+  - 253 degenerate faces (zero area): 2 models
+  - 233 degenerate faces (zero area): 2 models
+  - 237 degenerate faces (zero area): 2 models
+  - Mesh has 9 disconnected components: 2 models
+  - Mesh has 28 disconnected components: 2 models
+  - 241 degenerate faces (zero area): 2 models
+  - 446 degenerate faces (zero area): 2 models
+  - 343 degenerate faces (zero area): 2 models
+  - 514 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90852783.7: 1 models
+  - 305 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90689232.1: 1 models
+  - 174 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 78241.9: 1 models
+  - 313 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90828412.9: 1 models
+  - 300 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90740795.5: 1 models
+  - 180 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 121374.2: 1 models
+  - Extreme edge length ratio: 90678224.2: 1 models
+  - 149 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90847796.7: 1 models
+  - 229 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90796668.8: 1 models
+  - 360 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90753835.1: 1 models
+  - 191 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 121440.7: 1 models
+  - 138 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 60787.0: 1 models
+  - 531 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90764732.5: 1 models
+  - 169 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 18203.5: 1 models
+  - 310 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90841907.4: 1 models
+  - 432 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90783702.9: 1 models
+  - 226 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90734104.8: 1 models
+  - 275 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90758172.6: 1 models
+  - 182 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90721071.8: 1 models
+  - 153 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 110512.1: 1 models
+  - 171 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 121621.5: 1 models
+  - 208 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 303437.1: 1 models
+  - 178 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90710827.3: 1 models
+  - 162 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90592000.9: 1 models
+  - 402 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90851064.0: 1 models
+  - 389 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90804398.9: 1 models
+  - Extreme edge length ratio: 90657928.7: 1 models
+  - Extreme edge length ratio: 90666191.4: 1 models
+  - 195 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 81020.5: 1 models
+  - 122 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 121622.0: 1 models
+  - 299 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90745256.0: 1 models
+  - Extreme edge length ratio: 90815051.2: 1 models
+  - Extreme edge length ratio: 90755421.8: 1 models
+  - 230 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90750255.0: 1 models
+  - 186 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90716612.4: 1 models
+  - 283 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90866844.7: 1 models
+  - 279 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 110632.3: 1 models
+  - 392 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90827510.6: 1 models
+  - Extreme edge length ratio: 90781212.9: 1 models
+  - Extreme edge length ratio: 96162.5: 1 models
+  - 596 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90825598.5: 1 models
+  - Extreme edge length ratio: 90821892.6: 1 models
+  - 200 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 86064.1: 1 models
+  - Extreme edge length ratio: 90743797.3: 1 models
+  - 234 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90697457.5: 1 models
+  - 447 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90779582.1: 1 models
+  - 204 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 121764.0: 1 models
+  - 358 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90789143.2: 1 models
+  - Extreme edge length ratio: 90677367.6: 1 models
+  - 238 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90701278.0: 1 models
+  - 317 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90820979.5: 1 models
+  - 127 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 113170.3: 1 models
+  - 190 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 77824.2: 1 models
+  - 575 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90815910.1: 1 models
+  - 256 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90709155.6: 1 models
+  - 280 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90722272.2: 1 models
+  - Mesh has 18 disconnected components: 1 models
+  - 401 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90746584.7: 1 models
+  - Extreme edge length ratio: 121675.7: 1 models
+  - Extreme edge length ratio: 90708127.5: 1 models
+  - 464 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90774431.5: 1 models
+  - Extreme edge length ratio: 90787781.1: 1 models
+  - Mesh has 17 disconnected components: 1 models
+  - Extreme edge length ratio: 90828799.6: 1 models
+  - 168 degenerate faces (zero area): 1 models
+  - 425 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 303337.8: 1 models
+  - 188 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90672143.1: 1 models
+  - 357 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90774602.6: 1 models
+  - 259 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 53823.9: 1 models
+  - Extreme edge length ratio: 90649196.8: 1 models
+  - 215 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90777950.7: 1 models
+  - 282 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90811927.9: 1 models
+  - Extreme edge length ratio: 90760699.5: 1 models
+  - 179 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 103876.8: 1 models
+  - 166 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 101335.2: 1 models
+  - Extreme edge length ratio: 90813418.8: 1 models
+  - 201 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90835030.3: 1 models
+  - 196 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 71714.7: 1 models
+  - 202 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 121594.8: 1 models
+  - 112 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 121647.3: 1 models
+  - Extreme edge length ratio: 90806675.0: 1 models
+  - Extreme edge length ratio: 90847323.8: 1 models
+  - 347 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90811840.1: 1 models
+  - 257 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90811485.3: 1 models
+  - Extreme edge length ratio: 90800861.0: 1 models
+  - Extreme edge length ratio: 90791044.1: 1 models
+  - 161 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 121660.2: 1 models
+  - Extreme edge length ratio: 90542198.8: 1 models
+  - 373 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90798129.0: 1 models
+  - Extreme edge length ratio: 90750316.7: 1 models
+  - 270 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90776770.6: 1 models
+  - Mesh has 10 disconnected components: 1 models
+  - 218 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90794006.3: 1 models
+  - 338 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90852880.4: 1 models
+  - 139 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90752290.7: 1 models
+  - 231 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90740409.4: 1 models
+  - 185 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90759669.8: 1 models
+  - 193 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90743540.4: 1 models
+  - 163 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 90493167.5: 1 models
+  - Extreme edge length ratio: 90728487.0: 1 models
+  - 255 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 110540.1: 1 models
+  - 152 degenerate faces (zero area): 1 models
+  - Extreme edge length ratio: 92218.3: 1 models
+
+================================================================================
+AVERAGE DIFFERENCES BETWEEN PROMPT AND GENERATED MODELS
+================================================================================
+
+TOTAL LENGTH:
+  Number of measurements: 100
+  Average difference: 1555.924 mm (155.592 cm)
+  Median difference: 1553.868 mm (155.387 cm)
+  Standard deviation: 55.255 mm (5.526 cm)
+  Min difference: 1240.944 mm (124.094 cm)
+  Max difference: 1641.989 mm (164.199 cm)
+
+TOTAL HEIGHT:
+  Number of measurements: 100
+  Average difference: 782.394 mm (78.239 cm)
+  Median difference: 652.947 mm (65.295 cm)
+  Standard deviation: 285.883 mm (28.588 cm)
+  Min difference: 330.239 mm (33.024 cm)
+  Max difference: 1936.339 mm (193.634 cm)
+
+TOTAL WIDTH:
+  Number of measurements: 100
+  Average difference: 612.022 mm (61.202 cm)
+  Median difference: 579.947 mm (57.995 cm)
+  Standard deviation: 201.049 mm (20.105 cm)
+  Min difference: 70.548 mm (7.055 cm)
+  Max difference: 1240.558 mm (124.056 cm)
+
+
+================================================================================
+OVERALL AVERAGE ACROSS ALL DIMENSIONS
+================================================================================
+
+Overall average difference: 983.447 mm (98.345 cm)
