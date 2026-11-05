@@ -1,0 +1,16 @@
+  {
+    "prompt_t2i": "Edit the shape of cover to match Steampunk below-knee prosthetic cover with faux gears and copper pipes.",
+    "dimensions": {
+      "total_length_mm": 474.5,
+      "top_width_mm": 133.3,
+      "bottom_width_mm": 81.8,
+      "channel_depth_mm": 66.6,
+      "wall_thickness_mm": 4.0,
+      "notch_width_mm": 58.9,
+      "notch_depth_mm": 32.9
+    },
+    "prompt": "Create only one Steampunk below-knee prosthetic cover with faux gears and copper pipes. Ergonomic semi-cylindrical U-shaped open channel. Total length: 474.50 mm. Tapering U-channel: top internal width 133.30 mm, bottom internal width 81.80 mm, channel depth 66.60 mm, wall thickness is 4.00 mm. Centered rectangular top notch: 58.90 mm wide, 32.90 mm deep.",
+    "format": "simple_mm",
+    "token_count": 22,
+    "shortening_version": "v3"
+  }

@@ -1,0 +1,37 @@
+# Training / generation environment ("hunyuan3D_torch28" on the cluster).
+# Base: upstream Hunyuan3D-2.1 requirements.txt (pins below), plus the packages the fine-tuning code imports.
+# TODO: replace with `conda env export --no-builds -n hunyuan3D_torch28` from the cluster (see README "Missing parts", F6).
+
+# torch 2.8 + CUDA 12.6 (install first, from the PyTorch index)
+# pip install torch==2.8.* torchvision --index-url https://download.pytorch.org/whl/cu126
+
+# --- from upstream requirements.txt ---
+ninja==1.11.1.1
+pybind11==2.13.4
+transformers==4.46.0
+diffusers==0.30.0
+accelerate==1.1.1
+pytorch-lightning==1.9.5
+huggingface-hub==0.30.2
+safetensors==0.4.4
+numpy==1.24.4
+scipy==1.14.1
+einops==0.8.0
+opencv-python==4.10.0.84
+scikit-image==0.24.0
+rembg==2.0.65
+trimesh==4.4.7
+pymeshlab==2022.2.post3
+pygltflib==1.16.3
+omegaconf==2.3.0
+pyyaml==6.0.2
+tqdm==4.66.5
+onnxruntime==1.16.3
+torchmetrics==1.6.0
+timm
+torchdiffeq
+deepspeed
+
+# --- added by the fine-tuning code ---
+peft             # LoRA (flow_matching_stit.Diffuser)
+sentencepiece    # mT5 tokenizer (models/text_encoder.py)

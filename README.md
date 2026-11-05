@@ -6,9 +6,13 @@ The subject matter of the article is the analysis and modification of a 3D gener
 
 ---
 
+## Adaptor model
+- [Link](https://huggingface.co/scheznikL/finetuning_and_evaluation) - the adaptor model weights as well as full list of requirements, scripts and config files are published on Hugging Face. 
+---
+
 ## Data Preprocessing, Prompt Sets and Fine-tuning Pipeline
 
-Paths below are relative to the `Hunyuan3D-2.1` repository. Cluster paths (`/dcs/large/u5745134/...`) are kept as they appear in the scripts.
+Paths below are relative to the `Hunyuan3D-2.1` repository. 
 
 ### 1. Dataset layout after preprocessing
 
@@ -34,7 +38,7 @@ Every 3D object (ABO dataset, ~7.9k objects) is stored under `dataset/preprocess
 4. **Condition rendering** (`render/`, Blender 4.x, `--geo_mode`, 512 px):
    - `pipeline_render.sh`: one Blender call per object, 12 views, with a dataset-size guard (650 GB);
    - `batch_render_blender.py` / `partially_render.py` (started by `start_render_part.sh`): a single Blender session renders a whole list. The list is sharded across GPUs with `SHARD_ID/NUM_SHARDS`, and `.done/.lock` flags make reruns resumable. Rendered UUIDs are logged to `rendered_uuids_*_shard*.txt`;
-   - `fix_renders.sh`: replaces the old renders with the final set of **20 views per object** (`00000.png…`, plus the camera json) from `renders19.zip`;
+   - `fix_renders.sh`: added fix to replace the old renders with the final set of **20 views per object** (`00000.png…`, plus the camera json) from `renders19.zip`;
    - `renders_move.sh`: packs every `render_cond/*.png` into `render_conds.zip` for transfer.
 5. **Integrity check.** `check_preproc.sh` flags every `{UUID}` folder that is missing either `.npz` file (the delete step is commented out, so the script only reports).
 6. **Prompt language cleaning:**
@@ -42,8 +46,6 @@ Every 3D object (ABO dataset, ~7.9k objects) is stored under `dataset/preprocess
    - `data_move_lang.sh` reads that log and moves those folders to `dataset/non_eng_lang/`, which removes them from training;
    - `check_prompts.sh` is the prompt checker:
      - `scan` runs `check_and_fix_prompts.py --dataset … --create-plan translation_plan.json`;
-     - `translate` would call `auto_translate_prompts.py` with the Claude API (this script is not in the repository);
-     - `apply` writes the hand-filled `translated_prompt` fields back into the prompt JSONs.
    - Detection rules in `check_and_fix_prompts.py`: a prompt counts as non-English if
      1. it contains a non-Latin script (Indic, CJK, Arabic, Cyrillic, Greek, Thai, …), or
      2. more than 20 % of its alphabetic characters are non-ASCII, or
@@ -110,8 +112,8 @@ Config: `hy3dshape/configs/finetunung-flowmatching-with-text.yaml`.
 
 1. **Launch.** `hy3dshape/scripts/hunyan_geko_finetune.sbatch` (SLURM `gecko`, 2 GPUs, 16 CPU, 24 h, CUDA 12.6, env `hunyuan3D_torch28`) → `scripts/train_deepspeed_fine.sh` (NCCL setup, copies the config into `output_dir`) → `python3 main_finetune.py --deepspeed --fast` (DeepSpeed stage 1 when more than one GPU). Single-GPU variant: `train_finetune.sh`.
 2. **Model** (`hy3dshape.models.diffusion.flow_matching_stit.Diffuser`):
-   - Frozen **ShapeVAE** (`Hunyuan3D-2mini / hunyuan3d-vae-v2-mini-withencoder`): surface points → latents × `z_scale_factor = 1.00395`.
-   - Denoiser **Hunyuan3D-DiT v2-mini**, wrapped with **LoRA** (PEFT, r = α = 16, targets `qkv`, `mlp`, `proj`). Only the DiT parameters go to the optimiser.
+   - Frozen **ShapeVAE**: surface points → latents × `z_scale_factor = 1.00395`.
+   - Denoiser **Hunyuan3D-DiT**, wrapped with **LoRA** (PEFT, r = α = 16, targets `qkv`, `mlp`, `proj`). Only the DiT parameters go to the optimiser.
    - **EMA** (`LitEma`, decay 0.999) updated after every batch.
 3. **Objective:** linear-path optimal-transport **flow matching** with velocity prediction (`create_transport(path_type=Linear, prediction=velocity)`). The loss is computed on the VAE latents with `contexts` from the conditioner. Conditioning runs in bf16; the VAE encode runs in fp16 under `no_grad`.
 4. **Optimisation:**
@@ -121,3 +123,11 @@ Config: `hy3dshape/configs/finetunung-flowmatching-with-text.yaml`.
    - a checkpoint every 1,000 steps, validation every 100 steps on 16 batches.
 5. **Checkpoints** are written to `train_results/finetune_output_folder_1/dit_v2/ckpt/ckpt-step=XXXXXXXX.ckpt`, for example `CKPT00008000_dit_v2_mm_detailed`, which is evaluated in section 3.
 6. **Inference:** `Hunyuan3DDiTFlowMatchingPipelineInAlighnedSpace`, Euler ODE, 50 steps. Optional 3D prior: `experiments/text_demo_form_ckpt.py`, `exp_prior_init*.py`.
+
+### 7. Code in this repository
+
+The code for §2–§6 is in `training/` (overlay of the fork's changed `hy3dshape` files, launcher, config, SLURM jobs),
+`preprocessing/` (`hy3dshape/tools` scripts, train/val split) and `generation/` (test-prompt construction, batch
+generation). Only files that differ from upstream Hunyuan3D-2.1 are included. `training/setup_tree.sh` rebuilds a
+runnable tree from upstream. See [training/README.md](training/README.md) for the file list, how to build and run it, and the parts
+that are still missing.

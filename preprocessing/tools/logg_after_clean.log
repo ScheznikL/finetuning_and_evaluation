@@ -1,0 +1,16 @@
+Scanning prompts in: /dcs/large/u5745134/dataset/preprocessed
+================================================================================
+✗ B07VRWNVWN_prompt: Many non-ASCII characters (11 chars)
+✗ B07QNYVDH4_prompt: Many non-ASCII characters (14 chars)
+✗ B07VMLFZCD_prompt: Many non-ASCII characters (11 chars)
+✗ B07VMLFYTF_prompt: Many non-ASCII characters (11 chars)
+✗ B07S4CDHPS_prompt: Many non-ASCII characters (11 chars)
+✗ B07VNLBJDY_prompt: Many non-ASCII characters (11 chars)
+✗ B07QSBZLW4_prompt: Many non-ASCII characters (14 chars)
+✗ B07VPNYFJ8_prompt: Many non-ASCII characters (11 chars)
+
+================================================================================
+SUMMARY:
+  Total prompts:       7953
+  English prompts:     7945 (99.9%)
+  Non-English prompts: 8 (0.1%)

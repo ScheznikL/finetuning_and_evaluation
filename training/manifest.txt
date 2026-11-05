@@ -1,0 +1,82 @@
+# <path in the Hunyuan3D-2.1 fork>  <path in this repository>
+# Only files the fork added or changed relative to upstream Tencent-Hunyuan/Hunyuan3D-2.1 @ UPSTREAM_COMMIT
+# (files that differ only by mode bits / whitespace are left out).
+# Used by sync_from_fork.sh (fork -> repo) and setup_tree.sh (repo -> runnable tree).
+
+# --- training: launcher, config, cluster jobs ---
+hy3dshape/main.py                                       training/overlay/hy3dshape/main.py
+hy3dshape/main_finetune.py                              training/overlay/hy3dshape/main_finetune.py
+hy3dshape/train_finetune.sh                             training/overlay/hy3dshape/train_finetune.sh
+hy3dshape/configs/finetunung-flowmatching-with-text.yaml training/overlay/hy3dshape/configs/finetunung-flowmatching-with-text.yaml
+hy3dshape/scripts/hunyan_geko_finetune.sbatch           training/overlay/hy3dshape/scripts/hunyan_geko_finetune.sbatch
+hy3dshape/scripts/train_deepspeed_fine.sh               training/overlay/hy3dshape/scripts/train_deepspeed_fine.sh
+hy3dshape/scripts/interactive_part_selector.py          training/overlay/hy3dshape/scripts/interactive_part_selector.py
+hy3dshape/scripts/hun_test_prior_structure_underst.sbatch training/overlay/hy3dshape/scripts/hun_test_prior_structure_underst.sbatch
+
+# --- training: hy3dshape package (data, conditioner, text encoder, DiT, diffuser, pipelines) ---
+hy3dshape/hy3dshape/__init__.py                         training/overlay/hy3dshape/hy3dshape/__init__.py
+hy3dshape/hy3dshape/data/dit_astl.py                    training/overlay/hy3dshape/hy3dshape/data/dit_astl.py
+hy3dshape/hy3dshape/models/__init__.py                  training/overlay/hy3dshape/hy3dshape/models/__init__.py
+hy3dshape/hy3dshape/models/conditioner.py               training/overlay/hy3dshape/hy3dshape/models/conditioner.py
+hy3dshape/hy3dshape/models/text_encoder.py              training/overlay/hy3dshape/hy3dshape/models/text_encoder.py
+hy3dshape/hy3dshape/models/embedder.py                  training/overlay/hy3dshape/hy3dshape/models/embedder.py
+hy3dshape/hy3dshape/models/part_structure_encoder.py    training/overlay/hy3dshape/hy3dshape/models/part_structure_encoder.py
+hy3dshape/hy3dshape/models/autoencoders/attention_blocks.py training/overlay/hy3dshape/hy3dshape/models/autoencoders/attention_blocks.py
+hy3dshape/hy3dshape/models/autoencoders/model.py        training/overlay/hy3dshape/hy3dshape/models/autoencoders/model.py
+hy3dshape/hy3dshape/models/autoencoders/surface_extractors.py training/overlay/hy3dshape/hy3dshape/models/autoencoders/surface_extractors.py
+hy3dshape/hy3dshape/models/denoisers/hunyuan3ddit.py    training/overlay/hy3dshape/hy3dshape/models/denoisers/hunyuan3ddit.py
+hy3dshape/hy3dshape/models/diffusion/flow_matching_stit.py training/overlay/hy3dshape/hy3dshape/models/diffusion/flow_matching_stit.py
+hy3dshape/hy3dshape/pipelines.py                        training/overlay/hy3dshape/hy3dshape/pipelines.py
+hy3dshape/hy3dshape/multimodal_pipeline.py              training/overlay/hy3dshape/hy3dshape/multimodal_pipeline.py
+hy3dshape/hy3dshape/modified_pipeline.py                training/overlay/hy3dshape/hy3dshape/modified_pipeline.py
+hy3dshape/hy3dshape/preprocessors.py                    training/overlay/hy3dshape/hy3dshape/preprocessors.py
+hy3dshape/hy3dshape/rembg.py                            training/overlay/hy3dshape/hy3dshape/rembg.py
+hy3dshape/hy3dshape/utils/utils.py                      training/overlay/hy3dshape/hy3dshape/utils/utils.py
+
+# --- preprocessing (hy3dshape/tools) ---
+hy3dshape/tools/pipeline_preproc_recurs.sh              preprocessing/tools/pipeline_preproc_recurs.sh
+hy3dshape/tools/check_preproc.sh                        preprocessing/tools/check_preproc.sh
+hy3dshape/tools/check_prompts.sh                        preprocessing/tools/check_prompts.sh
+hy3dshape/tools/check_and_fix_prompts.py                preprocessing/tools/check_and_fix_prompts.py
+hy3dshape/tools/fix_prompts.sh                          preprocessing/tools/fix_prompts.sh
+hy3dshape/tools/data_move_lang.sh                       preprocessing/tools/data_move_lang.sh
+hy3dshape/tools/fix_renders.sh                          preprocessing/tools/fix_renders.sh
+hy3dshape/tools/renders_move.sh                         preprocessing/tools/renders_move.sh
+hy3dshape/tools/logg_after_clean.log                    preprocessing/tools/logg_after_clean.log
+hy3dshape/tools/render/__init__.py                      preprocessing/tools/render/__init__.py
+hy3dshape/tools/render/render.py                        preprocessing/tools/render/render.py
+hy3dshape/tools/render/batch_render.sh                  preprocessing/tools/render/batch_render.sh
+hy3dshape/tools/render/batch_render_blender.py          preprocessing/tools/render/batch_render_blender.py
+hy3dshape/tools/render/partially_render.py              preprocessing/tools/render/partially_render.py
+hy3dshape/tools/render/pipeline_render.sh               preprocessing/tools/render/pipeline_render.sh
+hy3dshape/tools/render/start_render_part.sh             preprocessing/tools/render/start_render_part.sh
+hy3dshape/tools/watertight/watertight_and_sample.py     preprocessing/tools/watertight/watertight_and_sample.py
+
+# --- generation: test prompt construction ---
+experiments/gen_prompts.py                              generation/prompts/gen_prompts.py
+experiments/design_templates.py                         generation/prompts/design_templates.py
+experiments/convert_in_prompts.py                       generation/prompts/convert_in_prompts.py
+experiments/analyze_token_counts.py                     generation/prompts/analyze_token_counts.py
+
+# --- generation: 100-prompt batch runs, prior experiments, cluster jobs ---
+experiments/__init__.py                                 generation/batch/__init__.py
+experiments/custom_utils.py                             generation/batch/custom_utils.py
+experiments/pipe_utils.py                               generation/batch/pipe_utils.py
+experiments/cover_caption.py                            generation/batch/cover_caption.py
+experiments/text_demo_form_ckpt.py                      generation/batch/text_demo_form_ckpt.py
+experiments/exp_prior_init.py                           generation/batch/exp_prior_init.py
+experiments/exp_prior_init_img.py                       generation/batch/exp_prior_init_img.py
+experiments/utils_fantasia3d/__init__.py                generation/batch/utils_fantasia3d/__init__.py
+experiments/utils_fantasia3d/norm_mesh.py               generation/batch/utils_fantasia3d/norm_mesh.py
+experiments/utils_fantasia3d/process_canny.py           generation/batch/utils_fantasia3d/process_canny.py
+experiments/utils_fantasia3d/render_normals.py          generation/batch/utils_fantasia3d/render_normals.py
+experiments/100/__init__.py                             generation/batch/100/__init__.py
+experiments/100/generate_batch_from_text_initial_model.py generation/batch/100/generate_batch_from_text_initial_model.py
+experiments/100/gen_from_prompt_100_with_ControlNet.py  generation/batch/100/gen_from_prompt_100_with_ControlNet.py
+experiments/100/generate_single_entry.py                generation/batch/100/generate_single_entry.py
+experiments/100/test_gen_100_from_ckpt_with_zip_data.py generation/batch/100/test_gen_100_from_ckpt_with_zip_data.py
+experiments/100/test_gen_100_mm.py                      generation/batch/100/test_gen_100_mm.py
+batchcompute_scripts/gpu/hunyan_f_gpu_100.sbatch        generation/slurm/hunyan_f_gpu_100.sbatch
+batchcompute_scripts/gpu/generete_image_set.sbatch      generation/slurm/generete_image_set.sbatch
+batchcompute_scripts/gpu/hunyan_fg_gpu_one_model.sbatch generation/slurm/hunyan_fg_gpu_one_model.sbatch
+batchcompute_scripts/gpu/hunyan_generate_one_example.sbatch generation/slurm/hunyan_generate_one_example.sbatch

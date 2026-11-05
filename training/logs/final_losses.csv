@@ -1,0 +1,8 @@
+job,output_dir,n_total,n_train,n_val,epoch,max_epoch,batch_in_epoch,train/simple,val/simple,load_failures
+finetune-hun_gecko1237100.out,${TRAIN_RESULTS_DIR}/finetune_output_folder_1/dit/,7953,6362,1591,,,,1.407,1.408,338/17000
+finetune-hun_gecko1237530.out,${TRAIN_RESULTS_DIR}/finetune_output_folder_1/dit/,7953,6362,1591,,,,1.420,1.464,418/19000
+finetune-hun_gecko1239021.out,${TRAIN_RESULTS_DIR}/finetune_output_folder_1/dit/,7953,6362,1591,,,,1.569,1.412,378/17000
+finetune-hun_gecko1242732.out,${TRAIN_RESULTS_DIR}/finetune_output_folder_1/dit/,7953,6362,1591,,,,1.416,1.423,825/43000
+finetune-hun_gecko1248643.out,${TRAIN_RESULTS_DIR}/finetune_output_folder_1/dit/,,,,,,,,,
+finetune-hun_gecko1248738.out,${TRAIN_RESULTS_DIR}/finetune_output_folder_1/dit_v2/,,,,,,,,,
+finetune-hun_gecko1248852.out,${TRAIN_RESULTS_DIR}/finetune_output_folder_1/dit_v2/,7473,5978,1495,4,4,17544,1.283,1.358,107/5000

@@ -44,20 +44,20 @@ The `dimensions` field of `in_prompts_MM.json` is the ground truth for every siz
 Each run generates one model per prompt (100 models). The run name is the output folder name and the
 key used in every table and in `seeds/`.
 
-| Run | Model | Prompt style | Unit | Condition | Article |
-|---|---|---|---|---|---|
-| `batch_generation_results` | INIT | detailed | cm | T2I image (generated in this run) | TODO(table №) |
-| `batch_generation_results_with_img` | INIT | detailed | cm | image condition, seeds of `batch_generation_results` | TODO(table №) |
-| `batch_generation_results_with_realimg_less_alpa` | INIT | detailed | cm | real image, lower prior α | T2I time reference only |
+| Run | Model | Prompt style | Unit | Condition | 
+|---|---|---|---|---|
+| `batch_generation_results` | INIT | detailed | cm | T2I image (generated in this run) |
+| `batch_generation_results_with_img` | INIT | detailed | cm | image condition, seeds of `batch_generation_results` |
+| `batch_generation_results_with_realimg_less_alpa` | INIT | detailed | cm | real image, lower prior α |
 | `batch_INIT_mm_detailed_100_res` | INIT | detailed | mm | image of `batch_generation_results` | 2×2 analyses A, B |
 | `batch_INIT_mm_trained_100_res` | INIT | training | mm | image of `batch_generation_results` | 2×2 analysis A |
-| `batch_CKPT00008000_dit_v2_mm_detailed_100_res` | CKPT8000 | detailed | mm | image of `batch_generation_results` | 2×2 analyses A, B |
-| `batch_CKPT00008000_dit_v2_mm_trained_100_res` | CKPT8000 | training | mm | image of `batch_generation_results` | 2×2 analysis A |
-| `batch_CKPT00008000_dit_v2_cm_detailed_100_res` | CKPT8000 | detailed | cm | image of `batch_generation_results` | 2×2 analysis B |
-| `gen_review_results_with_control_net_normals_al_5` | INIT | short | mm | ControlNet, normal renders of the prior, α = 0.5 | TODO(table №) |
-| `gen_review_results_with_control_net_depth_al_7` | INIT | short | mm | ControlNet, depth renders of the prior, α = 0.7 | TODO(table №) |
+| `batch_CKPT00008000_dit_v2_mm_detailed_100_res` | CKPT8000 | detailed | mm | image of `batch_generation_results` |
+| `batch_CKPT00008000_dit_v2_mm_trained_100_res` | CKPT8000 | training | mm | image of `batch_generation_results` | 
+| `batch_CKPT00008000_dit_v2_cm_detailed_100_res` | CKPT8000 | detailed | cm | image of `batch_generation_results` | 
+| `*gen_review_results_with_control_net_normals_al_5` | INIT | detailed | mm | ControlNet, normal renders of the prior, α = 0.5 | 
+| `*gen_review_results_with_control_net_depth_al_7` | INIT | detailed | mm | ControlNet, depth renders of the prior, α = 0.7 | 
 
-- **INIT** = `tencent/Hunyuan3D-2mini`, subfolder `hunyuan3d-dit-v2-mini`, no fine-tuning.
+- **INIT** = `tencent/Hunyuan3D-2`.
 - **CKPT8000** = the LoRA fine-tuned DiT after 8,000 steps (`dit_v2/ckpt/ckpt-step=00008000.ckpt`, README §5).
 - In the INIT/CKPT8000 cells (the 2×2 analyses) the condition image is not regenerated: every cell loads
   the same image per `uuid` from `batch_generation_results/100_test_images/`. Model, prompt style and
@@ -210,3 +210,10 @@ with a README describing the expected layout:
 - Models are downloaded from Hugging Face (`HF_HOME` sets the cache).
 - The article runs used one GPU per job on a SLURM cluster (CUDA 13.0.2 for evaluation); generation
   environment as in README §5.
+
+## 11. Generation and training code
+
+The generation scripts referenced in §3 (`Hunyuan3D-2.1/experiments/100/…`, `batchcompute_scripts/gpu/…`) are
+included in [`generation/`](generation/); the fine-tuning code (README §5) is in [`training/`](training/). Build a
+runnable tree with `bash training/setup_tree.sh` ([training/README.md](training/README.md)).
+`evaluation/slurm/seq_slurm.sh` runs §3 generation followed by §6 evaluation on that tree.

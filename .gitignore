@@ -10,3 +10,9 @@ evaluation/data/**
 *.zip
 *.xlsx
 _renders/
+
+# rebuilt upstream tree and local path settings
+build/
+training/paths.env
+
+.vscode/*
